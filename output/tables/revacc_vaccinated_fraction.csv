@@ -1,0 +1,385 @@
+"strategy","revacc","redose_V","shape","k","D","f_bar","label","R0","Rv_bar"
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 25th pct (2.0)",1.99157647802648,1.53442717083423
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 75th pct (4.1)",4.12642819800479,3.17924198009678
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 90th pct (9.1)",9.1455004281937,7.04622920722702
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 median (2.8)",2.80808526201542,2.16351336320529
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 25th pct (2.0)",1.99157647802648,1.19677027905045
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 75th pct (4.1)",4.12642819800479,2.47963695117621
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 90th pct (9.1)",9.1455004281937,5.49567803208401
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 median (2.8)",2.80808526201542,1.68742351584199
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 25th pct (2.0)",1.99157647802648,0.986242247975737
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 75th pct (4.1)",4.12642819800479,2.04343537243595
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 90th pct (9.1)",9.1455004281937,4.52891415453085
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 median (2.8)",2.80808526201542,1.39058296373432
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 25th pct (2.0)",1.99157647802648,0.847660438355411
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 75th pct (4.1)",4.12642819800479,1.75630209221439
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 90th pct (9.1)",9.1455004281937,3.89253387327825
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 median (2.8)",2.80808526201542,1.19518522657894
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 25th pct (2.0)",1.99157647802648,0.750575206489547
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 75th pct (4.1)",4.12642819800479,1.5551472569363
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 90th pct (9.1)",9.1455004281937,3.44670965342184
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 median (2.8)",2.80808526201542,1.05829688120541
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 25th pct (2.0)",1.99157647802648,0.679074603110981
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 75th pct (4.1)",4.12642819800479,1.40700225260885
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 90th pct (9.1)",9.1455004281937,3.11837237587839
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 median (2.8)",2.80808526201542,0.957482379333244
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 25th pct (2.0)",1.99157647802648,0.58111381961085
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 75th pct (4.1)",4.12642819800479,1.20403332633687
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 90th pct (9.1)",9.1455004281937,2.66852754323886
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 median (2.8)",2.80808526201542,0.819359522673083
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 25th pct (2.0)",1.99157647802648,0.517297970960537
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 75th pct (4.1)",4.12642819800479,1.07181067746766
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 90th pct (9.1)",9.1455004281937,2.3754793587497
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 median (2.8)",2.80808526201542,0.729380379991339
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 25th pct (2.0)",1.99157647802648,0.472479071967746
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 75th pct (4.1)",4.12642819800479,0.978948580205575
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 90th pct (9.1)",9.1455004281937,2.16966689588314
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 median (2.8)",2.80808526201542,0.666186577940548
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 25th pct (2.0)",1.99157647802648,0.413735580737369
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 75th pct (4.1)",4.12642819800479,0.857235554702041
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 90th pct (9.1)",9.1455004281937,1.8999114382703
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 median (2.8)",2.80808526201542,0.583359363528569
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 25th pct (2.0)",1.99157647802648,0.376966225856537
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 75th pct (4.1)",4.12642819800479,0.781051634839189
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 90th pct (9.1)",9.1455004281937,1.73106321450523
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 median (2.8)",2.80808526201542,0.531515266817307
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 25th pct (2.0)",1.99157647802648,0.333478307489331
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 75th pct (4.1)",4.12642819800479,0.690947250396572
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 90th pct (9.1)",9.1455004281937,1.53136273579569
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 median (2.8)",2.80808526201542,0.470198122339033
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 25th pct (2.0)",1.99157647802648,0.299797686754022
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 75th pct (4.1)",4.12642819800479,0.621163004266991
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 90th pct (9.1)",9.1455004281937,1.37669826031352
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 median (2.8)",2.80808526201542,0.422709082502575
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 25th pct (2.0)",1.99157647802648,0.272949622990601
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 75th pct (4.1)",4.12642819800479,0.56553541044996
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 90th pct (9.1)",9.1455004281937,1.25340950823514
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 median (2.8)",2.80808526201542,0.384853819097164
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 25th pct (2.0)",1.99157647802648,0.25930667638473
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 75th pct (4.1)",4.12642819800479,0.537268035232653
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 90th pct (9.1)",9.1455004281937,1.19075985586053
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 median (2.8)",2.80808526201542,0.36561752176332
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,Inf,1,"R0 25th pct (2.0)",1.99157647802648,0.217480151400492
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,Inf,1,"R0 75th pct (4.1)",4.12642819800479,0.450605959222123
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,Inf,1,"R0 90th pct (9.1)",9.1455004281937,0.998688646758753
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,Inf,1,"R0 median (2.8)",2.80808526201542,0.306642910612084
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.27528492424971,"R0 25th pct (2.0)",1.99157647802648,1.50319450513956
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.27528492424971,"R0 75th pct (4.1)",4.12642819800479,3.1145297514461
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.27528492424971,"R0 90th pct (9.1)",9.1455004281937,6.90280596406474
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.27528492424971,"R0 median (2.8)",2.80808526201542,2.11947589379434
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.538854720372306,"R0 25th pct (2.0)",1.99157647802648,1.0355962980289
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.538854720372306,"R0 75th pct (4.1)",4.12642819800479,2.14569403338725
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.538854720372306,"R0 90th pct (9.1)",9.1455004281937,4.75555244378276
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.538854720372306,"R0 median (2.8)",2.80808526201542,1.46017124322253
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.765437289511023,"R0 25th pct (2.0)",1.99157647802648,0.633616994442421
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.765437289511023,"R0 75th pct (4.1)",4.12642819800479,1.31281678682665
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.765437289511023,"R0 90th pct (9.1)",9.1455004281937,2.90962690005567
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.765437289511023,"R0 median (2.8)",2.80808526201542,0.893388008689171
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1,0.916785084766002,"R0 25th pct (2.0)",1.99157647802648,0.365111426837621
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1,0.916785084766002,"R0 75th pct (4.1)",4.12642819800479,0.756489195237669
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1,0.916785084766002,"R0 90th pct (9.1)",9.1455004281937,1.6766248985782
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1,0.916785084766002,"R0 median (2.8)",2.80808526201542,0.514800223846846
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.977674137081632,"R0 25th pct (2.0)",1.99157647802648,0.257088382792723
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.977674137081632,"R0 75th pct (4.1)",4.12642819800479,0.532671862637473
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.977674137081632,"R0 90th pct (9.1)",9.1455004281937,1.18057324981281
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.977674137081632,"R0 median (2.8)",2.80808526201542,0.362489769647715
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.994704111057061,"R0 25th pct (2.0)",1.99157647802648,0.226875568520378
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.994704111057061,"R0 75th pct (4.1)",4.12642819800479,0.4700727055727
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.994704111057061,"R0 90th pct (9.1)",9.1455004281937,1.04183325719226
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.994704111057061,"R0 median (2.8)",2.80808526201542,0.319890271502279
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2,0.999706998057861,"R0 25th pct (2.0)",1.99157647802648,0.217999965069735
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2,0.999706998057861,"R0 75th pct (4.1)",4.12642819800479,0.451682982277044
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2,0.999706998057861,"R0 90th pct (9.1)",9.1455004281937,1.00107567843295
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2,0.999706998057861,"R0 median (2.8)",2.80808526201542,0.307375838079194
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.999980381194,"R0 25th pct (2.0)",1.99157647802648,0.21751495705215
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.999980381194,"R0 75th pct (4.1)",4.12642819800479,0.450678074465518
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.999980381194,"R0 90th pct (9.1)",9.1455004281937,0.998848477478615
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.999980381194,"R0 median (2.8)",2.80808526201542,0.306691985924297
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,3,0.999998321066118,"R0 25th pct (2.0)",1.99157647802648,0.217483129990924
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,3,0.999998321066118,"R0 75th pct (4.1)",4.12642819800479,0.450612130684624
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,3,0.999998321066118,"R0 90th pct (9.1)",9.1455004281937,0.998702324717082
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,3,0.999998321066118,"R0 median (2.8)",2.80808526201542,0.306647110368401
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,4,0.999999976132517,"R0 25th pct (2.0)",1.99157647802648,0.217480193743705
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,4,0.999999976132517,"R0 75th pct (4.1)",4.12642819800479,0.450606046954748
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,4,0.999999976132517,"R0 90th pct (9.1)",9.1455004281937,0.998688841202644
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,4,0.999999976132517,"R0 median (2.8)",2.80808526201542,0.306642970315217
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,5,0.999999999318149,"R0 25th pct (2.0)",1.99157647802648,0.21748015261016
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,5,0.999999999318149,"R0 75th pct (4.1)",4.12642819800479,0.450605961728485
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,5,0.999999999318149,"R0 90th pct (9.1)",9.1455004281937,0.998688652313661
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,5,0.999999999318149,"R0 median (2.8)",2.80808526201542,0.306642912317694
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,7,0.999999999997686,"R0 25th pct (2.0)",1.99157647802648,0.217480151404596
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,7,0.999999999997686,"R0 75th pct (4.1)",4.12642819800479,0.450605959230628
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,7,0.999999999997686,"R0 90th pct (9.1)",9.1455004281937,0.998688646777601
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,7,0.999999999997686,"R0 median (2.8)",2.80808526201542,0.306642910617871
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,10,0.999999999999996,"R0 25th pct (2.0)",1.99157647802648,0.217480151400499
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,10,0.999999999999996,"R0 75th pct (4.1)",4.12642819800479,0.450605959222138
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,10,0.999999999999996,"R0 90th pct (9.1)",9.1455004281937,0.998688646758786
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,10,0.999999999999996,"R0 median (2.8)",2.80808526201542,0.306642910612094
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,15,1,"R0 25th pct (2.0)",1.99157647802648,0.21748015140049
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,15,1,"R0 75th pct (4.1)",4.12642819800479,0.450605959222121
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,15,1,"R0 90th pct (9.1)",9.1455004281937,0.998688646758747
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,15,1,"R0 median (2.8)",2.80808526201542,0.306642910612082
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,20,1,"R0 25th pct (2.0)",1.99157647802648,0.217480151400489
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,20,1,"R0 75th pct (4.1)",4.12642819800479,0.450605959222118
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,20,1,"R0 90th pct (9.1)",9.1455004281937,0.998688646758741
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,20,1,"R0 median (2.8)",2.80808526201542,0.30664291061208
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 25th pct (2.0)",1.99157647802648,0.217480151400492
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 75th pct (4.1)",4.12642819800479,0.450605959222123
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 90th pct (9.1)",9.1455004281937,0.998688646758753
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 median (2.8)",2.80808526201542,0.306642910612084
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 25th pct (2.0)",1.99157647802648,1.53442717083423
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 75th pct (4.1)",4.12642819800479,3.17924198009678
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 90th pct (9.1)",9.1455004281937,7.04622920722702
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.25,0.257680093426305,"R0 median (2.8)",2.80808526201542,2.16351336320529
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 25th pct (2.0)",1.99157647802648,1.19677027905045
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 75th pct (4.1)",4.12642819800479,2.47963695117621
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 90th pct (9.1)",9.1455004281937,5.49567803208401
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.5,0.448006225506149,"R0 median (2.8)",2.80808526201542,1.68742351584199
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 25th pct (2.0)",1.99157647802648,0.986242247975737
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 75th pct (4.1)",4.12642819800479,2.04343537243595
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 90th pct (9.1)",9.1455004281937,4.52891415453085
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.75,0.566673982107109,"R0 median (2.8)",2.80808526201542,1.39058296373432
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 25th pct (2.0)",1.99157647802648,0.847660438355411
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 75th pct (4.1)",4.12642819800479,1.75630209221439
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 90th pct (9.1)",9.1455004281937,3.89253387327825
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1,0.644788009818267,"R0 median (2.8)",2.80808526201542,1.19518522657894
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 25th pct (2.0)",1.99157647802648,0.750575206489547
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 75th pct (4.1)",4.12642819800479,1.5551472569363
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 90th pct (9.1)",9.1455004281937,3.44670965342184
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.25,0.699511775607525,"R0 median (2.8)",2.80808526201542,1.05829688120541
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 25th pct (2.0)",1.99157647802648,0.679074603110981
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 75th pct (4.1)",4.12642819800479,1.40700225260885
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 90th pct (9.1)",9.1455004281937,3.11837237587839
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.5,0.739814324181394,"R0 median (2.8)",2.80808526201542,0.957482379333244
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 25th pct (2.0)",1.99157647802648,0.58111381961085
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 75th pct (4.1)",4.12642819800479,1.20403332633687
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 90th pct (9.1)",9.1455004281937,2.66852754323886
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2,0.795031609753725,"R0 median (2.8)",2.80808526201542,0.819359522673083
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 25th pct (2.0)",1.99157647802648,0.517297970960537
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 75th pct (4.1)",4.12642819800479,1.07181067746766
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 90th pct (9.1)",9.1455004281937,2.3754793587497
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2.5,0.831002513752878,"R0 median (2.8)",2.80808526201542,0.729380379991339
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 25th pct (2.0)",1.99157647802648,0.472479071967746
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 75th pct (4.1)",4.12642819800479,0.978948580205575
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 90th pct (9.1)",9.1455004281937,2.16966689588314
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,3,0.856265459355177,"R0 median (2.8)",2.80808526201542,0.666186577940548
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 25th pct (2.0)",1.99157647802648,0.413735580737369
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 75th pct (4.1)",4.12642819800479,0.857235554702041
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 90th pct (9.1)",9.1455004281937,1.8999114382703
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,4,0.889377241589739,"R0 median (2.8)",2.80808526201542,0.583359363528569
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 25th pct (2.0)",1.99157647802648,0.376966225856537
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 75th pct (4.1)",4.12642819800479,0.781051634839189
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 90th pct (9.1)",9.1455004281937,1.73106321450523
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,5,0.9101029227881,"R0 median (2.8)",2.80808526201542,0.531515266817307
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 25th pct (2.0)",1.99157647802648,0.333478307489331
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 75th pct (4.1)",4.12642819800479,0.690947250396572
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 90th pct (9.1)",9.1455004281937,1.53136273579569
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,7,0.93461563819962,"R0 median (2.8)",2.80808526201542,0.470198122339033
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 25th pct (2.0)",1.99157647802648,0.299797686754022
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 75th pct (4.1)",4.12642819800479,0.621163004266991
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 90th pct (9.1)",9.1455004281937,1.37669826031352
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,10,0.953600301112126,"R0 median (2.8)",2.80808526201542,0.422709082502575
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 25th pct (2.0)",1.99157647802648,0.272949622990601
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 75th pct (4.1)",4.12642819800479,0.56553541044996
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 90th pct (9.1)",9.1455004281937,1.25340950823514
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,15,0.968733675416824,"R0 median (2.8)",2.80808526201542,0.384853819097164
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 25th pct (2.0)",1.99157647802648,0.25930667638473
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 75th pct (4.1)",4.12642819800479,0.537268035232653
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 90th pct (9.1)",9.1455004281937,1.19075985586053
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,20,0.976423757630013,"R0 median (2.8)",2.80808526201542,0.36561752176332
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,Inf,1,"R0 25th pct (2.0)",1.99157647802648,0.217480151400492
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,Inf,1,"R0 75th pct (4.1)",4.12642819800479,0.450605959222123
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,Inf,1,"R0 90th pct (9.1)",9.1455004281937,0.998688646758753
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,Inf,1,"R0 median (2.8)",2.80808526201542,0.306642910612084
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.267965174891652,"R0 25th pct (2.0)",1.99157647802648,1.51618044558751
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.267965174891652,"R0 75th pct (4.1)",4.12642819800479,3.14143584891877
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.267965174891652,"R0 90th pct (9.1)",9.1455004281937,6.96243858437212
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.267965174891652,"R0 median (2.8)",2.80808526201542,2.13778582484024
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.512030772673168,"R0 25th pct (2.0)",1.99157647802648,1.08318456510755
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.512030772673168,"R0 75th pct (4.1)",4.12642819800479,2.24429409687169
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.512030772673168,"R0 90th pct (9.1)",9.1455004281937,4.97408209692269
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.512030772673168,"R0 median (2.8)",2.80808526201542,1.52726980202898
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.685203826167782,"R0 25th pct (2.0)",1.99157647802648,0.775958887032145
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.685203826167782,"R0 75th pct (4.1)",4.12642819800479,1.60774073567828
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.685203826167782,"R0 90th pct (9.1)",9.1455004281937,3.56327382448571
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.685203826167782,"R0 median (2.8)",2.80808526201542,1.09408739189572
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.711997796611522,"R0 25th pct (2.0)",1.99157647802648,0.728423802492181
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.711997796611522,"R0 75th pct (4.1)",4.12642819800479,1.5092508632559
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.711997796611522,"R0 90th pct (9.1)",9.1455004281937,3.34498839040323
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.711997796611522,"R0 median (2.8)",2.80808526201542,1.0270638194655
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.737890695203884,"R0 25th pct (2.0)",1.99157647802648,0.682487306213773
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.737890695203884,"R0 75th pct (4.1)",4.12642819800479,1.41407317078355
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.737890695203884,"R0 90th pct (9.1)",9.1455004281937,3.13404381909548
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.737890695203884,"R0 median (2.8)",2.80808526201542,0.962294226325975
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.784771991679127,"R0 25th pct (2.0)",1.99157647802648,0.59931537034958
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.784771991679127,"R0 75th pct (4.1)",4.12642819800479,1.24174585861689
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.784771991679127,"R0 90th pct (9.1)",9.1455004281937,2.75211072064202
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.784771991679127,"R0 median (2.8)",2.80808526201542,0.845023365834105
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.845633674757593,"R0 25th pct (2.0)",1.99157647802648,0.491340881967798
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.845633674757593,"R0 75th pct (4.1)",4.12642819800479,1.01802913046732
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.845633674757593,"R0 90th pct (9.1)",9.1455004281937,2.25628204390041
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.845633674757593,"R0 median (2.8)",2.80808526201542,0.692781374203942
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.878921940492604,"R0 25th pct (2.0)",1.99157647802648,0.432284292007567
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.878921940492604,"R0 75th pct (4.1)",4.12642819800479,0.895667382988062
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.878921940492604,"R0 90th pct (9.1)",9.1455004281937,1.98508880842689
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.878921940492604,"R0 median (2.8)",2.80808526201542,0.609512696489619
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.903525978641876,"R0 25th pct (2.0)",1.99157647802648,0.388634358306777
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.903525978641876,"R0 75th pct (4.1)",4.12642819800479,0.80522731239511
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.903525978641876,"R0 90th pct (9.1)",9.1455004281937,1.78464434056153
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.903525978641876,"R0 median (2.8)",2.80808526201542,0.547967113447486
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.935276565991401,"R0 25th pct (2.0)",1.99157647802648,0.332305757921766
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.935276565991401,"R0 75th pct (4.1)",4.12642819800479,0.688517797321312
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.935276565991401,"R0 90th pct (9.1)",9.1455004281937,1.52597828147493
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.935276565991401,"R0 median (2.8)",2.80808526201542,0.468544849569452
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.954434966082834,"R0 25th pct (2.0)",1.99157647802648,0.298316910695524
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.954434966082834,"R0 75th pct (4.1)",4.12642819800479,0.618094924205727
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.954434966082834,"R0 90th pct (9.1)",9.1455004281937,1.3698984018966
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.954434966082834,"R0 median (2.8)",2.80808526201542,0.420621216195612
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.975464119718876,"R0 25th pct (2.0)",1.99157647802648,0.261009166477768
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.975464119718876,"R0 75th pct (4.1)",4.12642819800479,0.540795493607587
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.975464119718876,"R0 90th pct (9.1)",9.1455004281937,1.19857784530089
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.975464119718876,"R0 median (2.8)",2.80808526201542,0.368018000676249
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.989154196273207,"R0 25th pct (2.0)",1.99157647802648,0.236721651951502
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.989154196273207,"R0 75th pct (4.1)",4.12642819800479,0.490473205758542
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.989154196273207,"R0 90th pct (9.1)",9.1455004281937,1.08704736833932
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.989154196273207,"R0 median (2.8)",2.80808526201542,0.333773063389293
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.996783150117852,"R0 25th pct (2.0)",1.99157647802648,0.223187152959717
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.996783150117852,"R0 75th pct (4.1)",4.12642819800479,0.462430527557747
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.996783150117852,"R0 90th pct (9.1)",9.1455004281937,1.02489571727774
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.996783150117852,"R0 median (2.8)",2.80808526201542,0.314689675145395
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.998949433864546,"R0 25th pct (2.0)",1.99157647802648,0.219343956922277
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.998949433864546,"R0 75th pct (4.1)",4.12642819800479,0.454467653586135
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.998949433864546,"R0 90th pct (9.1)",9.1455004281937,1.00724741132824
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.998949433864546,"R0 median (2.8)",2.80808526201542,0.309270841236257
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 25th pct (2.0)",1.99157647802648,0.217480151400492
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 75th pct (4.1)",4.12642819800479,0.450605959222123
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 90th pct (9.1)",9.1455004281937,0.998688646758753
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,1,"R0 median (2.8)",2.80808526201542,0.306642910612084
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.25,0.0639315557986421,"R0 25th pct (2.0)",1.99157647802648,1.87815573972862
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.25,0.0639315557986421,"R0 75th pct (4.1)",4.12642819800479,3.89142716344017
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.25,0.0639315557986421,"R0 90th pct (9.1)",9.1455004281937,8.62466207620786
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.25,0.0639315557986421,"R0 median (2.8)",2.80808526201542,2.64816416074959
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.5,0.120179828204554,"R0 25th pct (2.0)",1.99157647802648,1.77836588627424
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.5,0.120179828204554,"R0 75th pct (4.1)",4.12642819800479,3.68466851283741
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.5,0.120179828204554,"R0 90th pct (9.1)",9.1455004281937,8.16641798788602
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.5,0.120179828204554,"R0 median (2.8)",2.80808526201542,2.50746234996017
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.75,0.170051370085423,"R0 25th pct (2.0)",1.99157647802648,1.68988896702021
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.75,0.170051370085423,"R0 75th pct (4.1)",4.12642819800479,3.50134959010933
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.75,0.170051370085423,"R0 90th pct (9.1)",9.1455004281937,7.76012392293263
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.75,0.170051370085423,"R0 median (2.8)",2.80808526201542,2.38271156296958
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1,0.214572384145107,"R0 25th pct (2.0)",1.99157647802648,1.61090439951927
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1,0.214572384145107,"R0 75th pct (4.1)",4.12642819800479,3.33769825653559
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1,0.214572384145107,"R0 90th pct (9.1)",9.1455004281937,7.39741960106976
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1,0.214572384145107,"R0 median (2.8)",2.80808526201542,2.27134481287326
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.25,0.25456008888625,"R0 25th pct (2.0)",1.99157647802648,1.5399623594278
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.25,0.25456008888625,"R0 75th pct (4.1)",4.12642819800479,3.19071056217022
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.25,0.25456008888625,"R0 90th pct (9.1)",9.1455004281937,7.07164729697207
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.25,0.25456008888625,"R0 median (2.8)",2.80808526201542,2.17131787469836
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.5,0.290673340389921,"R0 25th pct (2.0)",1.99157647802648,1.47589397259262
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.5,0.290673340389921,"R0 75th pct (4.1)",4.12642819800479,3.05796466917828
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.5,0.290673340389921,"R0 90th pct (9.1)",9.1455004281937,6.77743943415605
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.5,0.290673340389921,"R0 median (2.8)",2.80808526201542,2.0809826579402
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2,0.353329924044617,"R0 25th pct (2.0)",1.99157647802648,1.36473515769189
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2,0.353329924044617,"R0 75th pct (4.1)",4.12642819800479,2.8276502055742
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2,0.353329924044617,"R0 90th pct (9.1)",9.1455004281937,6.2669880402535
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2,0.353329924044617,"R0 median (2.8)",2.80808526201542,1.92425082599209
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2.5,0.405815696731277,"R0 25th pct (2.0)",1.99157647802648,1.27162034116836
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2.5,0.405815696731277,"R0 75th pct (4.1)",4.12642819800479,2.63472183511288
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2.5,0.405815696731277,"R0 90th pct (9.1)",9.1455004281937,5.83939632897211
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2.5,0.405815696731277,"R0 median (2.8)",2.80808526201542,1.79296069134755
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,3,0.450421227998064,"R0 25th pct (2.0)",1.99157647802648,1.19248583200075
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,3,0.450421227998064,"R0 75th pct (4.1)",4.12642819800479,2.47075983130971
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,3,0.450421227998064,"R0 90th pct (9.1)",9.1455004281937,5.47600346133068
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,3,0.450421227998064,"R0 median (2.8)",2.80808526201542,1.68138252632997
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,4,0.522163661504246,"R0 25th pct (2.0)",1.99157647802648,1.06520784425422
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,4,0.522163661504246,"R0 75th pct (4.1)",4.12642819800479,2.2070473987633
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,4,0.522163661504246,"R0 90th pct (9.1)",9.1455004281937,4.8915313588137
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,4,0.522163661504246,"R0 median (2.8)",2.80808526201542,1.50192296476486
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,5,0.577337908145528,"R0 25th pct (2.0)",1.99157647802648,0.967323415963566
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,5,0.577337908145528,"R0 75th pct (4.1)",4.12642819800479,2.00423667595119
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,5,0.577337908145528,"R0 90th pct (9.1)",9.1455004281937,4.4420371562447
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,5,0.577337908145528,"R0 median (2.8)",2.80808526201542,1.36390776750959
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,7,0.656630744597988,"R0 25th pct (2.0)",1.99157647802648,0.826650286085502
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,7,0.656630744597988,"R0 75th pct (4.1)",4.12642819800479,1.71277030434308
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,7,0.656630744597988,"R0 90th pct (9.1)",9.1455004281937,3.79605334205041
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,7,0.656630744597988,"R0 median (2.8)",2.80808526201542,1.16556130824451
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,10,0.732029200107281,"R0 25th pct (2.0)",1.99157647802648,0.692886163133191
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,10,0.732029200107281,"R0 75th pct (4.1)",4.12642819800479,1.43561898481216
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,10,0.732029200107281,"R0 90th pct (9.1)",9.1455004281937,3.1817963164053
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,10,0.732029200107281,"R0 median (2.8)",2.80808526201542,0.976956418403158
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,15,0.803804479657906,"R0 25th pct (2.0)",1.99157647802648,0.565549903339875
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,15,0.803804479657906,"R0 75th pct (4.1)",4.12642819800479,1.17178581604513
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,15,0.803804479657906,"R0 90th pct (9.1)",9.1455004281937,2.59705662334649
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,15,0.803804479657906,"R0 median (2.8)",2.80808526201542,0.797414694351413
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,20,0.845232186001054,"R0 25th pct (2.0)",1.99157647802648,0.492053161695956
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,20,0.845232186001054,"R0 75th pct (4.1)",4.12642819800479,1.01950493176723
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,20,0.845232186001054,"R0 90th pct (9.1)",9.1455004281937,2.2595528972323
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,20,0.845232186001054,"R0 median (2.8)",2.80808526201542,0.693785675183161
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,Inf,0.999684984231343,"R0 25th pct (2.0)",1.99157647802648,0.218039019718495
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,Inf,0.999684984231343,"R0 75th pct (4.1)",4.12642819800479,0.45176390119012
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,Inf,0.999684984231343,"R0 90th pct (9.1)",9.1455004281937,1.00125502093419
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,Inf,0.999684984231343,"R0 median (2.8)",2.80808526201542,0.307430904397162
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.0659091723081525,"R0 25th pct (2.0)",1.99157647802648,1.87464725754363
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.0659091723081525,"R0 75th pct (4.1)",4.12642819800479,3.88415779669472
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.0659091723081525,"R0 90th pct (9.1)",9.1455004281937,8.60855080672902
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.25,0.0659091723081525,"R0 median (2.8)",2.80808526201542,2.64321726705787
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.127272184214933,"R0 25th pct (2.0)",1.99157647802648,1.7657833635291
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.127272184214933,"R0 75th pct (4.1)",4.12642819800479,3.65859827288909
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.127272184214933,"R0 90th pct (9.1)",9.1455004281937,8.10863789838252
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,0.127272184214933,"R0 median (2.8)",2.80808526201542,2.48972123026458
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.184416463510428,"R0 25th pct (2.0)",1.99157647802648,1.66440390754327
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.184416463510428,"R0 75th pct (4.1)",4.12642819800479,3.4485460602355
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.184416463510428,"R0 90th pct (9.1)",9.1455004281937,7.64309421057638
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.75,0.184416463510428,"R0 median (2.8)",2.80808526201542,2.34677810989441
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.237644864615812,"R0 25th pct (2.0)",1.99157647802648,1.56997159667004
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.237644864615812,"R0 75th pct (4.1)",4.12642819800479,3.25288791971749
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.237644864615812,"R0 90th pct (9.1)",9.1455004281937,7.20945244534409
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,0.237644864615812,"R0 median (2.8)",2.80808526201542,2.21363033307192
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.28723758670078,"R0 25th pct (2.0)",1.99157647802648,1.48198933059171
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.28723758670078,"R0 75th pct (4.1)",4.12642819800479,3.0705938889958
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.28723758670078,"R0 90th pct (9.1)",9.1455004281937,6.80542987278884
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.25,0.28723758670078,"R0 median (2.8)",2.80808526201542,2.0895769977272
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.333453936348725,"R0 25th pct (2.0)",1.99157647802648,1.39999707445123
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.333453936348725,"R0 75th pct (4.1)",4.12642819800479,2.90071080316453
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.333453936348725,"R0 90th pct (9.1)",9.1455004281937,6.42891397098205
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,0.333453936348725,"R0 median (2.8)",2.80808526201542,1.97396946339057
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.416699872904215,"R0 25th pct (2.0)",1.99157647802648,1.2523107642016
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.416699872904215,"R0 75th pct (4.1)",4.12642819800479,2.59471353828556
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.416699872904215,"R0 90th pct (9.1)",9.1455004281937,5.75072499429519
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,0.416699872904215,"R0 median (2.8)",2.80808526201542,1.76573455210843
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.489097670068764,"R0 25th pct (2.0)",1.99157647802648,1.12387009819616
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.489097670068764,"R0 75th pct (4.1)",4.12642819800479,2.32859210542924
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.489097670068764,"R0 90th pct (9.1)",9.1455004281937,5.16091376740511
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2.5,0.489097670068764,"R0 median (2.8)",2.80808526201542,1.58463563613272
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.552119091638441,"R0 25th pct (2.0)",1.99157647802648,1.01206402569064
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.552119091638441,"R0 75th pct (4.1)",4.12642819800479,2.09693656250372
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.552119091638441,"R0 90th pct (9.1)",9.1455004281937,4.64749010767849
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,0.552119091638441,"R0 median (2.8)",2.80808526201542,1.42699118317268
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.654912899524177,"R0 25th pct (2.0)",1.99157647802648,0.829697908720663
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.654912899524177,"R0 75th pct (4.1)",4.12642819800479,1.71908479746818
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.654912899524177,"R0 90th pct (9.1)",9.1455004281937,3.81004830253642
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,4,0.654912899524177,"R0 median (2.8)",2.80808526201542,1.16985839866529
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.733220717732064,"R0 25th pct (2.0)",1.99157647802648,0.690772296091954
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.733220717732064,"R0 75th pct (4.1)",4.12642819800479,1.43123917782908
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.733220717732064,"R0 90th pct (9.1)",9.1455004281937,3.17208924658193
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,0.733220717732064,"R0 median (2.8)",2.80808526201542,0.973975905754083
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.839000798084741,"R0 25th pct (2.0)",1.99157647802648,0.503108244108068
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.839000798084741,"R0 75th pct (4.1)",4.12642819800479,1.04241040604849
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.839000798084741,"R0 90th pct (9.1)",9.1455004281937,2.31031884172361
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,7,0.839000798084741,"R0 median (2.8)",2.80808526201542,0.70937313282505
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.92275359121406,"R0 25th pct (2.0)",1.99157647802648,0.354522721472677
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.92275359121406,"R0 75th pct (4.1)",4.12642819800479,0.734550026503578
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.92275359121406,"R0 90th pct (9.1)",9.1455004281937,1.62800059992959
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,0.92275359121406,"R0 median (2.8)",2.80808526201542,0.499870349043049
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.975955007580852,"R0 25th pct (2.0)",1.99157647802648,0.260138284125053
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.975955007580852,"R0 75th pct (4.1)",4.12642819800479,0.53899107708779
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.975955007580852,"R0 90th pct (9.1)",9.1455004281937,1.19457867428359
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,15,0.975955007580852,"R0 median (2.8)",2.80808526201542,0.366790072988514
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.992014457920812,"R0 25th pct (2.0)",1.99157647802648,0.231647272269297
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.992014457920812,"R0 75th pct (4.1)",4.12642819800479,0.479959392385538
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.992014457920812,"R0 90th pct (9.1)",9.1455004281937,1.06374535505063
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,20,0.992014457920812,"R0 median (2.8)",2.80808526201542,0.326618283767879
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,0.999684984231343,"R0 25th pct (2.0)",1.99157647802648,0.218039019718495
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,0.999684984231343,"R0 75th pct (4.1)",4.12642819800479,0.45176390119012
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,0.999684984231343,"R0 90th pct (9.1)",9.1455004281937,1.00125502093419
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,0.999684984231343,"R0 median (2.8)",2.80808526201542,0.307430904397162

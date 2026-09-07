@@ -1,0 +1,49 @@
+"strategy","revacc","redose_V","shape","k","D","median_T","q25","q75","share_eliminated_50y","share_eliminated_200y"
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,0.5,Inf,Inf,Inf,0,0.00333333333333333
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,0.5,182.591780821918,94.1123287671233,Inf,0.1,0.526666666666667
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,0.5,197.304109589041,103.317808219178,Inf,0.1,0.506666666666667
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,Inf,Inf,Inf,0,0.00333333333333333
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,0.5,100.646575342466,55.4616438356164,178.091780821918,0.21,0.8
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,0.5,74.5506849315069,48.2493150684931,136.995890410959,0.28,0.876666666666667
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1,Inf,Inf,Inf,0.00333333333333333,0.0466666666666667
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1,47.0986301369863,32.8794520547945,74.7767123287671,0.55,0.993333333333333
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1,44.1808219178082,31.7082191780822,67.7287671232877,0.576666666666667,0.996666666666667
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,Inf,Inf,Inf,0.0166666666666667,0.0766666666666667
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1,35.5917808219178,26.2013698630137,50.6123287671233,0.743333333333333,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1,24.2082191780822,19.7698630136986,29.8794520547945,0.993333333333333,1
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,1.5,Inf,Inf,Inf,0.02,0.16
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,1.5,33.4958904109589,24.4753424657534,44.9821917808219,0.813333333333333,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,1.5,34.3178082191781,25.7904109589041,45.5575342465753,0.81,1
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,Inf,195.619178082192,Inf,0.08,0.263333333333333
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,1.5,29.3041095890411,23.3041095890411,39.9068493150685,0.883333333333333,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,1.5,21.3315068493151,18.0849315068493,26.4684931506849,0.99,1
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,2,Inf,132.701369863014,Inf,0.0733333333333333,0.35
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,2,28.5232876712329,23.4068493150685,36.8657534246575,0.916666666666667,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,2,29.7150684931507,23.6328767123288,37.913698630137,0.916666666666667,1
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,126.249315068493,67.8520547945205,Inf,0.18,0.726666666666667
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,2,26.1397260273973,20.8794520547945,33.5369863013699,0.966666666666667,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,2,21.2082191780822,17.0780821917808,25.6671232876712,1,1
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,3,95.5095890410959,50.2013698630137,159.002739726027,0.25,0.84
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,3,26.1397260273973,20.386301369863,34.4,0.946666666666667,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,3,25.6054794520548,20.2219178082192,31.8109589041096,0.973333333333333,1
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,49.5232876712329,30.4753424657534,79.3794520547945,0.503333333333333,0.986666666666667
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,3,24.5780821917808,19.8931506849315,30.0438356164384,0.98,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,3,21.7013698630137,17.9821917808219,27.0643835616438,0.996666666666667,1
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,5,43.4821917808219,31.441095890411,64.5027397260274,0.613333333333333,0.986666666666667
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,5,24.8246575342466,19.8931506849315,30.9890410958904,0.993333333333333,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,5,24.0849315068493,20.0986301369863,29.2013698630137,0.986666666666667,1
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,28.2356164383562,20.9616438356164,37.1534246575342,0.903333333333333,1
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,5,22.5643835616438,18.1671232876712,27.9684931506849,0.993333333333333,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,5,22.3178082191781,17.5917808219178,27.9479452054795,0.996666666666667,1
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,10,30.4958904109589,22.0301369863014,40.2356164383562,0.846666666666667,1
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,10,23.2219178082192,18.9068493150685,28.9753424657534,0.996666666666667,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,10,23.4684931506849,19.2150684931507,28.7698630136986,0.996666666666667,1
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,23.1808219178082,19.1534246575342,28.9547945205479,0.983333333333333,1
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,10,22.358904109589,17.9821917808219,27.3109589041096,0.993333333333333,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,10,22.3178082191781,18.4958904109589,26.7972602739726,1,1
+"Calves at birth only",FALSE,FALSE,"Gradual waning (exponential)",1,Inf,22.2767123287671,18.7219178082192,27.5780821917808,1,1
+"Annual campaign: unprotected animals",TRUE,FALSE,"Gradual waning (exponential)",1,Inf,22.2767123287671,18.4342465753425,26.2630136986301,1,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Gradual waning (exponential)",1,Inf,21.7835616438356,17.2424657534247,27.5986301369863,0.996666666666667,1
+"Calves at birth only",FALSE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,21.7835616438356,17.9821917808219,26.9821917808219,0.993333333333333,1
+"Annual campaign: unprotected animals",TRUE,FALSE,"Near-fixed duration (Erlang k = 20)",20,Inf,21.8657534246575,18.0438356164384,26.8178082191781,0.996666666666667,1
+"Annual campaign: all uninfected animals",TRUE,TRUE,"Near-fixed duration (Erlang k = 20)",20,Inf,22.0712328767123,17.9821917808219,27.2287671232877,1,1

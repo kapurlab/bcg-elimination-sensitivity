@@ -68,6 +68,7 @@ of R0 and for the whole 57-herd population.
 | `R/run_oat.R` | One parameter at a time, others at the paper's base case (e_s 0.58, e_i 0.74, lifelong, p 1). Local elasticities d ln T / d ln x by central differences. The value of each parameter at which R_v reaches 1. Duration x coverage and direct x indirect heatmaps. | `output/tables/oat_*.csv`, `local_elasticities.csv`, `elimination_thresholds.csv`, figs 1 to 4 |
 | `R/run_global.R` | 3000-point Latin hypercube over e_s 0.2 to 0.9, e_i 0 to 0.95, D 2 to 40 years (log-uniform), p 0.3 to 1. Partial rank correlation coefficients with bootstrap intervals. Sobol first-order and total indices (Jansen estimator) for time to elimination and for prevalence at year 50, and a second Sobol run with herd R0 as a fifth factor. | `lhs_samples.csv`, `prcc.csv`, `sobol.csv`, figs 5 to 7 |
 | `R/run_stochastic.R` | The authors' SimInf transition list with a waning event added. One-at-a-time sweeps for the median herd with 300 replicates, and the full 57-herd population at the base case with 100 replicates. | `stochastic_*.csv`, fig 8 |
+| `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
 
 ## Running it in RStudio
 
@@ -88,8 +89,10 @@ Layout:
     R/run_oat.R         one-at-a-time sweeps, elasticities, thresholds, heatmaps
     R/run_global.R      Latin hypercube, PRCC, Sobol
     R/run_stochastic.R  SimInf check
+    R/revaccination.R   model with protection stages and campaign pulses
+    R/run_revaccination.R  duration of protection under annual revaccination
     data/               three inputs copied from the authors' repository
-    output/figs/        fig1 to fig8 (png)
+    output/figs/        fig1 to fig11 (png)
     output/tables/      csv results
 
 ## Results
