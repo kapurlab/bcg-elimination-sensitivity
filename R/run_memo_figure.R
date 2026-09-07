@@ -78,7 +78,7 @@ g <- ggplot(d, aes(x = x, y = row)) +
        title = "What each lever does to time to elimination in a typical Ethiopian dairy herd",
        subtitle = sprintf("Median herd, R0 = %.1f. Each row changes one thing from the paper's base case (dashed line, %.0f years).\nCrosses: the reproduction number under vaccination stays above 1, so prevalence never reaches the threshold.", R0, base)) +
   theme_pub(11) +
-  theme(strip.placement = "outside", strip.text.y.left = element_text(angle = 0, hjust = 1, face = "bold"),
+  theme(plot.title.position = "plot", strip.placement = "outside", strip.text.y.left = element_text(angle = 0, hjust = 1, face = "bold"),
         strip.background = element_blank(), panel.grid.major.y = element_blank(),
         axis.text.y = element_text(size = 9.5), panel.spacing.y = unit(4, "pt"))
 ggsave("output/figs/fig14_memo_scenarios.png", g, width = 11, height = 8.5, dpi = 200, bg = "white")
