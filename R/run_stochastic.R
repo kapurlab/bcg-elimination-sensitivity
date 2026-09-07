@@ -4,6 +4,7 @@
 # Run from the project root: Rscript R/run_stochastic.R
 
 suppressPackageStartupMessages({library(SimInf); library(ggplot2); library(dplyr); library(tidyr)})
+source("R/root.R")
 source("R/model.R")
 set.seed(20260907)
 herds <- load_herds("data")

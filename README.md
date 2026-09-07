@@ -69,8 +69,28 @@ of R0 and for the whole 57-herd population.
 | `R/run_global.R` | 3000-point Latin hypercube over e_s 0.2 to 0.9, e_i 0 to 0.95, D 2 to 40 years (log-uniform), p 0.3 to 1. Partial rank correlation coefficients with bootstrap intervals. Sobol first-order and total indices (Jansen estimator) for time to elimination and for prevalence at year 50, and a second Sobol run with herd R0 as a fifth factor. | `lhs_samples.csv`, `prcc.csv`, `sobol.csv`, figs 5 to 7 |
 | `R/run_stochastic.R` | The authors' SimInf transition list with a waning event added. One-at-a-time sweeps for the median herd with 300 replicates, and the full 57-herd population at the base case with 100 replicates. | `stochastic_*.csv`, fig 8 |
 
-Run each script from the project root with `Rscript`. Required packages:
-deSolve, SimInf, lhs, sensitivity, ggplot2, dplyr, tidyr.
+## Running it in RStudio
+
+Open `Model_Sensitivity_Tradeoffs.Rproj`. That sets the working directory to
+the project root, which every script expects. Then either source
+`run_all.R`, which installs any missing packages and runs the three analyses
+in order, or open the scripts under `R/` and run them one at a time. Each
+starts with `R/root.R`, which checks the working directory, and `R/model.R`,
+which holds the model functions. Approximate run times on a laptop: one
+minute for `run_oat.R`, 15 minutes for `run_global.R`, five minutes for
+`run_stochastic.R`. From a terminal, `Rscript run_all.R` does the same.
+
+Packages: deSolve, SimInf, lhs, sensitivity, ggplot2, dplyr, tidyr.
+
+Layout:
+
+    R/model.R           model, R_v, time to elimination, palette
+    R/run_oat.R         one-at-a-time sweeps, elasticities, thresholds, heatmaps
+    R/run_global.R      Latin hypercube, PRCC, Sobol
+    R/run_stochastic.R  SimInf check
+    data/               three inputs copied from the authors' repository
+    output/figs/        fig1 to fig8 (png)
+    output/tables/      csv results
 
 ## Results
 

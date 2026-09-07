@@ -5,6 +5,7 @@
 suppressPackageStartupMessages({
   library(ggplot2); library(dplyr); library(tidyr); library(lhs); library(sensitivity)
 })
+source("R/root.R")
 source("R/model.R")
 set.seed(20260907)
 herds <- load_herds("data")

@@ -3,6 +3,7 @@
 # Run from the project root: Rscript R/run_oat.R
 
 suppressPackageStartupMessages({library(ggplot2); library(dplyr); library(tidyr)})
+source("R/root.R")
 source("R/model.R")
 herds <- load_herds("data")
 post <- load_efficacy_posterior("data")
