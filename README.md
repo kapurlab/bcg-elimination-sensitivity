@@ -68,6 +68,7 @@ of R0 and for the whole 57-herd population.
 | `R/run_oat.R` | One parameter at a time, others at the paper's base case (e_s 0.58, e_i 0.74, lifelong, p 1). Local elasticities d ln T / d ln x by central differences. The value of each parameter at which R_v reaches 1. Duration x coverage and direct x indirect heatmaps. | `output/tables/oat_*.csv`, `local_elasticities.csv`, `elimination_thresholds.csv`, figs 1 to 4 |
 | `R/run_global.R` | 3000-point Latin hypercube over e_s 0.2 to 0.9, e_i 0 to 0.95, D 2 to 40 years (log-uniform), p 0.3 to 1. Partial rank correlation coefficients with bootstrap intervals. Sobol first-order and total indices (Jansen estimator) for time to elimination and for prevalence at year 50, and a second Sobol run with herd R0 as a fifth factor. | `lhs_samples.csv`, `prcc.csv`, `sobol.csv`, figs 5 to 7 |
 | `R/run_stochastic.R` | The authors' SimInf transition list with a waning event added. One-at-a-time sweeps for the median herd with 300 replicates, and the full 57-herd population at the base case with 100 replicates. | `stochastic_*.csv`, fig 8 |
+| `R/run_onset.R` | Interval from birth to effective immunity (0 to 180 days, covering delay to vaccination and delay to onset) with calf exposure at 1, 3 or 10 times the adult rate, under the paper's regime and under 18-month protection with annual boosting. Model in `R/onset.R`. | `onset*.csv`, figs 12 and 13 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
 
 ## Running it in RStudio
@@ -91,8 +92,10 @@ Layout:
     R/run_stochastic.R  SimInf check
     R/revaccination.R   model with protection stages and campaign pulses
     R/run_revaccination.R  duration of protection under annual revaccination
+    R/onset.R           model with a pre-protection window after birth
+    R/run_onset.R       speed of onset and calf exposure
     data/               three inputs copied from the authors' repository
-    output/figs/        fig1 to fig11 (png)
+    output/figs/        fig1 to fig13 (png)
     output/tables/      csv results
 
 ## Results
@@ -200,6 +203,44 @@ reaches zero infected animals in a median of 24 years, against 22 for
 lifelong protection. Across the 57 herds, the share eliminated by year 50
 under re-dosing of all uninfected animals reaches the lifelong value of 75%
 at 18 months, and under lapsed-only dosing at about 20 years.
+
+Speed of onset (`run_onset.R`). Years to elimination in the median herd
+when calves are fully susceptible for a window after birth, with exposure
+in that window at 1, 3 or 10 times the adult rate, paper regime:
+
+| Window | Exposure x1 | Exposure x3 | Exposure x10 |
+| --- | --- | --- | --- |
+| 0 days | 41 | 41 | 41 |
+| 15 days | 42 | 45 | 65 |
+| 30 days | 43 | 51 | never |
+| 60 days | 46 | 71 | never |
+| 90 days | 50 | 121 | never |
+| 180 days | 63 | never | never |
+
+At adult-equivalent exposure a 30-day window costs three years; at
+three-fold exposure it costs ten and a 90-day window triples the time; at
+ten-fold exposure any window of 30 days or more removes the possibility of
+elimination in the median herd. The share of vaccinated calves infected in
+the window over the first five years of a programme is 3%, 8% and 27% for a
+30-day window at the three exposure levels. Across the 57 herds, the share
+eliminated by year 50 falls from 75% with no window to 70%, 49% and 5% for
+a 30-day window at the three exposure levels. The 18-month boosted regime
+behaves the same, because the window is the same.
+
+Efficacy saturation, lifespan and which effect wanes. With lifelong
+protection and full coverage, raising total efficacy from the paper's 89%
+to 95%, 98% and 100% shortens the median herd's time from 41 years to 34,
+31 and 28. Efficacy is therefore not fully saturated, but its whole range
+buys 13 years while duration and coverage decide feasibility. In herds
+with longer residence the duration requirement rises: with a six-year mean
+residence the duration needed for R_v < 1 in the median herd under
+calfhood-only vaccination is 16 years, against 9.6 years at the Ethiopian
+3.7-year residence. The model separates two durations. Waning of
+susceptibility protection (V to S) is what the sweeps vary. The reduction
+in infectiousness of an animal infected while protected is assumed to last
+for its remaining life. If that reduction also wanes, elimination in the
+median herd under calfhood-only vaccination needs about 20 years of
+protection instead of 15.
 
 ## Interpretation
 

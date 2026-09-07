@@ -1,0 +1,97 @@
+"regime","D","k","revacc","redose_V","tau_days","m","herd","R0","T_elim","share_calves_infected_before_onset_first5y"
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,1,"R0 median (2.8)",2.80808526201542,40.5714593654341,0
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,1,"R0 75th pct (4.1)",4.12642819800479,49.0597161459328,0
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,0,1,"R0 median (2.8)",2.80808526201542,40.1530668702323,0
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,0,1,"R0 75th pct (4.1)",4.12642819800479,49.5923798145144,0
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,1,"R0 median (2.8)",2.80808526201542,41.8485335167077,0.0144456928354863
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,1,"R0 75th pct (4.1)",4.12642819800479,52.1583882005614,0.0238662880237006
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,15,1,"R0 median (2.8)",2.80808526201542,41.4482550171599,0.0134832909462506
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,15,1,"R0 75th pct (4.1)",4.12642819800479,52.8377832642949,0.0229831969846428
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,1,"R0 median (2.8)",2.80808526201542,43.2063003095483,0.0282362542003123
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,1,"R0 75th pct (4.1)",4.12642819800479,55.6840586304398,0.0464219318666626
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,30,1,"R0 median (2.8)",2.80808526201542,42.8271007315583,0.0263499500186392
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,30,1,"R0 75th pct (4.1)",4.12642819800479,56.5417180811321,0.0447180266456413
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,1,"R0 median (2.8)",2.80808526201542,44.6511412325465,0.0413965341248991
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,1,"R0 75th pct (4.1)",4.12642819800479,59.724707076537,0.0677188928162059
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,45,1,"R0 median (2.8)",2.80808526201542,44.2967931701138,0.0386258485609633
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,45,1,"R0 75th pct (4.1)",4.12642819800479,60.8034663887769,0.0652561714618575
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,1,"R0 median (2.8)",2.80808526201542,46.1902213853997,0.0539530180439421
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,1,"R0 75th pct (4.1)",4.12642819800479,64.3968106904959,0.0878159193958189
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,60,1,"R0 median (2.8)",2.80808526201542,45.8627979821137,0.0503377762622137
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,60,1,"R0 75th pct (4.1)",4.12642819800479,65.7541929583744,0.0846546635753923
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,1,"R0 median (2.8)",2.80808526201542,49.5843449342406,0.077363966031634
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,1,"R0 75th pct (4.1)",4.12642819800479,76.3279125996522,0.124661974200539
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,90,1,"R0 median (2.8)",2.80808526201542,49.32395294736,0.0721779238158402
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,90,1,"R0 75th pct (4.1)",4.12642819800479,78.5249648939563,0.120273295483605
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,1,"R0 median (2.8)",2.80808526201542,53.4670282306178,0.0986873510847383
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,1,"R0 75th pct (4.1)",4.12642819800479,93.7022521581866,0.157470199252002
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,120,1,"R0 median (2.8)",2.80808526201542,53.2940876711997,0.0920830567927102
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,120,1,"R0 75th pct (4.1)",4.12642819800479,97.4609368471771,0.152057190320917
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,1,"R0 median (2.8)",2.80808526201542,63.1446727184677,0.135897217585395
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,1,"R0 75th pct (4.1)",4.12642819800479,175.07742648968,0.212903430784328
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,180,1,"R0 median (2.8)",2.80808526201542,63.2424555151258,0.126873500817692
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,180,1,"R0 75th pct (4.1)",4.12642819800479,192.517182680869,0.205933660543751
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,3,"R0 median (2.8)",2.80808526201542,40.5714593654341,0
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,3,"R0 75th pct (4.1)",4.12642819800479,49.0597161459328,0
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,0,3,"R0 median (2.8)",2.80808526201542,40.1530668702323,0
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,0,3,"R0 75th pct (4.1)",4.12642819800479,49.5923798145144,0
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,3,"R0 median (2.8)",2.80808526201542,45.2333255356878,0.0433519996353332
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,3,"R0 75th pct (4.1)",4.12642819800479,61.2679782508165,0.070947472871543
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,15,3,"R0 median (2.8)",2.80808526201542,44.9060992975838,0.0405181553051748
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,15,3,"R0 75th pct (4.1)",4.12642819800479,62.4825906275989,0.0684394994648091
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,3,"R0 median (2.8)",2.80808526201542,51.3455404833973,0.0844671636623688
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,3,"R0 75th pct (4.1)",4.12642819800479,82.9750016323573,0.135851953862629
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,30,3,"R0 median (2.8)",2.80808526201542,51.171346643359,0.0790692117516549
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,30,3,"R0 75th pct (4.1)",4.12642819800479,85.9046879756786,0.131347846584093
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,3,"R0 median (2.8)",2.80808526201542,59.619971602283,0.123090275164127
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,3,"R0 75th pct (4.1)",4.12642819800479,132.875567240656,0.194231413131927
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,45,3,"R0 median (2.8)",2.80808526201542,59.7064131728088,0.115441243883136
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,45,3,"R0 75th pct (4.1)",4.12642819800479,142.613595163546,0.188230258758409
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,3,"R0 median (2.8)",2.80808526201542,71.3692198649336,0.159113649265203
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.246202038609632
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,60,3,"R0 median (2.8)",2.80808526201542,71.9479691656949,0.149534471530139
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,60,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.239129684182105
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,3,"R0 median (2.8)",2.80808526201542,120.691501604438,0.22346121105891
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.332923059924376
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,90,3,"R0 median (2.8)",2.80808526201542,124.855633465512,0.210909417607317
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,90,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.324633292555414
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,3,"R0 median (2.8)",2.80808526201542,Inf,0.278327347469836
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.400885941142337
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,120,3,"R0 median (2.8)",2.80808526201542,Inf,0.263773844489766
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,120,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.392134451597143
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,3,"R0 median (2.8)",2.80808526201542,Inf,0.364847124467757
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.498024914424563
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,180,3,"R0 median (2.8)",2.80808526201542,Inf,0.3481955057878
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,180,3,"R0 75th pct (4.1)",4.12642819800479,Inf,0.489313286648449
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,10,"R0 median (2.8)",2.80808526201542,40.5714593654341,0
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,10,"R0 75th pct (4.1)",4.12642819800479,49.0597161459328,0
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,0,10,"R0 median (2.8)",2.80808526201542,40.1530668702323,0
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,0,10,"R0 75th pct (4.1)",4.12642819800479,49.5923798145144,0
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,10,"R0 median (2.8)",2.80808526201542,65.282677206012,0.142370292727227
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.22241155091307
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,15,10,"R0 median (2.8)",2.80808526201542,65.6318725772902,0.13389478456404
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,15,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.215989073181587
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,10,"R0 median (2.8)",2.80808526201542,Inf,0.264507767179455
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.383994464116002
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,30,10,"R0 median (2.8)",2.80808526201542,Inf,0.251110650667486
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,30,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.375762005115169
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,10,"R0 median (2.8)",2.80808526201542,Inf,0.362400059123858
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.494712648652194
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,45,10,"R0 median (2.8)",2.80808526201542,Inf,0.34695647093054
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,45,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.486574281552741
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,10,"R0 median (2.8)",2.80808526201542,Inf,0.439286936625276
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.572148714129838
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,60,10,"R0 median (2.8)",2.80808526201542,Inf,0.423395937243423
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,60,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.564606804296036
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,10,"R0 median (2.8)",2.80808526201542,Inf,0.548295493351695
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.670761662148902
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,90,10,"R0 median (2.8)",2.80808526201542,Inf,0.53331709578366
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,90,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.664472476945067
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,10,"R0 median (2.8)",2.80808526201542,Inf,0.619904087925417
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.729951001060278
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,120,10,"R0 median (2.8)",2.80808526201542,Inf,0.606348665991246
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,120,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.724617127569603
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,10,"R0 median (2.8)",2.80808526201542,Inf,0.706404688197424
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.796879987522537
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,180,10,"R0 median (2.8)",2.80808526201542,Inf,0.695240388991444
+"18-month protection, annual boost of all uninfected animals",1.5,20,TRUE,TRUE,180,10,"R0 75th pct (4.1)",4.12642819800479,Inf,0.79275990744541

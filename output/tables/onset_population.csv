@@ -1,0 +1,25 @@
+"regime","D","k","revacc","redose_V","tau_days","m","share_herds_free_50y","pop_prev_50y"
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,1,0.754385964912281,0.0437763160125288
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,1,0.719298245614035,0.0574222940097559
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,1,0.701754385964912,0.0714148722011933
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,1,0.666666666666667,0.0850673352183264
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,1,0.614035087719298,0.0979427748239751
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,1,0.526315789473684,0.120883506709357
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,1,0.43859649122807,0.140455947639603
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,1,0.298245614035088,0.172108198409598
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,3,0.754385964912281,0.0437763160125288
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,3,0.649122807017544,0.0897875245102681
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,3,0.491228070175439,0.131445708755097
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,3,0.333333333333333,0.165692467364035
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,3,0.280701754385965,0.19439963199975
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,3,0.087719298245614,0.24478515067572
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,3,0.0526315789473684,0.296782262442433
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,3,0,0.396788117453812
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,0,10,0.754385964912281,0.0437763160125288
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,15,10,0.298245614035088,0.182850525207053
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,30,10,0.0526315789473684,0.281437553558735
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,45,10,0,0.386759061319721
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,60,10,0,0.47960365261667
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,90,10,0,0.62501398032031
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,120,10,0,0.716278365060984
+"Lifelong protection, calves at birth (paper)",Inf,1,FALSE,FALSE,180,10,0,0.806819814003338
