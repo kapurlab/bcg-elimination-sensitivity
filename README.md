@@ -123,11 +123,15 @@ R_v and with log10 prevalence at year 50 rank coverage first (-0.91 and
 direct efficacy (-0.70, -0.81). Over the sampled ranges only 5% of parameter
 combinations have R_v below 1, so time to elimination is censored in 96% of
 samples and its PRCCs are weak (-0.28 to -0.14) but in the same order. Sobol
-total-effect indices give the same ranking; first-order indices are small
-relative to total effects because the four inputs act through two products,
-(1 - e_s)(1 - e_i) and p u / (u + 1/D), so their effects are multiplicative,
-not additive. When herd R0 is added as a fifth factor over the observed
-range it has the largest total effect of all.
+total-effect indices for time to elimination give the same ranking: coverage
+0.87, duration 0.71, indirect efficacy 0.38, direct efficacy 0.31. First-order
+indices are close to zero because the four inputs act through two products,
+(1 - e_s)(1 - e_i) and p u / (u + 1/D), and through the R_v = 1 threshold,
+so almost all of the variance is interaction. For the uncensored outcome,
+log10 prevalence at year 50, the total effects are coverage 0.64, duration
+0.44, direct 0.22 and indirect 0.21. When herd R0 is added as a fifth factor
+over the observed range it has the largest total effect of all (0.79),
+ahead of coverage (0.50).
 
 Stochastic check. In the SimInf model the median herd of 44 animals reaches
 zero infected animals in a median of 23 years at the base case (IQR 18 to
