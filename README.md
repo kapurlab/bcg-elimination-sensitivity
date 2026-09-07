@@ -166,6 +166,41 @@ elimination in small herds with R_v slightly above 1, which softens the
 cliff. In 100 replicates of the full 57-herd population no replicate reached
 zero infected animals within 200 years, because of the three high-R0 herds.
 
+Revaccination and duration of protection (`run_revaccination.R`). Years to
+herd prevalence below 0.1% in the median herd, deterministic model, with all
+calves vaccinated at birth and an annual campaign added:
+
+| Duration | Calves only | Annual, unprotected animals | Annual, all uninfected animals |
+| --- | --- | --- | --- |
+| 6 months, near-fixed | never | never | never |
+| 12 months, near-fixed | never | never | 49 |
+| 18 months, near-fixed | never | 107 | 40 |
+| 24 months, near-fixed | never | 67 | 40 |
+| 36 months, near-fixed | never | 52 | 40 |
+| 12 months, gradual | never | never | never |
+| 24 months, gradual | never | 99 | 99 |
+| 36 months, gradual | never | 65 | 65 |
+| Lifelong | 41 | 40 | 40 |
+
+Three things decide the outcome. First, an annual campaign that only doses
+animals whose protection has lapsed leaves gaps: a 12-month vaccine given
+once a year still lets half the campaign cohort and every mid-year calf
+lapse before the next round, so the herd averages 71% protected and R_v is
+1.03. Second, dosing every uninfected animal at each campaign, protected or
+not, closes those gaps once the duration exceeds the 12-month interval,
+and from 18 months on it is indistinguishable from lifelong protection.
+Third, with gradual (exponential) waning, re-dosing a still-protected
+animal changes nothing, because exponential waning has no memory, so the
+two campaign strategies coincide and a mean duration of about 24 months is
+the shortest that eliminates. Six-month protection fails under every
+strategy with an annual interval. The stochastic check for the 44-animal
+median herd reproduces the ordering with shorter absolute times; a
+12-month near-fixed vaccine with re-dosing of all uninfected animals
+reaches zero infected animals in a median of 24 years, against 22 for
+lifelong protection. Across the 57 herds, the share eliminated by year 50
+under re-dosing of all uninfected animals reaches the lifelong value of 75%
+at 18 months, and under lapsed-only dosing at about 20 years.
+
 ## Interpretation
 
 Time to elimination is not a linear function of any of the four properties.
@@ -196,5 +231,8 @@ vaccinated fraction, which is why the duration curve flattens beyond about
 Herds are independent; the paper's between-herd movement network is
 omitted. Herd R0 is fixed at each herd's posterior median. The deterministic
 threshold of 0.1% is stricter than one animal for herds under 1000 head.
-Waning is exponential, which is the simplest choice, and the reduced
-infectiousness of infected vaccinated animals is assumed permanent.
+Waning is exponential in the main analyses, with an Erlang alternative in
+the revaccination script, and the reduced infectiousness of infected
+vaccinated animals is assumed permanent. Campaigns dose every eligible
+animal at once; partial campaign coverage is a parameter (`cv`) that was not
+varied.
