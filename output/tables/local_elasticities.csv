@@ -1,0 +1,21 @@
+"herd","parameter","at","elasticity"
+"R0 25th pct (2.0)","direct",0.58,-0.370993962564602
+"R0 25th pct (2.0)","indirect",0.74,-0.428236642703521
+"R0 25th pct (2.0)","coverage",1,-1.38716473899051
+"R0 25th pct (2.0)","duration",20,-0.29662892586821
+"R0 25th pct (2.0)","duration",30,-0.176092368744613
+"R0 median (2.8)","direct",0.58,-0.516748824621566
+"R0 median (2.8)","indirect",0.74,-0.750169126430881
+"R0 median (2.8)","coverage",1,-2.35157465124937
+"R0 median (2.8)","duration",20,-0.742526245033676
+"R0 median (2.8)","duration",30,-0.375041212232203
+"R0 75th pct (4.1)","direct",0.58,-0.881806160316674
+"R0 75th pct (4.1)","indirect",0.74,-1.54597258552488
+"R0 75th pct (4.1)","coverage",1,-5.02555864144499
+"R0 75th pct (4.1)","duration",20,NA
+"R0 75th pct (4.1)","duration",30,-1.6793931033644
+"R0 90th pct (9.1)","direct",0.58,NA
+"R0 90th pct (9.1)","indirect",0.74,NA
+"R0 90th pct (9.1)","coverage",1,NA
+"R0 90th pct (9.1)","duration",20,NA
+"R0 90th pct (9.1)","duration",30,NA
