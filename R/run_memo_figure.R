@@ -28,32 +28,32 @@ T_on <- function(tau_days, m) {
 sc <- tribble(
   ~lever, ~scenario, ~T,
   "Paper base case", "89% total efficacy, lifelong protection, all calves", T_base(),
-  "Peak efficacy", "95% total efficacy", T_base(0.75, 0.80),
-  "Peak efficacy", "100% total efficacy", T_base(0.95, 0.95),
-  "Coverage of calves", "90% of calves vaccinated", T_base(p = 0.9),
-  "Coverage of calves", "80% of calves vaccinated", T_base(p = 0.8),
-  "Coverage of calves", "70% of calves vaccinated", T_base(p = 0.7),
-  "Duration, calves only", "10 years of protection", T_rev(10, revacc = FALSE),
-  "Duration, calves only", "5 years of protection", T_rev(5, revacc = FALSE),
-  "Duration, calves only", "18 months of protection", T_rev(1.5, revacc = FALSE),
-  "Duration, annual boost of lapsed animals", "36 months of protection", T_rev(3),
-  "Duration, annual boost of lapsed animals", "24 months of protection", T_rev(2),
-  "Duration, annual boost of lapsed animals", "18 months of protection", T_rev(1.5),
-  "Duration, annual boost of lapsed animals", "12 months of protection", T_rev(1),
-  "Duration, annual boost of all uninfected animals", "18 months of protection", T_rev(1.5, redose_V = TRUE),
-  "Duration, annual boost of all uninfected animals", "12 months of protection", T_rev(1, redose_V = TRUE),
-  "Duration, annual boost of all uninfected animals", "6 months of protection", T_rev(0.5, redose_V = TRUE),
-  "30-day window before protection", "calf exposure equal to adults", T_on(30, 1),
-  "30-day window before protection", "calf exposure 3 x adults", T_on(30, 3),
-  "30-day window before protection", "calf exposure 10 x adults", T_on(30, 10))
+  "Peak efficacy, lifelong immunity", "95% total efficacy", T_base(0.75, 0.80),
+  "Peak efficacy, lifelong immunity", "100% total efficacy", T_base(0.95, 0.95),
+  "Coverage of calves at birth", "90% of calves vaccinated", T_base(p = 0.9),
+  "Coverage of calves at birth", "80% of calves vaccinated", T_base(p = 0.8),
+  "Coverage of calves at birth", "70% of calves vaccinated", T_base(p = 0.7),
+  "Duration of immunity, birth dose only", "10 years of protection", T_rev(10, revacc = FALSE),
+  "Duration of immunity, birth dose only", "5 years of protection", T_rev(5, revacc = FALSE),
+  "Duration of immunity, birth dose only", "18 months of protection", T_rev(1.5, revacc = FALSE),
+  "Duration of immunity, annual revaccination only of animals whose immunity has lapsed", "36 months of protection", T_rev(3),
+  "Duration of immunity, annual revaccination only of animals whose immunity has lapsed", "24 months of protection", T_rev(2),
+  "Duration of immunity, annual revaccination only of animals whose immunity has lapsed", "18 months of protection", T_rev(1.5),
+  "Duration of immunity, annual revaccination only of animals whose immunity has lapsed", "12 months of protection", T_rev(1),
+  "Duration of immunity, annual revaccination of the whole herd", "18 months of protection", T_rev(1.5, redose_V = TRUE),
+  "Duration of immunity, annual revaccination of the whole herd", "12 months of protection", T_rev(1, redose_V = TRUE),
+  "Duration of immunity, annual revaccination of the whole herd", "6 months of protection", T_rev(0.5, redose_V = TRUE),
+  "30-day window between birth and immunity, lifelong immunity", "calf exposure equal to adults", T_on(30, 1),
+  "30-day window between birth and immunity, lifelong immunity", "calf exposure 3 x adults", T_on(30, 3),
+  "30-day window between birth and immunity, lifelong immunity", "calf exposure 10 x adults", T_on(30, 10))
 write.csv(sc, "output/tables/memo_scenarios.csv", row.names = FALSE)
 
 lev <- unique(sc$lever)
-pal <- c("Paper base case" = "grey30", "Peak efficacy" = "#7FB3D5",
-         "Coverage of calves" = "#F9E79F", "Duration, calves only" = "#F1948A",
-         "Duration, annual boost of lapsed animals" = "#A9DFBF",
-         "Duration, annual boost of all uninfected animals" = "#1E8449",
-         "30-day window before protection" = "#BB8FCE")
+pal <- c("Paper base case" = "grey30", "Peak efficacy, lifelong immunity" = "#7FB3D5",
+         "Coverage of calves at birth" = "#F9E79F", "Duration of immunity, birth dose only" = "#F1948A",
+         "Duration of immunity, annual revaccination only of animals whose immunity has lapsed" = "#A9DFBF",
+         "Duration of immunity, annual revaccination of the whole herd" = "#1E8449",
+         "30-day window between birth and immunity, lifelong immunity" = "#BB8FCE")
 CAP <- 150
 d <- sc %>% mutate(lever = factor(lever, levels = lev),
                    never = !is.finite(T) | T > CAP,
@@ -73,7 +73,7 @@ g <- ggplot(d, aes(x = x, y = row)) +
                      labels = c("0", "25", "50", "75", "100", "125", "no\nelimination"),
                      expand = expansion(mult = c(0, 0))) +
   facet_grid(lever ~ ., scales = "free_y", space = "free_y", switch = "y",
-             labeller = label_wrap_gen(22)) +
+             labeller = label_wrap_gen(26)) +
   labs(x = "Years from the start of vaccination to herd prevalence below 0.1%", y = NULL,
        title = "What each lever does to time to elimination in a typical Ethiopian dairy herd",
        subtitle = sprintf("Median herd, R0 = %.1f. Each row changes one thing from the paper's base case (dashed line, %.0f years).\nCrosses: the reproduction number under vaccination stays above 1, so prevalence never reaches the threshold.", R0, base)) +
@@ -81,5 +81,5 @@ g <- ggplot(d, aes(x = x, y = row)) +
   theme(plot.title.position = "plot", strip.placement = "outside", strip.text.y.left = element_text(angle = 0, hjust = 1, face = "bold"),
         strip.background = element_blank(), panel.grid.major.y = element_blank(),
         axis.text.y = element_text(size = 9.5), panel.spacing.y = unit(4, "pt"))
-ggsave("output/figs/fig14_memo_scenarios.png", g, width = 11, height = 8.5, dpi = 200, bg = "white")
+ggsave("output/figs/fig14_memo_scenarios.png", g, width = 11.5, height = 9, dpi = 200, bg = "white")
 cat("Memo figure done\n"); print(as.data.frame(sc))

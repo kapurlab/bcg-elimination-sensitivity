@@ -1,20 +1,20 @@
 "lever","scenario","T"
 "Paper base case","89% total efficacy, lifelong protection, all calves",40.5714593669393
-"Peak efficacy","95% total efficacy",34.016510126241
-"Peak efficacy","100% total efficacy",27.5496715503229
-"Coverage of calves","90% of calves vaccinated",54.2615244943104
-"Coverage of calves","80% of calves vaccinated",99.0933605047657
-"Coverage of calves","70% of calves vaccinated",Inf
-"Duration, calves only","10 years of protection",46.9951809092589
-"Duration, calves only","5 years of protection",Inf
-"Duration, calves only","18 months of protection",Inf
-"Duration, annual boost of lapsed animals","36 months of protection",51.7304675228843
-"Duration, annual boost of lapsed animals","24 months of protection",67.4280572403511
-"Duration, annual boost of lapsed animals","18 months of protection",107.058558219245
-"Duration, annual boost of lapsed animals","12 months of protection",Inf
-"Duration, annual boost of all uninfected animals","18 months of protection",40.1530668702371
-"Duration, annual boost of all uninfected animals","12 months of protection",48.665797908151
-"Duration, annual boost of all uninfected animals","6 months of protection",Inf
-"30-day window before protection","calf exposure equal to adults",43.2062998017032
-"30-day window before protection","calf exposure 3 x adults",51.3455401458344
-"30-day window before protection","calf exposure 10 x adults",Inf
+"Peak efficacy, lifelong immunity","95% total efficacy",34.016510126241
+"Peak efficacy, lifelong immunity","100% total efficacy",27.5496715503229
+"Coverage of calves at birth","90% of calves vaccinated",54.2615244943104
+"Coverage of calves at birth","80% of calves vaccinated",99.0933605047657
+"Coverage of calves at birth","70% of calves vaccinated",Inf
+"Duration of immunity, birth dose only","10 years of protection",46.9951809092589
+"Duration of immunity, birth dose only","5 years of protection",Inf
+"Duration of immunity, birth dose only","18 months of protection",Inf
+"Duration of immunity, annual revaccination only of animals whose immunity has lapsed","36 months of protection",51.7304675228843
+"Duration of immunity, annual revaccination only of animals whose immunity has lapsed","24 months of protection",67.4280572403511
+"Duration of immunity, annual revaccination only of animals whose immunity has lapsed","18 months of protection",107.058558219245
+"Duration of immunity, annual revaccination only of animals whose immunity has lapsed","12 months of protection",Inf
+"Duration of immunity, annual revaccination of the whole herd","18 months of protection",40.1530668702371
+"Duration of immunity, annual revaccination of the whole herd","12 months of protection",48.665797908151
+"Duration of immunity, annual revaccination of the whole herd","6 months of protection",Inf
+"30-day window between birth and immunity, lifelong immunity","calf exposure equal to adults",43.2062998017032
+"30-day window between birth and immunity, lifelong immunity","calf exposure 3 x adults",51.3455401458344
+"30-day window between birth and immunity, lifelong immunity","calf exposure 10 x adults",Inf
