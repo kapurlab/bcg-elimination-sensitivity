@@ -12,3 +12,10 @@ was collected or estimated for this analysis.
 
 Annual mortality (0.273) is taken from the authors' `Demography/MortalityExp.csv`
 and set in `R/model.R`.
+
+## Files added for the stochastic and economic layers
+
+| File | Content | Status |
+| --- | --- | --- |
+| `archetypes.csv` | Herd archetypes for Ethiopia and India, smallholder and commercial: typical herd size and range, adult turnover, within-herd R0 range, replacement source, calf contact, testing. | Ethiopian rows carry values from the survey and are marked "to confirm"; Indian rows are placeholders with the fields that need filling. |
+| `cost_parameters_template.csv` | Generic parameter table for the economic layer: programme costs, disease costs, zoonotic terms, discounting, herd inputs; one row per parameter with unit, value, low, high, country, source and notes. | Values blank, to be filled per country. Leave a row blank rather than guess. |

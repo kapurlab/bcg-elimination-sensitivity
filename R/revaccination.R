@@ -129,11 +129,11 @@ stoch_revacc <- function(R0, N, e_s, e_i, D, k = 1, p = 1, interval = 1, cv = 1,
   if (redose_V && k > 1) Nm[Vn[-1], 1] <- -(1:(k - 1))  # Vj -> V1
   events <- NULL
   if (revacc) {
-    ev_days <- seq(365 * interval, 365 * years, by = 365 * interval)
+    ev_days <- as.integer(round(seq(365 * interval, 365 * years, by = 365 * interval)))
     events <- data.frame(event = "intTrans",
                          time = rep(ev_days, each = length(R0)),
-                         node = rep(seq_along(R0), times = length(ev_days)),
-                         dest = 0, n = 0, proportion = cv, select = 1, shift = 1)
+                         node = as.integer(rep(seq_along(R0), times = length(ev_days))),
+                         dest = 0L, n = 0L, proportion = cv, select = 1L, shift = 1L)
   }
   tspan <- seq(1, 365 * years, by = 30)
   m <- mparse(transitions = tr, compartments = comp, ldata = ldata, gdata = gdata,

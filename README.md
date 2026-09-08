@@ -93,6 +93,7 @@ of R0 and for the whole 57-herd population.
 | `R/run_nonresponders.R` | Persistent non-responders (never protected by any dose) against random per-dose non-response; analytic ceiling on the tolerable persistent fraction by herd R0. | `nonresponders.csv`, figs 19a and 19b |
 | `R/run_import.R` | Infected animals bought into the herd each year, under the paper's regime and under 18-month immunity with annual revaccination. | `imports.csv`, fig 20 |
 | `R/run_import_uk.R` | The same import sweep in a low-R0 setting with annual test-and-removal (R0 1.1, infected animals removed at 0.7 per year), against the Ethiopian setting, with and without vaccination. | `imports_uk.csv`, fig 21 |
+| `R/run_stochastic_grid.R` | Stochastic (SimInf) elimination on a conceptual grid of within-herd R0 (1.2 to 8) and herd size (5 to 200) under four programmes, 200 replicate herds per cell; probability of a herd with no infected animal by years 10, 20, 50 and 100, and the median time; no-vaccination reference. | `stochastic_grid*.csv`, figs 22 and 23 |
 | `R/run_tiles.R` | Booster schedule (none, every 24 months, annual, every 6 months) against birth-dose duration (6 to 24 months), with the booster's own duration equal to, twice, or independent of the birth dose, and a fourth panel for campaign coverage. Model in `R/boost.R`. | `tiles_booster_schedule.csv`, fig 15 |
 | `R/run_memo_figure.R` | Scenario ladder: one lever changed per row from the paper's base case. | `memo_scenarios.csv`, fig 14 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
@@ -126,9 +127,10 @@ Layout:
     R/run_nonresponders.R  persistent against random non-response
     R/run_import.R      infected purchases
     R/run_import_uk.R   infected purchases with test-and-removal, UK-like R0
+    R/run_stochastic_grid.R  stochastic elimination on a conceptual R0 by herd-size grid
     R/run_tiles.R       booster schedule tile figure
     R/run_memo_figure.R scenario ladder
-    data/               three inputs copied from the authors' repository
+    data/               three inputs copied from the authors' repository, plus archetypes and the cost template
     output/figs/        fig1 to fig15 (png)
     output/tables/      csv results
     translations/       English translations of the 1920, 1924 and 1927 papers (CC BY 4.0)
@@ -361,6 +363,34 @@ than a lifetime. Imports still set the floor: one infected purchase per
 9%. The floor scales with the import rate divided by the removal rate,
 so test-and-removal lowers it about fourfold relative to Ethiopia, and
 pre-movement testing, which lowers the import rate itself, does the rest.
+
+Stochastic grid (`run_stochastic_grid.R`). Replacing the survey herds with
+a conceptual grid of within-herd R0 (1.2 to 8) and herd size (5 to 200),
+and the deterministic threshold with the first day a herd has no infected
+animal, gives probabilities rather than times (figs 22 and 23; 200
+replicate herds per cell). Three things stand out. Small herds fade out by
+chance: with no vaccination at all, a 5-head herd at R0 2 is free by year
+50 in 94% of replicates and a 10-head herd in 68%, so in smallholder
+systems the vaccine's work is less to drive infection out of a herd than
+to stop it coming back, which makes purchases and neighbours the binding
+constraint there. Large herds need the reproduction number under
+vaccination below one: at 100 to 200 head and R0 2 to 3, the paper's
+regime and 18-month immunity with an annual booster both reach 96 to 100%
+free by year 50, while 18-month immunity without a booster reaches 0 to
+7%. And the annual booster reproduces the lifelong assumption cell for
+cell, with the six-monthly booster adding little, which is the
+deterministic diagonal rule restated with chance included. Probabilities
+by year 20 are much lower in large herds (1 to 26% at 100 to 200 head and
+R0 2 to 3 under the paper's regime), consistent with the 41-year
+deterministic timescale.
+
+Archetypes and cost parameters. `data/archetypes.csv` defines four herd
+archetypes, Ethiopia and India by smallholder and commercial dairy, with
+the fields the stochastic and economic layers need; the Ethiopian rows
+carry survey values marked "to confirm", the Indian rows are placeholders.
+`data/cost_parameters_template.csv` is a generic parameter table for the
+economic layer with blank values, units and notes on what each entry
+should contain.
 
 ## Interpretation
 
