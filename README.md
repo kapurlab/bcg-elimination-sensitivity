@@ -10,6 +10,24 @@ elimination: direct efficacy (reduction in susceptibility, e_s), indirect
 efficacy (reduction in infectiousness of vaccinated animals that become
 infected, e_i), duration of protection (D, years) and calfhood coverage (p).
 
+## Start here
+
+For a reader who wants the model and the main result without the rest:
+
+1. `R/model.R` is the deterministic version of the S, I, V, IV herd model
+   with waning and coverage added; `R/boost.R` adds a birth dose and
+   whole-herd booster campaigns with separate durations; `R/onset.R` adds a
+   pre-immunity window after birth. Each is under 120 lines.
+2. `R/run_memo_figure.R` and `R/run_tiles.R` produce the two figures used in
+   the memo (`output/figs/fig14_memo_scenarios.png` and
+   `output/figs/fig16_interval_by_duration.png`) in a few minutes each.
+3. `memo.md` is the write-up those figures belong to.
+4. `sessionInfo.txt` records the R and package versions used.
+
+The authors' original model is reproduced, not modified: the transition
+list in `R/run_stochastic.R` is theirs, and `data/` holds three files copied
+from their repository (see `LICENSE.md`).
+
 ## Source model and data
 
 The authors' code and data are public (Zenodo 10.5281/zenodo.10417489,
