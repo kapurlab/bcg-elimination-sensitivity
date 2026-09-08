@@ -371,9 +371,10 @@ Stochastic grid (`run_stochastic_grid.R`). Replacing the survey herds with
 a conceptual grid of within-herd R0 (1.2 to 8) and herd size (5 to 200),
 and the deterministic threshold with the first day a herd has no infected
 animal, gives probabilities rather than times (figs 22 and 23; 200
-replicate herds per cell). Three things stand out. Small herds fade out by
-chance: with no vaccination at all, a 5-head herd at R0 2 is free by year
-50 in 94% of replicates and a 10-head herd in 68%, so in smallholder
+replicate herds per cell, with no vaccination as the first panel so each
+programme reads against its control). Three things stand out. Small herds
+fade out by chance: with no vaccination at all, a 5-head herd at R0 2 is
+free by year 20 in 74% of replicates and a 10-head herd in 34%, so in smallholder
 systems the vaccine's work is less to drive infection out of a herd than
 to stop it coming back, which makes purchases and neighbours the binding
 constraint there. Large herds need the reproduction number under

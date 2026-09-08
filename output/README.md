@@ -21,6 +21,12 @@ hand. Figures are PNG at 200 dpi; tables are CSV.
 | `fig9`, `fig10`, `fig11` | Duration of protection under annual campaigns; protected fraction; stochastic check |
 | `fig12`, `fig13` | Speed of onset and infections in the pre-immunity window |
 | `fig15` | Booster schedule tiles with booster duration equal to, twice, or independent of the birth dose, plus campaign coverage |
+| `fig16` | Revaccination interval against duration of immunity (memo figure 2) |
+| `fig17`, `fig18` | Protection profiles with credible bands; schedule against profile with credible intervals |
+| `fig19a`, `fig19b` | Non-responder ceiling by R0; persistent against random non-response |
+| `fig20`, `fig21` | Infected purchases, Ethiopia; and with test-and-removal, UK-like |
+| `fig22`, `fig23` | Stochastic grid, status quo and four programmes: probability free by year 20; median years to freedom |
+| `fig24`, `fig25` | Replacement policy in the age-structured herd: probability free at year 50; prevalence at year 50 |
 
 ## Tables
 
