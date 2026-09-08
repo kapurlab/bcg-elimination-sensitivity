@@ -1,0 +1,61 @@
+"schedule","interval","D1","panel","D2","cv","column","T"
+"No booster",NA,0.5,"A. Booster lasts as long as the birth dose",0.5,1,"6 months",Inf
+"Booster every 24 months",2,0.5,"A. Booster lasts as long as the birth dose",0.5,1,"6 months",Inf
+"Booster annually",1,0.5,"A. Booster lasts as long as the birth dose",0.5,1,"6 months",Inf
+"Booster every 6 months",0.5,0.5,"A. Booster lasts as long as the birth dose",0.5,1,"6 months",49.9639324999436
+"No booster",NA,1,"A. Booster lasts as long as the birth dose",1,1,"12 months",Inf
+"Booster every 24 months",2,1,"A. Booster lasts as long as the birth dose",1,1,"12 months",Inf
+"Booster annually",1,1,"A. Booster lasts as long as the birth dose",1,1,"12 months",48.6657979158402
+"Booster every 6 months",0.5,1,"A. Booster lasts as long as the birth dose",1,1,"12 months",39.5065839385474
+"No booster",NA,1.5,"A. Booster lasts as long as the birth dose",1.5,1,"18 months",Inf
+"Booster every 24 months",2,1.5,"A. Booster lasts as long as the birth dose",1.5,1,"18 months",84.4726184148755
+"Booster annually",1,1.5,"A. Booster lasts as long as the birth dose",1.5,1,"18 months",40.15306686904
+"Booster every 6 months",0.5,1.5,"A. Booster lasts as long as the birth dose",1.5,1,"18 months",39.4840867072537
+"No booster",NA,2,"A. Booster lasts as long as the birth dose",2,1,"24 months",Inf
+"Booster every 24 months",2,2,"A. Booster lasts as long as the birth dose",2,1,"24 months",46.6844351831055
+"Booster annually",1,2,"A. Booster lasts as long as the birth dose",2,1,"24 months",39.789828568404
+"Booster every 6 months",0.5,2,"A. Booster lasts as long as the birth dose",2,1,"24 months",39.4839661099068
+"No booster",NA,0.5,"B. Booster lasts twice as long as the birth dose",1,1,"6 months",Inf
+"Booster every 24 months",2,0.5,"B. Booster lasts twice as long as the birth dose",1,1,"6 months",Inf
+"Booster annually",1,0.5,"B. Booster lasts twice as long as the birth dose",1,1,"6 months",54.6988178356847
+"Booster every 6 months",0.5,0.5,"B. Booster lasts twice as long as the birth dose",1,1,"6 months",39.6509697287038
+"No booster",NA,1,"B. Booster lasts twice as long as the birth dose",2,1,"12 months",Inf
+"Booster every 24 months",2,1,"B. Booster lasts twice as long as the birth dose",2,1,"12 months",56.4633420808331
+"Booster annually",1,1,"B. Booster lasts twice as long as the birth dose",2,1,"12 months",40.0475092812818
+"Booster every 6 months",0.5,1,"B. Booster lasts twice as long as the birth dose",2,1,"12 months",39.4842231218061
+"No booster",NA,1.5,"B. Booster lasts twice as long as the birth dose",3,1,"18 months",Inf
+"Booster every 24 months",2,1.5,"B. Booster lasts twice as long as the birth dose",3,1,"18 months",42.225176147875
+"Booster annually",1,1.5,"B. Booster lasts twice as long as the birth dose",3,1,"18 months",39.7805554952378
+"Booster every 6 months",0.5,1.5,"B. Booster lasts twice as long as the birth dose",3,1,"18 months",39.4839656043271
+"No booster",NA,2,"B. Booster lasts twice as long as the birth dose",4,1,"24 months",Inf
+"Booster every 24 months",2,2,"B. Booster lasts twice as long as the birth dose",4,1,"24 months",40.5327134154461
+"Booster annually",1,2,"B. Booster lasts twice as long as the birth dose",4,1,"24 months",39.7706508415056
+"Booster every 6 months",0.5,2,"B. Booster lasts twice as long as the birth dose",4,1,"24 months",39.4839644375782
+"No booster",NA,0.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"6 months",Inf
+"Booster every 24 months",2,0.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"6 months",62.1232365084947
+"Booster annually",1,0.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"6 months",43.3798557356701
+"Booster every 6 months",0.5,0.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"6 months",39.6283933010557
+"No booster",NA,1,"C. Booster lasts 5 years whatever the birth dose",5,1,"12 months",Inf
+"Booster every 24 months",2,1,"C. Booster lasts 5 years whatever the birth dose",5,1,"12 months",46.623700686107
+"Booster annually",1,1,"C. Booster lasts 5 years whatever the birth dose",5,1,"12 months",40.0278787657995
+"Booster every 6 months",0.5,1,"C. Booster lasts 5 years whatever the birth dose",5,1,"12 months",39.4842214494252
+"No booster",NA,1.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"18 months",Inf
+"Booster every 24 months",2,1.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"18 months",41.9052586269895
+"Booster annually",1,1.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"18 months",39.7804517572706
+"Booster every 6 months",0.5,1.5,"C. Booster lasts 5 years whatever the birth dose",5,1,"18 months",39.4839656021055
+"No booster",NA,2,"C. Booster lasts 5 years whatever the birth dose",5,1,"24 months",Inf
+"Booster every 24 months",2,2,"C. Booster lasts 5 years whatever the birth dose",5,1,"24 months",40.5189662594486
+"Booster annually",1,2,"C. Booster lasts 5 years whatever the birth dose",5,1,"24 months",39.7706494512692
+"Booster every 6 months",0.5,2,"C. Booster lasts 5 years whatever the birth dose",5,1,"24 months",39.4839644375635
+"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.5,"50% of herd",Inf
+"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.5,"50% of herd",Inf
+"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.5,"50% of herd",53.363034564124
+"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.7,"70% of herd",Inf
+"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.7,"70% of herd",63.5776495401699
+"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.7,"70% of herd",42.4181727244512
+"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.9,"90% of herd",141.236292457158
+"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.9,"90% of herd",44.2166670850273
+"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.9,"90% of herd",39.7805100796464
+"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,1,"100% of herd",84.4726184148755
+"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,1,"100% of herd",40.15306686904
+"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,1,"100% of herd",39.4840867072537

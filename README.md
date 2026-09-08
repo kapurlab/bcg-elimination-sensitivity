@@ -69,6 +69,8 @@ of R0 and for the whole 57-herd population.
 | `R/run_global.R` | 3000-point Latin hypercube over e_s 0.2 to 0.9, e_i 0 to 0.95, D 2 to 40 years (log-uniform), p 0.3 to 1. Partial rank correlation coefficients with bootstrap intervals. Sobol first-order and total indices (Jansen estimator) for time to elimination and for prevalence at year 50, and a second Sobol run with herd R0 as a fifth factor. | `lhs_samples.csv`, `prcc.csv`, `sobol.csv`, figs 5 to 7 |
 | `R/run_stochastic.R` | The authors' SimInf transition list with a waning event added. One-at-a-time sweeps for the median herd with 300 replicates, and the full 57-herd population at the base case with 100 replicates. | `stochastic_*.csv`, fig 8 |
 | `R/run_onset.R` | Interval from birth to effective immunity (0 to 180 days, covering delay to vaccination and delay to onset) with calf exposure at 1, 3 or 10 times the adult rate, under the paper's regime and under 18-month protection with annual boosting. Model in `R/onset.R`. | `onset*.csv`, figs 12 and 13 |
+| `R/run_tiles.R` | Booster schedule (none, every 24 months, annual, every 6 months) against birth-dose duration (6 to 24 months), with the booster's own duration equal to, twice, or independent of the birth dose, and a fourth panel for campaign coverage. Model in `R/boost.R`. | `tiles_booster_schedule.csv`, fig 15 |
+| `R/run_memo_figure.R` | Scenario ladder: one lever changed per row from the paper's base case. | `memo_scenarios.csv`, fig 14 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
 
 ## Running it in RStudio
@@ -94,8 +96,11 @@ Layout:
     R/run_revaccination.R  duration of protection under annual revaccination
     R/onset.R           model with a pre-protection window after birth
     R/run_onset.R       speed of onset and calf exposure
+    R/boost.R           birth dose and booster with separate durations
+    R/run_tiles.R       booster schedule tile figure
+    R/run_memo_figure.R scenario ladder
     data/               three inputs copied from the authors' repository
-    output/figs/        fig1 to fig13 (png)
+    output/figs/        fig1 to fig15 (png)
     output/tables/      csv results
 
 ## Results
@@ -241,6 +246,27 @@ in infectiousness of an animal infected while protected is assumed to last
 for its remaining life. If that reduction also wanes, elimination in the
 median herd under calfhood-only vaccination needs about 20 years of
 protection instead of 15.
+
+Booster schedule (`run_tiles.R`). Years to elimination in the median herd
+with every calf dosed at birth and whole-herd booster campaigns, booster
+lasting as long as the birth dose:
+
+| Schedule | 6 months | 12 months | 18 months | 24 months |
+| --- | --- | --- | --- | --- |
+| No booster | never | never | never | never |
+| Every 24 months | never | never | 84 | 47 |
+| Annually | never | 49 | 40 | 40 |
+| Every 6 months | 50 | 40 | 39 | 39 |
+
+The rule is that the booster interval must be shorter than the duration
+of protection. Where it is, the result equals the paper's lifelong case
+within a year or two; where it is longer, the gap between lapse and the
+next campaign decides, and 12-month protection with annual boosting
+(49 years) is the only combination that eliminates with interval equal to
+duration. A booster lasting 5 years makes every schedule work and makes
+birth-dose duration nearly irrelevant. Campaign coverage matters as much
+as the interval: with 18-month protection and annual boosters, 90% coverage
+costs 4 years, 70% costs 24, and 50% removes elimination.
 
 ## Interpretation
 
