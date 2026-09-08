@@ -1,0 +1,11 @@
+"q","type","T"
+0,"Persistent non-responders (never protected by any dose)",43.5842553060693
+0.1,"Persistent non-responders (never protected by any dose)",61.7291845116476
+0.2,"Persistent non-responders (never protected by any dose)",137.07221232582
+0.3,"Persistent non-responders (never protected by any dose)",Inf
+0.4,"Persistent non-responders (never protected by any dose)",Inf
+0,"Random non-response (each dose fails independently)",43.5842553060693
+0.1,"Random non-response (each dose fails independently)",47.4291980567164
+0.2,"Random non-response (each dose fails independently)",55.0217127216571
+0.3,"Random non-response (each dose fails independently)",72.2219525790254
+0.4,"Random non-response (each dose fails independently)",133.724123588672

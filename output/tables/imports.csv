@@ -1,0 +1,13 @@
+"regime","imports","T_1pct","T_0.1pct","prev_50y","prev_150y"
+"Lifelong immunity, calves at birth (paper)",0,28.5589136966284,41.4202048535428,0.000209142867044875,2.08514883879548e-12
+"Lifelong immunity, calves at birth (paper)",0.25,Inf,Inf,0.0249542765414063,0.0247926857908382
+"Lifelong immunity, calves at birth (paper)",0.5,Inf,Inf,0.0486278786576402,0.048501777358705
+"Lifelong immunity, calves at birth (paper)",1,Inf,Inf,0.0931316573768683,0.0930526962723813
+"Lifelong immunity, calves at birth (paper)",2,Inf,Inf,0.172751125056734,0.172716901595956
+"Lifelong immunity, calves at birth (paper)",5,Inf,Inf,0.360989686512248,0.360984391301452
+"18-month immunity, annual whole-herd revaccination",0,30.0732154466558,44.5827476699122,0.000419342665064834,4.39070270188653e-11
+"18-month immunity, annual whole-herd revaccination",0.25,Inf,Inf,0.028210263655464,0.0279150073662453
+"18-month immunity, annual whole-herd revaccination",0.5,Inf,Inf,0.0543910115785545,0.0541794931144021
+"18-month immunity, annual whole-herd revaccination",1,Inf,Inf,0.102682611058393,0.102568941323062
+"18-month immunity, annual whole-herd revaccination",2,Inf,Inf,0.186681463380714,0.186643067101428
+"18-month immunity, annual whole-herd revaccination",5,Inf,Inf,0.377439282940874,0.377435459351083

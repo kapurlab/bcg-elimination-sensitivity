@@ -89,6 +89,9 @@ of R0 and for the whole 57-herd population.
 | `R/run_global.R` | 3000-point Latin hypercube over e_s 0.2 to 0.9, e_i 0 to 0.95, D 2 to 40 years (log-uniform), p 0.3 to 1. Partial rank correlation coefficients with bootstrap intervals. Sobol first-order and total indices (Jansen estimator) for time to elimination and for prevalence at year 50, and a second Sobol run with herd R0 as a fifth factor. | `lhs_samples.csv`, `prcc.csv`, `sobol.csv`, figs 5 to 7 |
 | `R/run_stochastic.R` | The authors' SimInf transition list with a waning event added. One-at-a-time sweeps for the median herd with 300 replicates, and the full 57-herd population at the base case with 100 replicates. | `stochastic_*.csv`, fig 8 |
 | `R/run_onset.R` | Interval from birth to effective immunity (0 to 180 days, covering delay to vaccination and delay to onset) with calf exposure at 1, 3 or 10 times the adult rate, under the paper's regime and under 18-month protection with annual boosting. Model in `R/onset.R`. | `onset*.csv`, figs 12 and 13 |
+| `R/run_profile.R` | Protection that rises over 30 days, plateaus, and declines with time since dose, tracked by a 40-stage clock; five profile shapes against four revaccination schedules. Model in `R/profile.R`, which also takes a hazard-ratio curve from a trial (`profile_from_hazard`). | `profile_schedule.csv`, figs 17 and 18 |
+| `R/run_nonresponders.R` | Persistent non-responders (never protected by any dose) against random per-dose non-response; analytic ceiling on the tolerable persistent fraction by herd R0. | `nonresponders.csv`, figs 19a and 19b |
+| `R/run_import.R` | Infected animals bought into the herd each year, under the paper's regime and under 18-month immunity with annual revaccination. | `imports.csv`, fig 20 |
 | `R/run_tiles.R` | Booster schedule (none, every 24 months, annual, every 6 months) against birth-dose duration (6 to 24 months), with the booster's own duration equal to, twice, or independent of the birth dose, and a fourth panel for campaign coverage. Model in `R/boost.R`. | `tiles_booster_schedule.csv`, fig 15 |
 | `R/run_memo_figure.R` | Scenario ladder: one lever changed per row from the paper's base case. | `memo_scenarios.csv`, fig 14 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
@@ -117,6 +120,10 @@ Layout:
     R/onset.R           model with a pre-protection window after birth
     R/run_onset.R       speed of onset and calf exposure
     R/boost.R           birth dose and booster with separate durations
+    R/profile.R         time-since-dose protection profile, non-responders, imports
+    R/run_profile.R     profile shape against schedule
+    R/run_nonresponders.R  persistent against random non-response
+    R/run_import.R      infected purchases
     R/run_tiles.R       booster schedule tile figure
     R/run_memo_figure.R scenario ladder
     data/               three inputs copied from the authors' repository
@@ -288,6 +295,44 @@ duration. A booster lasting 5 years makes every schedule work and makes
 birth-dose duration nearly irrelevant. Campaign coverage matters as much
 as the interval: with 18-month protection and annual boosters, 90% coverage
 costs 4 years, 70% costs 24, and 50% removes elimination.
+
+Shape of protection (`run_profile.R`). Replacing all-or-nothing protection
+with a curve that rises over 30 days, holds at 58% and then declines
+changes the reading of the schedule grid. Under annual or six-monthly
+revaccination every shape gives 44 to 49 years in the median herd, because
+the interval is shorter than the plateau and the tail never matters. Under
+revaccination every 24 months the tail is everything: a step to 18 months
+gives 109 years, a plateau to 12 months gone by 24 gives 95, the same
+plateau with decline stretched to 36 months gives 54, and a plateau to 18
+months gone by 36 gives 47 (fig 18). What the schedule has to match is
+the protection-years per dose delivered inside the interval, which is the
+area under the trial's hazard-ratio curve, not a single duration.
+`profile_from_hazard` in `R/profile.R` converts such a curve into the
+model's input directly. The profile model applies the 30-day rise to every
+dose, so its times run a few years above the step-function figures.
+
+Non-responders (`run_nonresponders.R`). If a share of animals never
+responds to any dose, elimination stays possible only while the rest of the
+herd can carry the threshold alone: the ceiling is 1 minus the required
+protected fraction, which is 44% at the 25th-percentile herd, 28% at the
+median, 15% at the 75th percentile and zero at the 90th (fig 19a). Under
+annual revaccination with 24-month immunity in the median herd, 10% and
+20% persistent non-responders give 62 and 137 years, and 30% never
+eliminates; the same shares as random per-dose failure, re-drawn at every
+campaign, give 47, 55 and 72 years, because a later dose catches most
+animals a previous one missed (fig 19b).
+
+Infected purchases (`run_import.R`). Herds in the main analyses are closed.
+With infected animals bought in at a constant rate, and herd size held
+constant, prevalence stops falling at a floor set by the import rate: one
+infected purchase per 100 head every four years holds the median herd at
+about 2.5%, one a year at about 9%, and five a year near the unvaccinated
+level (fig 20). Both the paper's regime and 18-month immunity with annual
+revaccination behave the same, because each bought animal is infected for
+life and starts a short chain that vaccination shortens but cannot remove.
+Time to elimination is therefore a within-herd quantity; across herds
+that trade, the outcome is the prevalence a programme can hold, and it is
+set by the sourcing of replacements.
 
 ## Interpretation
 
