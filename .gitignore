@@ -6,4 +6,6 @@ output/*.log
 ~$*
 memo*.md
 memo*.docx
+*_memo_v*.md
+*_memo_v*.docx
 /*.pdf
