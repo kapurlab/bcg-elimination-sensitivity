@@ -47,15 +47,31 @@
 "Booster every 24 months",2,2,"C. Booster lasts 5 years whatever the birth dose",5,1,"24 months",40.5189662594486
 "Booster annually",1,2,"C. Booster lasts 5 years whatever the birth dose",5,1,"24 months",39.7706494512692
 "Booster every 6 months",0.5,2,"C. Booster lasts 5 years whatever the birth dose",5,1,"24 months",39.4839644375635
-"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.5,"50% of herd",Inf
-"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.5,"50% of herd",Inf
-"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.5,"50% of herd",53.363034564124
-"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.7,"70% of herd",Inf
-"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.7,"70% of herd",63.5776495401699
-"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.7,"70% of herd",42.4181727244512
-"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.9,"90% of herd",141.236292457158
-"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.9,"90% of herd",44.2166670850273
-"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,0.9,"90% of herd",39.7805100796464
-"Booster every 24 months",2,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,1,"100% of herd",84.4726184148755
-"Booster annually",1,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,1,"100% of herd",40.15306686904
-"Booster every 6 months",0.5,1.5,"D. Campaign coverage, birth dose and booster both 18 months",1.5,1,"100% of herd",39.4840867072537
+"Booster every 24 months",2,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.5,"50% of herd",Inf
+"Booster annually",1,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.5,"50% of herd",Inf
+"Booster every 6 months",0.5,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.5,"50% of herd",113.337837608174
+"Booster every 24 months",2,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.7,"70% of herd",Inf
+"Booster annually",1,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.7,"70% of herd",Inf
+"Booster every 6 months",0.5,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.7,"70% of herd",51.8759358076862
+"Booster every 24 months",2,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.9,"90% of herd",Inf
+"Booster annually",1,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.9,"90% of herd",63.5814099724188
+"Booster every 6 months",0.5,1,"D. Campaign coverage, birth dose and booster both 12 months",1,0.9,"90% of herd",41.4237951370975
+"Booster every 24 months",2,1,"D. Campaign coverage, birth dose and booster both 12 months",1,1,"100% of herd",Inf
+"Booster annually",1,1,"D. Campaign coverage, birth dose and booster both 12 months",1,1,"100% of herd",48.6657979158402
+"Booster every 6 months",0.5,1,"D. Campaign coverage, birth dose and booster both 12 months",1,1,"100% of herd",39.5065839385474
+"No booster",NA,0.5,"Single grid",0.5,1,"6 months",Inf
+"Booster every 24 months",2,0.5,"Single grid",0.5,1,"6 months",Inf
+"Booster annually",1,0.5,"Single grid",0.5,1,"6 months",Inf
+"Booster every 6 months",0.5,0.5,"Single grid",0.5,1,"6 months",49.9639324999436
+"No booster",NA,1,"Single grid",1,1,"12 months",Inf
+"Booster every 24 months",2,1,"Single grid",1,1,"12 months",Inf
+"Booster annually",1,1,"Single grid",1,1,"12 months",48.6657979158402
+"Booster every 6 months",0.5,1,"Single grid",1,1,"12 months",39.5065839385474
+"No booster",NA,2,"Single grid",2,1,"24 months",Inf
+"Booster every 24 months",2,2,"Single grid",2,1,"24 months",46.6844351831055
+"Booster annually",1,2,"Single grid",2,1,"24 months",39.789828568404
+"Booster every 6 months",0.5,2,"Single grid",2,1,"24 months",39.4839661099068
+"No booster",NA,10,"Single grid",10,1,"10 years",46.9951809092589
+"Booster every 24 months",2,10,"Single grid",10,1,"10 years",40.1126290076863
+"Booster annually",1,10,"Single grid",10,1,"10 years",39.7701999688346
+"Booster every 6 months",0.5,10,"Single grid",10,1,"10 years",39.4839644224973

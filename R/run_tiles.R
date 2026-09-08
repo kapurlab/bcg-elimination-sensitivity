@@ -32,7 +32,7 @@ cov_panel <- merge(sched %>% filter(!is.na(interval)), data.frame(cv = c(0.5, 0.
 # single grid: one duration of immunity whichever dose produced it
 single <- merge(sched, data.frame(D1 = c(0.5, 1, 2, 10))) %>%
   mutate(panel = "Single grid", D2 = D1, cv = 1,
-         column = ifelse(D1 >= 5, sprintf("%d years", D1), D1lab(D1)))
+         column = ifelse(D1 >= 5, sprintf("%d years", as.integer(D1)), D1lab(D1)))
 design <- bind_rows(grid_panels, cov_panel, single)
 
 design$T <- mapply(function(D1, D2, iv, cv) T_boost(D1, D2, iv, cv), design$D1, design$D2, design$interval, design$cv)
