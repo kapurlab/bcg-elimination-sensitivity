@@ -95,6 +95,7 @@ of R0 and for the whole 57-herd population.
 | `R/run_import_uk.R` | The same import sweep in a low-R0 setting with annual test-and-removal (R0 1.1, infected animals removed at 0.7 per year), against the Ethiopian setting, with and without vaccination. | `imports_uk.csv`, fig 21 |
 | `R/run_stochastic_grid.R` | Stochastic (SimInf) elimination on a conceptual grid of within-herd R0 (1.2 to 8) and herd size (5 to 200) under four programmes, 200 replicate herds per cell; probability of a herd with no infected animal by years 10, 20, 50 and 100, and the median time; no-vaccination reference. | `stochastic_grid*.csv`, figs 22 and 23 |
 | `R/run_herd.R` | Age-structured stochastic herd (calves, young stock, adults) with a fixed adult herd and a replacement policy: leavers replaced by home-bred young stock or by purchases from a source population of given prevalence. Adult herd size 5, 20, 100 by R0 1.5, 3, 5 by seven policies, with and without vaccination. Model in `R/herd.R`. | `herd_replacement.csv`, figs 24 and 25 |
+| `R/run_alt_views.R` | Alternative views of the stochastic results: difference tiles (programme minus status quo), feasibility frontier contours, archetype slices, time courses of freedom for six representative herds, and prevalence bands under replacement policies. | `survival_curves.csv`, `replacement_trajectories.csv`, figs 26 to 30 |
 | `R/run_tiles.R` | Booster schedule (none, every 24 months, annual, every 6 months) against birth-dose duration (6 to 24 months), with the booster's own duration equal to, twice, or independent of the birth dose, and a fourth panel for campaign coverage. Model in `R/boost.R`. | `tiles_booster_schedule.csv`, fig 15 |
 | `R/run_memo_figure.R` | Scenario ladder: one lever changed per row from the paper's base case. | `memo_scenarios.csv`, fig 14 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
@@ -131,6 +132,7 @@ Layout:
     R/run_stochastic_grid.R  stochastic elimination on a conceptual R0 by herd-size grid
     R/herd.R            age-structured stochastic herd with replacement policy
     R/run_herd.R        replacement policy against herd size and R0
+    R/run_alt_views.R   difference tiles, frontier, archetype slices, time courses, prevalence bands
     R/run_tiles.R       booster schedule tile figure
     R/run_memo_figure.R scenario ladder
     data/               three inputs copied from the authors' repository, plus archetypes and the cost template
@@ -422,6 +424,25 @@ A commercial dairy that buys replacements needs the source to be clean or
 tested; vaccination then lowers prevalence severalfold but does not free
 the herd. These are the two levers that the economic layer should price
 against each other.
+
+Alternative views (`run_alt_views.R`, figs 26 to 30). The difference
+tiles subtract the status quo from each programme: the vaccine adds 50 to
+75 percentage points to the chance of freedom by year 20 in herds of 20 to
+100 head at R0 1.2 to 3, and 5 to 20 points in 5-head herds at low R0,
+which clear infection by chance anyway. The feasibility frontier draws,
+for each programme, the herd size and R0 at which the chance of freedom by
+year 20 is 50% or 80%: the status quo frontier sits at 5 to 25 head, the
+paper's regime and the boosted 18-month programmes lift it to 100 to 200
+head at R0 1.2 and to about 10 head at R0 8, with the annual and
+six-monthly boosters tracking the lifelong assumption and the calves-only
+18-month programme falling between them and the status quo. The archetype
+slices show five representative herds as dots per programme with the
+control alongside. The time courses of freedom show that "free by year
+20" is one slice through curves that separate at year 10 to 15 in large
+herds and reach 100% by year 40 to 45 under any boosted programme. The
+prevalence bands under replacement policies show the floor set by
+purchases: with half the replacements bought from a 20% source, vaccination
+takes a 100-adult herd from 63% to 10% and holds it there.
 
 ## Interpretation
 

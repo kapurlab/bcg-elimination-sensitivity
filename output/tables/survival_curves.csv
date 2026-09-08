@@ -1,0 +1,1831 @@
+"cell","schedule","yr","p_free"
+"5 head, R0 2","No vaccination (status quo)",0,0
+"5 head, R0 2","No vaccination (status quo)",1,0.00333333333333333
+"5 head, R0 2","No vaccination (status quo)",2,0.0533333333333333
+"5 head, R0 2","No vaccination (status quo)",3,0.103333333333333
+"5 head, R0 2","No vaccination (status quo)",4,0.163333333333333
+"5 head, R0 2","No vaccination (status quo)",5,0.216666666666667
+"5 head, R0 2","No vaccination (status quo)",6,0.28
+"5 head, R0 2","No vaccination (status quo)",7,0.326666666666667
+"5 head, R0 2","No vaccination (status quo)",8,0.37
+"5 head, R0 2","No vaccination (status quo)",9,0.4
+"5 head, R0 2","No vaccination (status quo)",10,0.433333333333333
+"5 head, R0 2","No vaccination (status quo)",11,0.466666666666667
+"5 head, R0 2","No vaccination (status quo)",12,0.503333333333333
+"5 head, R0 2","No vaccination (status quo)",13,0.546666666666667
+"5 head, R0 2","No vaccination (status quo)",14,0.573333333333333
+"5 head, R0 2","No vaccination (status quo)",15,0.593333333333333
+"5 head, R0 2","No vaccination (status quo)",16,0.62
+"5 head, R0 2","No vaccination (status quo)",17,0.65
+"5 head, R0 2","No vaccination (status quo)",18,0.666666666666667
+"5 head, R0 2","No vaccination (status quo)",19,0.676666666666667
+"5 head, R0 2","No vaccination (status quo)",20,0.686666666666667
+"5 head, R0 2","No vaccination (status quo)",21,0.71
+"5 head, R0 2","No vaccination (status quo)",22,0.723333333333333
+"5 head, R0 2","No vaccination (status quo)",23,0.733333333333333
+"5 head, R0 2","No vaccination (status quo)",24,0.756666666666667
+"5 head, R0 2","No vaccination (status quo)",25,0.766666666666667
+"5 head, R0 2","No vaccination (status quo)",26,0.78
+"5 head, R0 2","No vaccination (status quo)",27,0.78
+"5 head, R0 2","No vaccination (status quo)",28,0.783333333333333
+"5 head, R0 2","No vaccination (status quo)",29,0.8
+"5 head, R0 2","No vaccination (status quo)",30,0.81
+"5 head, R0 2","No vaccination (status quo)",31,0.82
+"5 head, R0 2","No vaccination (status quo)",32,0.84
+"5 head, R0 2","No vaccination (status quo)",33,0.856666666666667
+"5 head, R0 2","No vaccination (status quo)",34,0.863333333333333
+"5 head, R0 2","No vaccination (status quo)",35,0.87
+"5 head, R0 2","No vaccination (status quo)",36,0.886666666666667
+"5 head, R0 2","No vaccination (status quo)",37,0.886666666666667
+"5 head, R0 2","No vaccination (status quo)",38,0.896666666666667
+"5 head, R0 2","No vaccination (status quo)",39,0.91
+"5 head, R0 2","No vaccination (status quo)",40,0.913333333333333
+"5 head, R0 2","No vaccination (status quo)",41,0.916666666666667
+"5 head, R0 2","No vaccination (status quo)",42,0.92
+"5 head, R0 2","No vaccination (status quo)",43,0.92
+"5 head, R0 2","No vaccination (status quo)",44,0.923333333333333
+"5 head, R0 2","No vaccination (status quo)",45,0.923333333333333
+"5 head, R0 2","No vaccination (status quo)",46,0.926666666666667
+"5 head, R0 2","No vaccination (status quo)",47,0.93
+"5 head, R0 2","No vaccination (status quo)",48,0.936666666666667
+"5 head, R0 2","No vaccination (status quo)",49,0.936666666666667
+"5 head, R0 2","No vaccination (status quo)",50,0.943333333333333
+"5 head, R0 2","No vaccination (status quo)",51,0.946666666666667
+"5 head, R0 2","No vaccination (status quo)",52,0.953333333333333
+"5 head, R0 2","No vaccination (status quo)",53,0.953333333333333
+"5 head, R0 2","No vaccination (status quo)",54,0.956666666666667
+"5 head, R0 2","No vaccination (status quo)",55,0.96
+"5 head, R0 2","No vaccination (status quo)",56,0.963333333333333
+"5 head, R0 2","No vaccination (status quo)",57,0.966666666666667
+"5 head, R0 2","No vaccination (status quo)",58,0.966666666666667
+"5 head, R0 2","No vaccination (status quo)",59,0.97
+"5 head, R0 2","No vaccination (status quo)",60,0.973333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",0,0
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",1,0.00666666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",2,0.03
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",3,0.0866666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",4,0.143333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",5,0.21
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",6,0.326666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",7,0.413333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",8,0.473333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",9,0.55
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",10,0.613333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",11,0.676666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",12,0.716666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",13,0.77
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",14,0.816666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",15,0.84
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",16,0.88
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",17,0.91
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",18,0.93
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",19,0.936666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",20,0.946666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",21,0.953333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",22,0.956666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",23,0.956666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",24,0.963333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",25,0.963333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",26,0.973333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",27,0.98
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",28,0.983333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",29,0.983333333333333
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",30,0.99
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",31,0.996666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",32,0.996666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",33,0.996666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",34,0.996666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",35,0.996666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",36,0.996666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",37,0.996666666666667
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",38,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",39,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",40,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",41,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",42,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",43,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",44,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",45,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",46,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",47,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",48,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",49,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",50,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",51,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",52,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",53,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",54,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",55,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",56,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",57,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",58,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",59,1
+"5 head, R0 2","Lifelong immunity, calves only (paper assumption)",60,1
+"5 head, R0 2","18-month immunity, calves only",0,0
+"5 head, R0 2","18-month immunity, calves only",1,0.0133333333333333
+"5 head, R0 2","18-month immunity, calves only",2,0.05
+"5 head, R0 2","18-month immunity, calves only",3,0.116666666666667
+"5 head, R0 2","18-month immunity, calves only",4,0.176666666666667
+"5 head, R0 2","18-month immunity, calves only",5,0.23
+"5 head, R0 2","18-month immunity, calves only",6,0.316666666666667
+"5 head, R0 2","18-month immunity, calves only",7,0.4
+"5 head, R0 2","18-month immunity, calves only",8,0.446666666666667
+"5 head, R0 2","18-month immunity, calves only",9,0.523333333333333
+"5 head, R0 2","18-month immunity, calves only",10,0.58
+"5 head, R0 2","18-month immunity, calves only",11,0.626666666666667
+"5 head, R0 2","18-month immunity, calves only",12,0.666666666666667
+"5 head, R0 2","18-month immunity, calves only",13,0.69
+"5 head, R0 2","18-month immunity, calves only",14,0.72
+"5 head, R0 2","18-month immunity, calves only",15,0.763333333333333
+"5 head, R0 2","18-month immunity, calves only",16,0.796666666666667
+"5 head, R0 2","18-month immunity, calves only",17,0.806666666666667
+"5 head, R0 2","18-month immunity, calves only",18,0.836666666666667
+"5 head, R0 2","18-month immunity, calves only",19,0.866666666666667
+"5 head, R0 2","18-month immunity, calves only",20,0.88
+"5 head, R0 2","18-month immunity, calves only",21,0.9
+"5 head, R0 2","18-month immunity, calves only",22,0.906666666666667
+"5 head, R0 2","18-month immunity, calves only",23,0.91
+"5 head, R0 2","18-month immunity, calves only",24,0.926666666666667
+"5 head, R0 2","18-month immunity, calves only",25,0.93
+"5 head, R0 2","18-month immunity, calves only",26,0.933333333333333
+"5 head, R0 2","18-month immunity, calves only",27,0.946666666666667
+"5 head, R0 2","18-month immunity, calves only",28,0.956666666666667
+"5 head, R0 2","18-month immunity, calves only",29,0.963333333333333
+"5 head, R0 2","18-month immunity, calves only",30,0.966666666666667
+"5 head, R0 2","18-month immunity, calves only",31,0.966666666666667
+"5 head, R0 2","18-month immunity, calves only",32,0.966666666666667
+"5 head, R0 2","18-month immunity, calves only",33,0.97
+"5 head, R0 2","18-month immunity, calves only",34,0.976666666666667
+"5 head, R0 2","18-month immunity, calves only",35,0.983333333333333
+"5 head, R0 2","18-month immunity, calves only",36,0.983333333333333
+"5 head, R0 2","18-month immunity, calves only",37,0.983333333333333
+"5 head, R0 2","18-month immunity, calves only",38,0.983333333333333
+"5 head, R0 2","18-month immunity, calves only",39,0.99
+"5 head, R0 2","18-month immunity, calves only",40,0.99
+"5 head, R0 2","18-month immunity, calves only",41,0.99
+"5 head, R0 2","18-month immunity, calves only",42,0.993333333333333
+"5 head, R0 2","18-month immunity, calves only",43,0.993333333333333
+"5 head, R0 2","18-month immunity, calves only",44,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",45,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",46,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",47,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",48,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",49,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",50,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",51,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",52,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",53,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",54,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",55,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",56,0.996666666666667
+"5 head, R0 2","18-month immunity, calves only",57,1
+"5 head, R0 2","18-month immunity, calves only",58,1
+"5 head, R0 2","18-month immunity, calves only",59,1
+"5 head, R0 2","18-month immunity, calves only",60,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",0,0
+"5 head, R0 2","18-month immunity, annual whole-herd booster",1,0.01
+"5 head, R0 2","18-month immunity, annual whole-herd booster",2,0.0466666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",3,0.113333333333333
+"5 head, R0 2","18-month immunity, annual whole-herd booster",4,0.216666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",5,0.326666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",6,0.42
+"5 head, R0 2","18-month immunity, annual whole-herd booster",7,0.486666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",8,0.556666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",9,0.623333333333333
+"5 head, R0 2","18-month immunity, annual whole-herd booster",10,0.66
+"5 head, R0 2","18-month immunity, annual whole-herd booster",11,0.686666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",12,0.763333333333333
+"5 head, R0 2","18-month immunity, annual whole-herd booster",13,0.806666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",14,0.856666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",15,0.893333333333333
+"5 head, R0 2","18-month immunity, annual whole-herd booster",16,0.92
+"5 head, R0 2","18-month immunity, annual whole-herd booster",17,0.936666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",18,0.95
+"5 head, R0 2","18-month immunity, annual whole-herd booster",19,0.96
+"5 head, R0 2","18-month immunity, annual whole-herd booster",20,0.963333333333333
+"5 head, R0 2","18-month immunity, annual whole-herd booster",21,0.966666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",22,0.97
+"5 head, R0 2","18-month immunity, annual whole-herd booster",23,0.976666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",24,0.98
+"5 head, R0 2","18-month immunity, annual whole-herd booster",25,0.986666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",26,0.986666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",27,0.986666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",28,0.99
+"5 head, R0 2","18-month immunity, annual whole-herd booster",29,0.993333333333333
+"5 head, R0 2","18-month immunity, annual whole-herd booster",30,0.996666666666667
+"5 head, R0 2","18-month immunity, annual whole-herd booster",31,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",32,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",33,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",34,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",35,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",36,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",37,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",38,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",39,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",40,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",41,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",42,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",43,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",44,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",45,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",46,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",47,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",48,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",49,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",50,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",51,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",52,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",53,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",54,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",55,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",56,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",57,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",58,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",59,1
+"5 head, R0 2","18-month immunity, annual whole-herd booster",60,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",0,0
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",1,0.01
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",2,0.0333333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",3,0.113333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",4,0.186666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",5,0.283333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",6,0.356666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",7,0.476666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",8,0.543333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",9,0.61
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",10,0.696666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",11,0.743333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",12,0.79
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",13,0.836666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",14,0.876666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",15,0.9
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",16,0.923333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",17,0.933333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",18,0.94
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",19,0.953333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",20,0.963333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",21,0.973333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",22,0.976666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",23,0.983333333333333
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",24,0.986666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",25,0.996666666666667
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",26,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",27,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",28,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",29,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",30,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",31,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",32,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",33,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",34,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",35,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",36,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",37,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",38,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",39,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",40,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",41,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",42,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",43,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",44,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",45,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",46,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",47,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",48,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",49,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",50,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",51,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",52,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",53,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",54,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",55,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",56,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",57,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",58,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",59,1
+"5 head, R0 2","18-month immunity, six-monthly whole-herd booster",60,1
+"10 head, R0 3","No vaccination (status quo)",0,0
+"10 head, R0 3","No vaccination (status quo)",1,0
+"10 head, R0 3","No vaccination (status quo)",2,0
+"10 head, R0 3","No vaccination (status quo)",3,0.00333333333333333
+"10 head, R0 3","No vaccination (status quo)",4,0.0133333333333333
+"10 head, R0 3","No vaccination (status quo)",5,0.0166666666666667
+"10 head, R0 3","No vaccination (status quo)",6,0.02
+"10 head, R0 3","No vaccination (status quo)",7,0.0266666666666667
+"10 head, R0 3","No vaccination (status quo)",8,0.03
+"10 head, R0 3","No vaccination (status quo)",9,0.0433333333333333
+"10 head, R0 3","No vaccination (status quo)",10,0.0533333333333333
+"10 head, R0 3","No vaccination (status quo)",11,0.06
+"10 head, R0 3","No vaccination (status quo)",12,0.0733333333333333
+"10 head, R0 3","No vaccination (status quo)",13,0.08
+"10 head, R0 3","No vaccination (status quo)",14,0.0833333333333333
+"10 head, R0 3","No vaccination (status quo)",15,0.09
+"10 head, R0 3","No vaccination (status quo)",16,0.103333333333333
+"10 head, R0 3","No vaccination (status quo)",17,0.11
+"10 head, R0 3","No vaccination (status quo)",18,0.116666666666667
+"10 head, R0 3","No vaccination (status quo)",19,0.13
+"10 head, R0 3","No vaccination (status quo)",20,0.13
+"10 head, R0 3","No vaccination (status quo)",21,0.146666666666667
+"10 head, R0 3","No vaccination (status quo)",22,0.163333333333333
+"10 head, R0 3","No vaccination (status quo)",23,0.176666666666667
+"10 head, R0 3","No vaccination (status quo)",24,0.176666666666667
+"10 head, R0 3","No vaccination (status quo)",25,0.183333333333333
+"10 head, R0 3","No vaccination (status quo)",26,0.19
+"10 head, R0 3","No vaccination (status quo)",27,0.196666666666667
+"10 head, R0 3","No vaccination (status quo)",28,0.206666666666667
+"10 head, R0 3","No vaccination (status quo)",29,0.21
+"10 head, R0 3","No vaccination (status quo)",30,0.216666666666667
+"10 head, R0 3","No vaccination (status quo)",31,0.23
+"10 head, R0 3","No vaccination (status quo)",32,0.233333333333333
+"10 head, R0 3","No vaccination (status quo)",33,0.243333333333333
+"10 head, R0 3","No vaccination (status quo)",34,0.246666666666667
+"10 head, R0 3","No vaccination (status quo)",35,0.25
+"10 head, R0 3","No vaccination (status quo)",36,0.263333333333333
+"10 head, R0 3","No vaccination (status quo)",37,0.286666666666667
+"10 head, R0 3","No vaccination (status quo)",38,0.293333333333333
+"10 head, R0 3","No vaccination (status quo)",39,0.296666666666667
+"10 head, R0 3","No vaccination (status quo)",40,0.303333333333333
+"10 head, R0 3","No vaccination (status quo)",41,0.303333333333333
+"10 head, R0 3","No vaccination (status quo)",42,0.313333333333333
+"10 head, R0 3","No vaccination (status quo)",43,0.316666666666667
+"10 head, R0 3","No vaccination (status quo)",44,0.323333333333333
+"10 head, R0 3","No vaccination (status quo)",45,0.336666666666667
+"10 head, R0 3","No vaccination (status quo)",46,0.34
+"10 head, R0 3","No vaccination (status quo)",47,0.35
+"10 head, R0 3","No vaccination (status quo)",48,0.353333333333333
+"10 head, R0 3","No vaccination (status quo)",49,0.356666666666667
+"10 head, R0 3","No vaccination (status quo)",50,0.36
+"10 head, R0 3","No vaccination (status quo)",51,0.363333333333333
+"10 head, R0 3","No vaccination (status quo)",52,0.366666666666667
+"10 head, R0 3","No vaccination (status quo)",53,0.373333333333333
+"10 head, R0 3","No vaccination (status quo)",54,0.38
+"10 head, R0 3","No vaccination (status quo)",55,0.383333333333333
+"10 head, R0 3","No vaccination (status quo)",56,0.396666666666667
+"10 head, R0 3","No vaccination (status quo)",57,0.396666666666667
+"10 head, R0 3","No vaccination (status quo)",58,0.406666666666667
+"10 head, R0 3","No vaccination (status quo)",59,0.41
+"10 head, R0 3","No vaccination (status quo)",60,0.416666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",0,0
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",1,0
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",2,0
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",3,0
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",4,0.00666666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",5,0.02
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",6,0.0533333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",7,0.113333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",8,0.17
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",9,0.23
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",10,0.276666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",11,0.343333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",12,0.436666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",13,0.503333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",14,0.57
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",15,0.62
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",16,0.656666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",17,0.71
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",18,0.74
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",19,0.776666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",20,0.83
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",21,0.843333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",22,0.866666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",23,0.89
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",24,0.91
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",25,0.916666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",26,0.94
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",27,0.953333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",28,0.956666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",29,0.96
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",30,0.97
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",31,0.976666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",32,0.976666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",33,0.98
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",34,0.983333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",35,0.99
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",36,0.99
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",37,0.99
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",38,0.993333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",39,0.993333333333333
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",40,0.996666666666667
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",41,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",42,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",43,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",44,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",45,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",46,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",47,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",48,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",49,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",50,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",51,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",52,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",53,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",54,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",55,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",56,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",57,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",58,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",59,1
+"10 head, R0 3","Lifelong immunity, calves only (paper assumption)",60,1
+"10 head, R0 3","18-month immunity, calves only",0,0
+"10 head, R0 3","18-month immunity, calves only",1,0
+"10 head, R0 3","18-month immunity, calves only",2,0.00333333333333333
+"10 head, R0 3","18-month immunity, calves only",3,0.0133333333333333
+"10 head, R0 3","18-month immunity, calves only",4,0.0266666666666667
+"10 head, R0 3","18-month immunity, calves only",5,0.0333333333333333
+"10 head, R0 3","18-month immunity, calves only",6,0.0533333333333333
+"10 head, R0 3","18-month immunity, calves only",7,0.0866666666666667
+"10 head, R0 3","18-month immunity, calves only",8,0.113333333333333
+"10 head, R0 3","18-month immunity, calves only",9,0.163333333333333
+"10 head, R0 3","18-month immunity, calves only",10,0.196666666666667
+"10 head, R0 3","18-month immunity, calves only",11,0.22
+"10 head, R0 3","18-month immunity, calves only",12,0.24
+"10 head, R0 3","18-month immunity, calves only",13,0.263333333333333
+"10 head, R0 3","18-month immunity, calves only",14,0.303333333333333
+"10 head, R0 3","18-month immunity, calves only",15,0.316666666666667
+"10 head, R0 3","18-month immunity, calves only",16,0.346666666666667
+"10 head, R0 3","18-month immunity, calves only",17,0.373333333333333
+"10 head, R0 3","18-month immunity, calves only",18,0.396666666666667
+"10 head, R0 3","18-month immunity, calves only",19,0.43
+"10 head, R0 3","18-month immunity, calves only",20,0.463333333333333
+"10 head, R0 3","18-month immunity, calves only",21,0.476666666666667
+"10 head, R0 3","18-month immunity, calves only",22,0.49
+"10 head, R0 3","18-month immunity, calves only",23,0.516666666666667
+"10 head, R0 3","18-month immunity, calves only",24,0.546666666666667
+"10 head, R0 3","18-month immunity, calves only",25,0.576666666666667
+"10 head, R0 3","18-month immunity, calves only",26,0.59
+"10 head, R0 3","18-month immunity, calves only",27,0.613333333333333
+"10 head, R0 3","18-month immunity, calves only",28,0.62
+"10 head, R0 3","18-month immunity, calves only",29,0.64
+"10 head, R0 3","18-month immunity, calves only",30,0.65
+"10 head, R0 3","18-month immunity, calves only",31,0.666666666666667
+"10 head, R0 3","18-month immunity, calves only",32,0.686666666666667
+"10 head, R0 3","18-month immunity, calves only",33,0.696666666666667
+"10 head, R0 3","18-month immunity, calves only",34,0.703333333333333
+"10 head, R0 3","18-month immunity, calves only",35,0.706666666666667
+"10 head, R0 3","18-month immunity, calves only",36,0.72
+"10 head, R0 3","18-month immunity, calves only",37,0.73
+"10 head, R0 3","18-month immunity, calves only",38,0.736666666666667
+"10 head, R0 3","18-month immunity, calves only",39,0.746666666666667
+"10 head, R0 3","18-month immunity, calves only",40,0.77
+"10 head, R0 3","18-month immunity, calves only",41,0.78
+"10 head, R0 3","18-month immunity, calves only",42,0.793333333333333
+"10 head, R0 3","18-month immunity, calves only",43,0.806666666666667
+"10 head, R0 3","18-month immunity, calves only",44,0.813333333333333
+"10 head, R0 3","18-month immunity, calves only",45,0.82
+"10 head, R0 3","18-month immunity, calves only",46,0.83
+"10 head, R0 3","18-month immunity, calves only",47,0.836666666666667
+"10 head, R0 3","18-month immunity, calves only",48,0.84
+"10 head, R0 3","18-month immunity, calves only",49,0.846666666666667
+"10 head, R0 3","18-month immunity, calves only",50,0.853333333333333
+"10 head, R0 3","18-month immunity, calves only",51,0.856666666666667
+"10 head, R0 3","18-month immunity, calves only",52,0.86
+"10 head, R0 3","18-month immunity, calves only",53,0.87
+"10 head, R0 3","18-month immunity, calves only",54,0.88
+"10 head, R0 3","18-month immunity, calves only",55,0.883333333333333
+"10 head, R0 3","18-month immunity, calves only",56,0.886666666666667
+"10 head, R0 3","18-month immunity, calves only",57,0.89
+"10 head, R0 3","18-month immunity, calves only",58,0.893333333333333
+"10 head, R0 3","18-month immunity, calves only",59,0.893333333333333
+"10 head, R0 3","18-month immunity, calves only",60,0.893333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",0,0
+"10 head, R0 3","18-month immunity, annual whole-herd booster",1,0
+"10 head, R0 3","18-month immunity, annual whole-herd booster",2,0
+"10 head, R0 3","18-month immunity, annual whole-herd booster",3,0
+"10 head, R0 3","18-month immunity, annual whole-herd booster",4,0.01
+"10 head, R0 3","18-month immunity, annual whole-herd booster",5,0.0366666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",6,0.0666666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",7,0.123333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",8,0.193333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",9,0.25
+"10 head, R0 3","18-month immunity, annual whole-herd booster",10,0.29
+"10 head, R0 3","18-month immunity, annual whole-herd booster",11,0.353333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",12,0.416666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",13,0.47
+"10 head, R0 3","18-month immunity, annual whole-herd booster",14,0.52
+"10 head, R0 3","18-month immunity, annual whole-herd booster",15,0.566666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",16,0.613333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",17,0.683333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",18,0.723333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",19,0.76
+"10 head, R0 3","18-month immunity, annual whole-herd booster",20,0.8
+"10 head, R0 3","18-month immunity, annual whole-herd booster",21,0.82
+"10 head, R0 3","18-month immunity, annual whole-herd booster",22,0.836666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",23,0.87
+"10 head, R0 3","18-month immunity, annual whole-herd booster",24,0.896666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",25,0.906666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",26,0.916666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",27,0.92
+"10 head, R0 3","18-month immunity, annual whole-herd booster",28,0.933333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",29,0.946666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",30,0.96
+"10 head, R0 3","18-month immunity, annual whole-herd booster",31,0.966666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",32,0.973333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",33,0.973333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",34,0.973333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",35,0.976666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",36,0.976666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",37,0.983333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",38,0.986666666666667
+"10 head, R0 3","18-month immunity, annual whole-herd booster",39,0.99
+"10 head, R0 3","18-month immunity, annual whole-herd booster",40,0.99
+"10 head, R0 3","18-month immunity, annual whole-herd booster",41,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",42,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",43,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",44,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",45,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",46,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",47,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",48,0.993333333333333
+"10 head, R0 3","18-month immunity, annual whole-herd booster",49,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",50,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",51,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",52,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",53,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",54,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",55,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",56,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",57,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",58,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",59,1
+"10 head, R0 3","18-month immunity, annual whole-herd booster",60,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",0,0
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",1,0
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",2,0
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",3,0.00333333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",4,0.0233333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",5,0.06
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",6,0.0866666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",7,0.123333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",8,0.163333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",9,0.22
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",10,0.283333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",11,0.35
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",12,0.406666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",13,0.48
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",14,0.533333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",15,0.573333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",16,0.62
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",17,0.65
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",18,0.683333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",19,0.733333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",20,0.773333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",21,0.8
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",22,0.83
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",23,0.86
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",24,0.89
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",25,0.916666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",26,0.93
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",27,0.936666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",28,0.956666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",29,0.966666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",30,0.973333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",31,0.98
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",32,0.983333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",33,0.983333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",34,0.986666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",35,0.986666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",36,0.993333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",37,0.993333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",38,0.993333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",39,0.993333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",40,0.993333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",41,0.993333333333333
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",42,0.996666666666667
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",43,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",44,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",45,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",46,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",47,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",48,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",49,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",50,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",51,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",52,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",53,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",54,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",55,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",56,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",57,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",58,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",59,1
+"10 head, R0 3","18-month immunity, six-monthly whole-herd booster",60,1
+"20 head, R0 3","No vaccination (status quo)",0,0
+"20 head, R0 3","No vaccination (status quo)",1,0
+"20 head, R0 3","No vaccination (status quo)",2,0
+"20 head, R0 3","No vaccination (status quo)",3,0
+"20 head, R0 3","No vaccination (status quo)",4,0
+"20 head, R0 3","No vaccination (status quo)",5,0
+"20 head, R0 3","No vaccination (status quo)",6,0
+"20 head, R0 3","No vaccination (status quo)",7,0
+"20 head, R0 3","No vaccination (status quo)",8,0
+"20 head, R0 3","No vaccination (status quo)",9,0
+"20 head, R0 3","No vaccination (status quo)",10,0
+"20 head, R0 3","No vaccination (status quo)",11,0
+"20 head, R0 3","No vaccination (status quo)",12,0
+"20 head, R0 3","No vaccination (status quo)",13,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",14,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",15,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",16,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",17,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",18,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",19,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",20,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",21,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",22,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",23,0.00666666666666667
+"20 head, R0 3","No vaccination (status quo)",24,0.01
+"20 head, R0 3","No vaccination (status quo)",25,0.01
+"20 head, R0 3","No vaccination (status quo)",26,0.01
+"20 head, R0 3","No vaccination (status quo)",27,0.01
+"20 head, R0 3","No vaccination (status quo)",28,0.01
+"20 head, R0 3","No vaccination (status quo)",29,0.01
+"20 head, R0 3","No vaccination (status quo)",30,0.01
+"20 head, R0 3","No vaccination (status quo)",31,0.01
+"20 head, R0 3","No vaccination (status quo)",32,0.01
+"20 head, R0 3","No vaccination (status quo)",33,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",34,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",35,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",36,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",37,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",38,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",39,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",40,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",41,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",42,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",43,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",44,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",45,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",46,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",47,0.0133333333333333
+"20 head, R0 3","No vaccination (status quo)",48,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",49,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",50,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",51,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",52,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",53,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",54,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",55,0.0166666666666667
+"20 head, R0 3","No vaccination (status quo)",56,0.02
+"20 head, R0 3","No vaccination (status quo)",57,0.02
+"20 head, R0 3","No vaccination (status quo)",58,0.02
+"20 head, R0 3","No vaccination (status quo)",59,0.02
+"20 head, R0 3","No vaccination (status quo)",60,0.02
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",0,0
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",1,0
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",2,0
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",3,0
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",4,0
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",5,0.00333333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",6,0.00333333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",7,0.00333333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",8,0.0166666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",9,0.02
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",10,0.0566666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",11,0.09
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",12,0.116666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",13,0.19
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",14,0.253333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",15,0.303333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",16,0.353333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",17,0.396666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",18,0.453333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",19,0.52
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",20,0.583333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",21,0.64
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",22,0.69
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",23,0.716666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",24,0.746666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",25,0.783333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",26,0.813333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",27,0.843333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",28,0.873333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",29,0.89
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",30,0.91
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",31,0.93
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",32,0.946666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",33,0.946666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",34,0.95
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",35,0.963333333333333
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",36,0.976666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",37,0.98
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",38,0.98
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",39,0.99
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",40,0.99
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",41,0.996666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",42,0.996666666666667
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",43,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",44,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",45,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",46,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",47,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",48,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",49,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",50,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",51,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",52,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",53,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",54,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",55,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",56,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",57,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",58,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",59,1
+"20 head, R0 3","Lifelong immunity, calves only (paper assumption)",60,1
+"20 head, R0 3","18-month immunity, calves only",0,0
+"20 head, R0 3","18-month immunity, calves only",1,0
+"20 head, R0 3","18-month immunity, calves only",2,0
+"20 head, R0 3","18-month immunity, calves only",3,0
+"20 head, R0 3","18-month immunity, calves only",4,0
+"20 head, R0 3","18-month immunity, calves only",5,0
+"20 head, R0 3","18-month immunity, calves only",6,0
+"20 head, R0 3","18-month immunity, calves only",7,0.00333333333333333
+"20 head, R0 3","18-month immunity, calves only",8,0.00333333333333333
+"20 head, R0 3","18-month immunity, calves only",9,0.00666666666666667
+"20 head, R0 3","18-month immunity, calves only",10,0.0133333333333333
+"20 head, R0 3","18-month immunity, calves only",11,0.0266666666666667
+"20 head, R0 3","18-month immunity, calves only",12,0.03
+"20 head, R0 3","18-month immunity, calves only",13,0.0366666666666667
+"20 head, R0 3","18-month immunity, calves only",14,0.0366666666666667
+"20 head, R0 3","18-month immunity, calves only",15,0.0566666666666667
+"20 head, R0 3","18-month immunity, calves only",16,0.0733333333333333
+"20 head, R0 3","18-month immunity, calves only",17,0.0833333333333333
+"20 head, R0 3","18-month immunity, calves only",18,0.11
+"20 head, R0 3","18-month immunity, calves only",19,0.123333333333333
+"20 head, R0 3","18-month immunity, calves only",20,0.136666666666667
+"20 head, R0 3","18-month immunity, calves only",21,0.153333333333333
+"20 head, R0 3","18-month immunity, calves only",22,0.16
+"20 head, R0 3","18-month immunity, calves only",23,0.19
+"20 head, R0 3","18-month immunity, calves only",24,0.196666666666667
+"20 head, R0 3","18-month immunity, calves only",25,0.213333333333333
+"20 head, R0 3","18-month immunity, calves only",26,0.216666666666667
+"20 head, R0 3","18-month immunity, calves only",27,0.223333333333333
+"20 head, R0 3","18-month immunity, calves only",28,0.233333333333333
+"20 head, R0 3","18-month immunity, calves only",29,0.236666666666667
+"20 head, R0 3","18-month immunity, calves only",30,0.243333333333333
+"20 head, R0 3","18-month immunity, calves only",31,0.25
+"20 head, R0 3","18-month immunity, calves only",32,0.26
+"20 head, R0 3","18-month immunity, calves only",33,0.273333333333333
+"20 head, R0 3","18-month immunity, calves only",34,0.28
+"20 head, R0 3","18-month immunity, calves only",35,0.296666666666667
+"20 head, R0 3","18-month immunity, calves only",36,0.303333333333333
+"20 head, R0 3","18-month immunity, calves only",37,0.316666666666667
+"20 head, R0 3","18-month immunity, calves only",38,0.33
+"20 head, R0 3","18-month immunity, calves only",39,0.346666666666667
+"20 head, R0 3","18-month immunity, calves only",40,0.353333333333333
+"20 head, R0 3","18-month immunity, calves only",41,0.353333333333333
+"20 head, R0 3","18-month immunity, calves only",42,0.363333333333333
+"20 head, R0 3","18-month immunity, calves only",43,0.376666666666667
+"20 head, R0 3","18-month immunity, calves only",44,0.386666666666667
+"20 head, R0 3","18-month immunity, calves only",45,0.396666666666667
+"20 head, R0 3","18-month immunity, calves only",46,0.403333333333333
+"20 head, R0 3","18-month immunity, calves only",47,0.406666666666667
+"20 head, R0 3","18-month immunity, calves only",48,0.423333333333333
+"20 head, R0 3","18-month immunity, calves only",49,0.426666666666667
+"20 head, R0 3","18-month immunity, calves only",50,0.433333333333333
+"20 head, R0 3","18-month immunity, calves only",51,0.443333333333333
+"20 head, R0 3","18-month immunity, calves only",52,0.446666666666667
+"20 head, R0 3","18-month immunity, calves only",53,0.456666666666667
+"20 head, R0 3","18-month immunity, calves only",54,0.47
+"20 head, R0 3","18-month immunity, calves only",55,0.48
+"20 head, R0 3","18-month immunity, calves only",56,0.49
+"20 head, R0 3","18-month immunity, calves only",57,0.5
+"20 head, R0 3","18-month immunity, calves only",58,0.503333333333333
+"20 head, R0 3","18-month immunity, calves only",59,0.51
+"20 head, R0 3","18-month immunity, calves only",60,0.516666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",0,0
+"20 head, R0 3","18-month immunity, annual whole-herd booster",1,0
+"20 head, R0 3","18-month immunity, annual whole-herd booster",2,0
+"20 head, R0 3","18-month immunity, annual whole-herd booster",3,0
+"20 head, R0 3","18-month immunity, annual whole-herd booster",4,0
+"20 head, R0 3","18-month immunity, annual whole-herd booster",5,0.00333333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",6,0.00666666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",7,0.0166666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",8,0.02
+"20 head, R0 3","18-month immunity, annual whole-herd booster",9,0.0333333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",10,0.06
+"20 head, R0 3","18-month immunity, annual whole-herd booster",11,0.1
+"20 head, R0 3","18-month immunity, annual whole-herd booster",12,0.163333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",13,0.223333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",14,0.28
+"20 head, R0 3","18-month immunity, annual whole-herd booster",15,0.323333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",16,0.376666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",17,0.456666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",18,0.513333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",19,0.57
+"20 head, R0 3","18-month immunity, annual whole-herd booster",20,0.63
+"20 head, R0 3","18-month immunity, annual whole-herd booster",21,0.673333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",22,0.726666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",23,0.78
+"20 head, R0 3","18-month immunity, annual whole-herd booster",24,0.826666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",25,0.85
+"20 head, R0 3","18-month immunity, annual whole-herd booster",26,0.866666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",27,0.88
+"20 head, R0 3","18-month immunity, annual whole-herd booster",28,0.896666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",29,0.903333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",30,0.92
+"20 head, R0 3","18-month immunity, annual whole-herd booster",31,0.933333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",32,0.943333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",33,0.96
+"20 head, R0 3","18-month immunity, annual whole-herd booster",34,0.966666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",35,0.973333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",36,0.973333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",37,0.986666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",38,0.986666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",39,0.993333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",40,0.993333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",41,0.993333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",42,0.993333333333333
+"20 head, R0 3","18-month immunity, annual whole-herd booster",43,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",44,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",45,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",46,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",47,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",48,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",49,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",50,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",51,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",52,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",53,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",54,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",55,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",56,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",57,0.996666666666667
+"20 head, R0 3","18-month immunity, annual whole-herd booster",58,1
+"20 head, R0 3","18-month immunity, annual whole-herd booster",59,1
+"20 head, R0 3","18-month immunity, annual whole-herd booster",60,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",0,0
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",1,0
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",2,0
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",3,0
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",4,0
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",5,0.00333333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",6,0.0133333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",7,0.0233333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",8,0.0466666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",9,0.0766666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",10,0.103333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",11,0.123333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",12,0.163333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",13,0.206666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",14,0.24
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",15,0.296666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",16,0.363333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",17,0.42
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",18,0.483333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",19,0.57
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",20,0.633333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",21,0.68
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",22,0.716666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",23,0.746666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",24,0.783333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",25,0.816666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",26,0.853333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",27,0.866666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",28,0.876666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",29,0.903333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",30,0.916666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",31,0.926666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",32,0.936666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",33,0.94
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",34,0.95
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",35,0.966666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",36,0.97
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",37,0.98
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",38,0.99
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",39,0.993333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",40,0.993333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",41,0.993333333333333
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",42,0.996666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",43,0.996666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",44,0.996666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",45,0.996666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",46,0.996666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",47,0.996666666666667
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",48,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",49,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",50,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",51,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",52,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",53,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",54,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",55,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",56,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",57,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",58,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",59,1
+"20 head, R0 3","18-month immunity, six-monthly whole-herd booster",60,1
+"100 head, R0 2","No vaccination (status quo)",0,0
+"100 head, R0 2","No vaccination (status quo)",1,0
+"100 head, R0 2","No vaccination (status quo)",2,0
+"100 head, R0 2","No vaccination (status quo)",3,0
+"100 head, R0 2","No vaccination (status quo)",4,0
+"100 head, R0 2","No vaccination (status quo)",5,0
+"100 head, R0 2","No vaccination (status quo)",6,0
+"100 head, R0 2","No vaccination (status quo)",7,0
+"100 head, R0 2","No vaccination (status quo)",8,0
+"100 head, R0 2","No vaccination (status quo)",9,0
+"100 head, R0 2","No vaccination (status quo)",10,0
+"100 head, R0 2","No vaccination (status quo)",11,0
+"100 head, R0 2","No vaccination (status quo)",12,0
+"100 head, R0 2","No vaccination (status quo)",13,0
+"100 head, R0 2","No vaccination (status quo)",14,0
+"100 head, R0 2","No vaccination (status quo)",15,0
+"100 head, R0 2","No vaccination (status quo)",16,0
+"100 head, R0 2","No vaccination (status quo)",17,0
+"100 head, R0 2","No vaccination (status quo)",18,0
+"100 head, R0 2","No vaccination (status quo)",19,0
+"100 head, R0 2","No vaccination (status quo)",20,0
+"100 head, R0 2","No vaccination (status quo)",21,0
+"100 head, R0 2","No vaccination (status quo)",22,0
+"100 head, R0 2","No vaccination (status quo)",23,0
+"100 head, R0 2","No vaccination (status quo)",24,0
+"100 head, R0 2","No vaccination (status quo)",25,0
+"100 head, R0 2","No vaccination (status quo)",26,0
+"100 head, R0 2","No vaccination (status quo)",27,0
+"100 head, R0 2","No vaccination (status quo)",28,0
+"100 head, R0 2","No vaccination (status quo)",29,0
+"100 head, R0 2","No vaccination (status quo)",30,0
+"100 head, R0 2","No vaccination (status quo)",31,0
+"100 head, R0 2","No vaccination (status quo)",32,0
+"100 head, R0 2","No vaccination (status quo)",33,0
+"100 head, R0 2","No vaccination (status quo)",34,0
+"100 head, R0 2","No vaccination (status quo)",35,0
+"100 head, R0 2","No vaccination (status quo)",36,0
+"100 head, R0 2","No vaccination (status quo)",37,0
+"100 head, R0 2","No vaccination (status quo)",38,0
+"100 head, R0 2","No vaccination (status quo)",39,0
+"100 head, R0 2","No vaccination (status quo)",40,0
+"100 head, R0 2","No vaccination (status quo)",41,0
+"100 head, R0 2","No vaccination (status quo)",42,0
+"100 head, R0 2","No vaccination (status quo)",43,0
+"100 head, R0 2","No vaccination (status quo)",44,0
+"100 head, R0 2","No vaccination (status quo)",45,0
+"100 head, R0 2","No vaccination (status quo)",46,0
+"100 head, R0 2","No vaccination (status quo)",47,0
+"100 head, R0 2","No vaccination (status quo)",48,0
+"100 head, R0 2","No vaccination (status quo)",49,0
+"100 head, R0 2","No vaccination (status quo)",50,0
+"100 head, R0 2","No vaccination (status quo)",51,0
+"100 head, R0 2","No vaccination (status quo)",52,0
+"100 head, R0 2","No vaccination (status quo)",53,0
+"100 head, R0 2","No vaccination (status quo)",54,0
+"100 head, R0 2","No vaccination (status quo)",55,0
+"100 head, R0 2","No vaccination (status quo)",56,0
+"100 head, R0 2","No vaccination (status quo)",57,0
+"100 head, R0 2","No vaccination (status quo)",58,0
+"100 head, R0 2","No vaccination (status quo)",59,0
+"100 head, R0 2","No vaccination (status quo)",60,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",0,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",1,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",2,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",3,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",4,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",5,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",6,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",7,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",8,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",9,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",10,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",11,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",12,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",13,0
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",14,0.00333333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",15,0.0133333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",16,0.0233333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",17,0.04
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",18,0.0733333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",19,0.13
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",20,0.18
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",21,0.243333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",22,0.31
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",23,0.386666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",24,0.463333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",25,0.52
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",26,0.566666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",27,0.613333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",28,0.656666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",29,0.696666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",30,0.733333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",31,0.77
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",32,0.796666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",33,0.83
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",34,0.856666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",35,0.89
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",36,0.913333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",37,0.946666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",38,0.953333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",39,0.956666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",40,0.963333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",41,0.976666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",42,0.98
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",43,0.983333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",44,0.993333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",45,0.993333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",46,0.993333333333333
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",47,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",48,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",49,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",50,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",51,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",52,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",53,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",54,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",55,0.996666666666667
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",56,1
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",57,1
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",58,1
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",59,1
+"100 head, R0 2","Lifelong immunity, calves only (paper assumption)",60,1
+"100 head, R0 2","18-month immunity, calves only",0,0
+"100 head, R0 2","18-month immunity, calves only",1,0
+"100 head, R0 2","18-month immunity, calves only",2,0
+"100 head, R0 2","18-month immunity, calves only",3,0
+"100 head, R0 2","18-month immunity, calves only",4,0
+"100 head, R0 2","18-month immunity, calves only",5,0
+"100 head, R0 2","18-month immunity, calves only",6,0
+"100 head, R0 2","18-month immunity, calves only",7,0
+"100 head, R0 2","18-month immunity, calves only",8,0
+"100 head, R0 2","18-month immunity, calves only",9,0
+"100 head, R0 2","18-month immunity, calves only",10,0
+"100 head, R0 2","18-month immunity, calves only",11,0
+"100 head, R0 2","18-month immunity, calves only",12,0
+"100 head, R0 2","18-month immunity, calves only",13,0
+"100 head, R0 2","18-month immunity, calves only",14,0
+"100 head, R0 2","18-month immunity, calves only",15,0
+"100 head, R0 2","18-month immunity, calves only",16,0
+"100 head, R0 2","18-month immunity, calves only",17,0
+"100 head, R0 2","18-month immunity, calves only",18,0
+"100 head, R0 2","18-month immunity, calves only",19,0
+"100 head, R0 2","18-month immunity, calves only",20,0
+"100 head, R0 2","18-month immunity, calves only",21,0
+"100 head, R0 2","18-month immunity, calves only",22,0
+"100 head, R0 2","18-month immunity, calves only",23,0
+"100 head, R0 2","18-month immunity, calves only",24,0.00333333333333333
+"100 head, R0 2","18-month immunity, calves only",25,0.00333333333333333
+"100 head, R0 2","18-month immunity, calves only",26,0.00666666666666667
+"100 head, R0 2","18-month immunity, calves only",27,0.01
+"100 head, R0 2","18-month immunity, calves only",28,0.01
+"100 head, R0 2","18-month immunity, calves only",29,0.01
+"100 head, R0 2","18-month immunity, calves only",30,0.01
+"100 head, R0 2","18-month immunity, calves only",31,0.01
+"100 head, R0 2","18-month immunity, calves only",32,0.0133333333333333
+"100 head, R0 2","18-month immunity, calves only",33,0.0166666666666667
+"100 head, R0 2","18-month immunity, calves only",34,0.0166666666666667
+"100 head, R0 2","18-month immunity, calves only",35,0.02
+"100 head, R0 2","18-month immunity, calves only",36,0.0266666666666667
+"100 head, R0 2","18-month immunity, calves only",37,0.0366666666666667
+"100 head, R0 2","18-month immunity, calves only",38,0.0366666666666667
+"100 head, R0 2","18-month immunity, calves only",39,0.04
+"100 head, R0 2","18-month immunity, calves only",40,0.0433333333333333
+"100 head, R0 2","18-month immunity, calves only",41,0.0433333333333333
+"100 head, R0 2","18-month immunity, calves only",42,0.0466666666666667
+"100 head, R0 2","18-month immunity, calves only",43,0.0466666666666667
+"100 head, R0 2","18-month immunity, calves only",44,0.05
+"100 head, R0 2","18-month immunity, calves only",45,0.0533333333333333
+"100 head, R0 2","18-month immunity, calves only",46,0.0533333333333333
+"100 head, R0 2","18-month immunity, calves only",47,0.0566666666666667
+"100 head, R0 2","18-month immunity, calves only",48,0.0633333333333333
+"100 head, R0 2","18-month immunity, calves only",49,0.0666666666666667
+"100 head, R0 2","18-month immunity, calves only",50,0.07
+"100 head, R0 2","18-month immunity, calves only",51,0.07
+"100 head, R0 2","18-month immunity, calves only",52,0.07
+"100 head, R0 2","18-month immunity, calves only",53,0.07
+"100 head, R0 2","18-month immunity, calves only",54,0.0766666666666667
+"100 head, R0 2","18-month immunity, calves only",55,0.08
+"100 head, R0 2","18-month immunity, calves only",56,0.08
+"100 head, R0 2","18-month immunity, calves only",57,0.0833333333333333
+"100 head, R0 2","18-month immunity, calves only",58,0.0833333333333333
+"100 head, R0 2","18-month immunity, calves only",59,0.0866666666666667
+"100 head, R0 2","18-month immunity, calves only",60,0.0966666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",0,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",1,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",2,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",3,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",4,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",5,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",6,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",7,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",8,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",9,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",10,0
+"100 head, R0 2","18-month immunity, annual whole-herd booster",11,0.00333333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",12,0.00666666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",13,0.0133333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",14,0.0233333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",15,0.05
+"100 head, R0 2","18-month immunity, annual whole-herd booster",16,0.0933333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",17,0.136666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",18,0.196666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",19,0.266666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",20,0.34
+"100 head, R0 2","18-month immunity, annual whole-herd booster",21,0.416666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",22,0.486666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",23,0.536666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",24,0.6
+"100 head, R0 2","18-month immunity, annual whole-herd booster",25,0.633333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",26,0.696666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",27,0.723333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",28,0.763333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",29,0.79
+"100 head, R0 2","18-month immunity, annual whole-herd booster",30,0.813333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",31,0.853333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",32,0.88
+"100 head, R0 2","18-month immunity, annual whole-herd booster",33,0.9
+"100 head, R0 2","18-month immunity, annual whole-herd booster",34,0.91
+"100 head, R0 2","18-month immunity, annual whole-herd booster",35,0.923333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",36,0.946666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",37,0.956666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",38,0.96
+"100 head, R0 2","18-month immunity, annual whole-herd booster",39,0.963333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",40,0.963333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",41,0.966666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",42,0.976666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",43,0.98
+"100 head, R0 2","18-month immunity, annual whole-herd booster",44,0.99
+"100 head, R0 2","18-month immunity, annual whole-herd booster",45,0.993333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",46,0.993333333333333
+"100 head, R0 2","18-month immunity, annual whole-herd booster",47,0.996666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",48,0.996666666666667
+"100 head, R0 2","18-month immunity, annual whole-herd booster",49,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",50,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",51,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",52,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",53,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",54,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",55,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",56,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",57,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",58,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",59,1
+"100 head, R0 2","18-month immunity, annual whole-herd booster",60,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",0,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",1,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",2,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",3,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",4,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",5,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",6,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",7,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",8,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",9,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",10,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",11,0
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",12,0.00333333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",13,0.01
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",14,0.03
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",15,0.0433333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",16,0.07
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",17,0.113333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",18,0.166666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",19,0.22
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",20,0.296666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",21,0.363333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",22,0.423333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",23,0.483333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",24,0.56
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",25,0.64
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",26,0.703333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",27,0.76
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",28,0.786666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",29,0.826666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",30,0.853333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",31,0.883333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",32,0.92
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",33,0.93
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",34,0.94
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",35,0.95
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",36,0.956666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",37,0.963333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",38,0.966666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",39,0.97
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",40,0.976666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",41,0.986666666666667
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",42,0.99
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",43,0.993333333333333
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",44,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",45,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",46,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",47,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",48,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",49,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",50,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",51,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",52,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",53,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",54,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",55,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",56,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",57,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",58,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",59,1
+"100 head, R0 2","18-month immunity, six-monthly whole-herd booster",60,1
+"100 head, R0 3","No vaccination (status quo)",0,0
+"100 head, R0 3","No vaccination (status quo)",1,0
+"100 head, R0 3","No vaccination (status quo)",2,0
+"100 head, R0 3","No vaccination (status quo)",3,0
+"100 head, R0 3","No vaccination (status quo)",4,0
+"100 head, R0 3","No vaccination (status quo)",5,0
+"100 head, R0 3","No vaccination (status quo)",6,0
+"100 head, R0 3","No vaccination (status quo)",7,0
+"100 head, R0 3","No vaccination (status quo)",8,0
+"100 head, R0 3","No vaccination (status quo)",9,0
+"100 head, R0 3","No vaccination (status quo)",10,0
+"100 head, R0 3","No vaccination (status quo)",11,0
+"100 head, R0 3","No vaccination (status quo)",12,0
+"100 head, R0 3","No vaccination (status quo)",13,0
+"100 head, R0 3","No vaccination (status quo)",14,0
+"100 head, R0 3","No vaccination (status quo)",15,0
+"100 head, R0 3","No vaccination (status quo)",16,0
+"100 head, R0 3","No vaccination (status quo)",17,0
+"100 head, R0 3","No vaccination (status quo)",18,0
+"100 head, R0 3","No vaccination (status quo)",19,0
+"100 head, R0 3","No vaccination (status quo)",20,0
+"100 head, R0 3","No vaccination (status quo)",21,0
+"100 head, R0 3","No vaccination (status quo)",22,0
+"100 head, R0 3","No vaccination (status quo)",23,0
+"100 head, R0 3","No vaccination (status quo)",24,0
+"100 head, R0 3","No vaccination (status quo)",25,0
+"100 head, R0 3","No vaccination (status quo)",26,0
+"100 head, R0 3","No vaccination (status quo)",27,0
+"100 head, R0 3","No vaccination (status quo)",28,0
+"100 head, R0 3","No vaccination (status quo)",29,0
+"100 head, R0 3","No vaccination (status quo)",30,0
+"100 head, R0 3","No vaccination (status quo)",31,0
+"100 head, R0 3","No vaccination (status quo)",32,0
+"100 head, R0 3","No vaccination (status quo)",33,0
+"100 head, R0 3","No vaccination (status quo)",34,0
+"100 head, R0 3","No vaccination (status quo)",35,0
+"100 head, R0 3","No vaccination (status quo)",36,0
+"100 head, R0 3","No vaccination (status quo)",37,0
+"100 head, R0 3","No vaccination (status quo)",38,0
+"100 head, R0 3","No vaccination (status quo)",39,0
+"100 head, R0 3","No vaccination (status quo)",40,0
+"100 head, R0 3","No vaccination (status quo)",41,0
+"100 head, R0 3","No vaccination (status quo)",42,0
+"100 head, R0 3","No vaccination (status quo)",43,0
+"100 head, R0 3","No vaccination (status quo)",44,0
+"100 head, R0 3","No vaccination (status quo)",45,0
+"100 head, R0 3","No vaccination (status quo)",46,0
+"100 head, R0 3","No vaccination (status quo)",47,0
+"100 head, R0 3","No vaccination (status quo)",48,0
+"100 head, R0 3","No vaccination (status quo)",49,0
+"100 head, R0 3","No vaccination (status quo)",50,0
+"100 head, R0 3","No vaccination (status quo)",51,0
+"100 head, R0 3","No vaccination (status quo)",52,0
+"100 head, R0 3","No vaccination (status quo)",53,0
+"100 head, R0 3","No vaccination (status quo)",54,0
+"100 head, R0 3","No vaccination (status quo)",55,0
+"100 head, R0 3","No vaccination (status quo)",56,0
+"100 head, R0 3","No vaccination (status quo)",57,0
+"100 head, R0 3","No vaccination (status quo)",58,0
+"100 head, R0 3","No vaccination (status quo)",59,0
+"100 head, R0 3","No vaccination (status quo)",60,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",0,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",1,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",2,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",3,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",4,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",5,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",6,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",7,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",8,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",9,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",10,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",11,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",12,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",13,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",14,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",15,0
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",16,0.00333333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",17,0.00333333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",18,0.02
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",19,0.0333333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",20,0.06
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",21,0.0733333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",22,0.12
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",23,0.176666666666667
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",24,0.23
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",25,0.3
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",26,0.356666666666667
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",27,0.45
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",28,0.49
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",29,0.583333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",30,0.633333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",31,0.68
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",32,0.74
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",33,0.78
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",34,0.816666666666667
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",35,0.84
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",36,0.873333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",37,0.873333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",38,0.896666666666667
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",39,0.903333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",40,0.92
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",41,0.943333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",42,0.946666666666667
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",43,0.96
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",44,0.976666666666667
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",45,0.986666666666667
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",46,0.99
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",47,0.99
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",48,0.993333333333333
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",49,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",50,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",51,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",52,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",53,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",54,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",55,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",56,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",57,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",58,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",59,1
+"100 head, R0 3","Lifelong immunity, calves only (paper assumption)",60,1
+"100 head, R0 3","18-month immunity, calves only",0,0
+"100 head, R0 3","18-month immunity, calves only",1,0
+"100 head, R0 3","18-month immunity, calves only",2,0
+"100 head, R0 3","18-month immunity, calves only",3,0
+"100 head, R0 3","18-month immunity, calves only",4,0
+"100 head, R0 3","18-month immunity, calves only",5,0
+"100 head, R0 3","18-month immunity, calves only",6,0
+"100 head, R0 3","18-month immunity, calves only",7,0
+"100 head, R0 3","18-month immunity, calves only",8,0
+"100 head, R0 3","18-month immunity, calves only",9,0
+"100 head, R0 3","18-month immunity, calves only",10,0
+"100 head, R0 3","18-month immunity, calves only",11,0
+"100 head, R0 3","18-month immunity, calves only",12,0
+"100 head, R0 3","18-month immunity, calves only",13,0
+"100 head, R0 3","18-month immunity, calves only",14,0
+"100 head, R0 3","18-month immunity, calves only",15,0
+"100 head, R0 3","18-month immunity, calves only",16,0
+"100 head, R0 3","18-month immunity, calves only",17,0
+"100 head, R0 3","18-month immunity, calves only",18,0
+"100 head, R0 3","18-month immunity, calves only",19,0
+"100 head, R0 3","18-month immunity, calves only",20,0
+"100 head, R0 3","18-month immunity, calves only",21,0
+"100 head, R0 3","18-month immunity, calves only",22,0
+"100 head, R0 3","18-month immunity, calves only",23,0
+"100 head, R0 3","18-month immunity, calves only",24,0
+"100 head, R0 3","18-month immunity, calves only",25,0
+"100 head, R0 3","18-month immunity, calves only",26,0
+"100 head, R0 3","18-month immunity, calves only",27,0
+"100 head, R0 3","18-month immunity, calves only",28,0
+"100 head, R0 3","18-month immunity, calves only",29,0
+"100 head, R0 3","18-month immunity, calves only",30,0
+"100 head, R0 3","18-month immunity, calves only",31,0
+"100 head, R0 3","18-month immunity, calves only",32,0
+"100 head, R0 3","18-month immunity, calves only",33,0
+"100 head, R0 3","18-month immunity, calves only",34,0
+"100 head, R0 3","18-month immunity, calves only",35,0
+"100 head, R0 3","18-month immunity, calves only",36,0
+"100 head, R0 3","18-month immunity, calves only",37,0
+"100 head, R0 3","18-month immunity, calves only",38,0
+"100 head, R0 3","18-month immunity, calves only",39,0
+"100 head, R0 3","18-month immunity, calves only",40,0
+"100 head, R0 3","18-month immunity, calves only",41,0
+"100 head, R0 3","18-month immunity, calves only",42,0
+"100 head, R0 3","18-month immunity, calves only",43,0
+"100 head, R0 3","18-month immunity, calves only",44,0
+"100 head, R0 3","18-month immunity, calves only",45,0
+"100 head, R0 3","18-month immunity, calves only",46,0
+"100 head, R0 3","18-month immunity, calves only",47,0
+"100 head, R0 3","18-month immunity, calves only",48,0
+"100 head, R0 3","18-month immunity, calves only",49,0
+"100 head, R0 3","18-month immunity, calves only",50,0
+"100 head, R0 3","18-month immunity, calves only",51,0
+"100 head, R0 3","18-month immunity, calves only",52,0
+"100 head, R0 3","18-month immunity, calves only",53,0
+"100 head, R0 3","18-month immunity, calves only",54,0
+"100 head, R0 3","18-month immunity, calves only",55,0
+"100 head, R0 3","18-month immunity, calves only",56,0
+"100 head, R0 3","18-month immunity, calves only",57,0
+"100 head, R0 3","18-month immunity, calves only",58,0
+"100 head, R0 3","18-month immunity, calves only",59,0
+"100 head, R0 3","18-month immunity, calves only",60,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",0,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",1,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",2,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",3,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",4,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",5,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",6,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",7,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",8,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",9,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",10,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",11,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",12,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",13,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",14,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",15,0
+"100 head, R0 3","18-month immunity, annual whole-herd booster",16,0.00333333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",17,0.01
+"100 head, R0 3","18-month immunity, annual whole-herd booster",18,0.0366666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",19,0.07
+"100 head, R0 3","18-month immunity, annual whole-herd booster",20,0.0866666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",21,0.14
+"100 head, R0 3","18-month immunity, annual whole-herd booster",22,0.166666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",23,0.21
+"100 head, R0 3","18-month immunity, annual whole-herd booster",24,0.31
+"100 head, R0 3","18-month immunity, annual whole-herd booster",25,0.383333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",26,0.443333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",27,0.53
+"100 head, R0 3","18-month immunity, annual whole-herd booster",28,0.586666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",29,0.646666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",30,0.696666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",31,0.733333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",32,0.756666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",33,0.786666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",34,0.82
+"100 head, R0 3","18-month immunity, annual whole-herd booster",35,0.83
+"100 head, R0 3","18-month immunity, annual whole-herd booster",36,0.856666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",37,0.876666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",38,0.886666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",39,0.903333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",40,0.923333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",41,0.936666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",42,0.946666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",43,0.956666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",44,0.963333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",45,0.97
+"100 head, R0 3","18-month immunity, annual whole-herd booster",46,0.976666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",47,0.98
+"100 head, R0 3","18-month immunity, annual whole-herd booster",48,0.983333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",49,0.983333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",50,0.983333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",51,0.99
+"100 head, R0 3","18-month immunity, annual whole-herd booster",52,0.993333333333333
+"100 head, R0 3","18-month immunity, annual whole-herd booster",53,0.996666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",54,0.996666666666667
+"100 head, R0 3","18-month immunity, annual whole-herd booster",55,1
+"100 head, R0 3","18-month immunity, annual whole-herd booster",56,1
+"100 head, R0 3","18-month immunity, annual whole-herd booster",57,1
+"100 head, R0 3","18-month immunity, annual whole-herd booster",58,1
+"100 head, R0 3","18-month immunity, annual whole-herd booster",59,1
+"100 head, R0 3","18-month immunity, annual whole-herd booster",60,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",0,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",1,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",2,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",3,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",4,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",5,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",6,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",7,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",8,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",9,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",10,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",11,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",12,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",13,0
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",14,0.00333333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",15,0.00666666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",16,0.02
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",17,0.02
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",18,0.0433333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",19,0.0766666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",20,0.103333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",21,0.146666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",22,0.223333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",23,0.283333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",24,0.35
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",25,0.416666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",26,0.463333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",27,0.523333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",28,0.593333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",29,0.646666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",30,0.66
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",31,0.683333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",32,0.72
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",33,0.773333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",34,0.823333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",35,0.843333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",36,0.856666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",37,0.876666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",38,0.903333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",39,0.926666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",40,0.943333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",41,0.953333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",42,0.963333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",43,0.966666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",44,0.973333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",45,0.98
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",46,0.986666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",47,0.99
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",48,0.99
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",49,0.993333333333333
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",50,0.996666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",51,0.996666666666667
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",52,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",53,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",54,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",55,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",56,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",57,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",58,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",59,1
+"100 head, R0 3","18-month immunity, six-monthly whole-herd booster",60,1
+"200 head, R0 3","No vaccination (status quo)",0,0
+"200 head, R0 3","No vaccination (status quo)",1,0
+"200 head, R0 3","No vaccination (status quo)",2,0
+"200 head, R0 3","No vaccination (status quo)",3,0
+"200 head, R0 3","No vaccination (status quo)",4,0
+"200 head, R0 3","No vaccination (status quo)",5,0
+"200 head, R0 3","No vaccination (status quo)",6,0
+"200 head, R0 3","No vaccination (status quo)",7,0
+"200 head, R0 3","No vaccination (status quo)",8,0
+"200 head, R0 3","No vaccination (status quo)",9,0
+"200 head, R0 3","No vaccination (status quo)",10,0
+"200 head, R0 3","No vaccination (status quo)",11,0
+"200 head, R0 3","No vaccination (status quo)",12,0
+"200 head, R0 3","No vaccination (status quo)",13,0
+"200 head, R0 3","No vaccination (status quo)",14,0
+"200 head, R0 3","No vaccination (status quo)",15,0
+"200 head, R0 3","No vaccination (status quo)",16,0
+"200 head, R0 3","No vaccination (status quo)",17,0
+"200 head, R0 3","No vaccination (status quo)",18,0
+"200 head, R0 3","No vaccination (status quo)",19,0
+"200 head, R0 3","No vaccination (status quo)",20,0
+"200 head, R0 3","No vaccination (status quo)",21,0
+"200 head, R0 3","No vaccination (status quo)",22,0
+"200 head, R0 3","No vaccination (status quo)",23,0
+"200 head, R0 3","No vaccination (status quo)",24,0
+"200 head, R0 3","No vaccination (status quo)",25,0
+"200 head, R0 3","No vaccination (status quo)",26,0
+"200 head, R0 3","No vaccination (status quo)",27,0
+"200 head, R0 3","No vaccination (status quo)",28,0
+"200 head, R0 3","No vaccination (status quo)",29,0
+"200 head, R0 3","No vaccination (status quo)",30,0
+"200 head, R0 3","No vaccination (status quo)",31,0
+"200 head, R0 3","No vaccination (status quo)",32,0
+"200 head, R0 3","No vaccination (status quo)",33,0
+"200 head, R0 3","No vaccination (status quo)",34,0
+"200 head, R0 3","No vaccination (status quo)",35,0
+"200 head, R0 3","No vaccination (status quo)",36,0
+"200 head, R0 3","No vaccination (status quo)",37,0
+"200 head, R0 3","No vaccination (status quo)",38,0
+"200 head, R0 3","No vaccination (status quo)",39,0
+"200 head, R0 3","No vaccination (status quo)",40,0
+"200 head, R0 3","No vaccination (status quo)",41,0
+"200 head, R0 3","No vaccination (status quo)",42,0
+"200 head, R0 3","No vaccination (status quo)",43,0
+"200 head, R0 3","No vaccination (status quo)",44,0
+"200 head, R0 3","No vaccination (status quo)",45,0
+"200 head, R0 3","No vaccination (status quo)",46,0
+"200 head, R0 3","No vaccination (status quo)",47,0
+"200 head, R0 3","No vaccination (status quo)",48,0
+"200 head, R0 3","No vaccination (status quo)",49,0
+"200 head, R0 3","No vaccination (status quo)",50,0
+"200 head, R0 3","No vaccination (status quo)",51,0
+"200 head, R0 3","No vaccination (status quo)",52,0
+"200 head, R0 3","No vaccination (status quo)",53,0
+"200 head, R0 3","No vaccination (status quo)",54,0
+"200 head, R0 3","No vaccination (status quo)",55,0
+"200 head, R0 3","No vaccination (status quo)",56,0
+"200 head, R0 3","No vaccination (status quo)",57,0
+"200 head, R0 3","No vaccination (status quo)",58,0
+"200 head, R0 3","No vaccination (status quo)",59,0
+"200 head, R0 3","No vaccination (status quo)",60,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",0,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",1,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",2,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",3,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",4,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",5,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",6,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",7,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",8,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",9,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",10,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",11,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",12,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",13,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",14,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",15,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",16,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",17,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",18,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",19,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",20,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",21,0
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",22,0.0133333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",23,0.03
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",24,0.0766666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",25,0.0966666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",26,0.14
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",27,0.163333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",28,0.226666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",29,0.283333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",30,0.343333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",31,0.423333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",32,0.496666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",33,0.563333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",34,0.626666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",35,0.676666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",36,0.716666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",37,0.786666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",38,0.81
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",39,0.823333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",40,0.85
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",41,0.876666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",42,0.9
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",43,0.92
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",44,0.943333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",45,0.946666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",46,0.953333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",47,0.963333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",48,0.97
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",49,0.973333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",50,0.973333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",51,0.973333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",52,0.983333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",53,0.983333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",54,0.983333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",55,0.983333333333333
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",56,0.986666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",57,0.99
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",58,0.996666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",59,0.996666666666667
+"200 head, R0 3","Lifelong immunity, calves only (paper assumption)",60,0.996666666666667
+"200 head, R0 3","18-month immunity, calves only",0,0
+"200 head, R0 3","18-month immunity, calves only",1,0
+"200 head, R0 3","18-month immunity, calves only",2,0
+"200 head, R0 3","18-month immunity, calves only",3,0
+"200 head, R0 3","18-month immunity, calves only",4,0
+"200 head, R0 3","18-month immunity, calves only",5,0
+"200 head, R0 3","18-month immunity, calves only",6,0
+"200 head, R0 3","18-month immunity, calves only",7,0
+"200 head, R0 3","18-month immunity, calves only",8,0
+"200 head, R0 3","18-month immunity, calves only",9,0
+"200 head, R0 3","18-month immunity, calves only",10,0
+"200 head, R0 3","18-month immunity, calves only",11,0
+"200 head, R0 3","18-month immunity, calves only",12,0
+"200 head, R0 3","18-month immunity, calves only",13,0
+"200 head, R0 3","18-month immunity, calves only",14,0
+"200 head, R0 3","18-month immunity, calves only",15,0
+"200 head, R0 3","18-month immunity, calves only",16,0
+"200 head, R0 3","18-month immunity, calves only",17,0
+"200 head, R0 3","18-month immunity, calves only",18,0
+"200 head, R0 3","18-month immunity, calves only",19,0
+"200 head, R0 3","18-month immunity, calves only",20,0
+"200 head, R0 3","18-month immunity, calves only",21,0
+"200 head, R0 3","18-month immunity, calves only",22,0
+"200 head, R0 3","18-month immunity, calves only",23,0
+"200 head, R0 3","18-month immunity, calves only",24,0
+"200 head, R0 3","18-month immunity, calves only",25,0
+"200 head, R0 3","18-month immunity, calves only",26,0
+"200 head, R0 3","18-month immunity, calves only",27,0
+"200 head, R0 3","18-month immunity, calves only",28,0
+"200 head, R0 3","18-month immunity, calves only",29,0
+"200 head, R0 3","18-month immunity, calves only",30,0
+"200 head, R0 3","18-month immunity, calves only",31,0
+"200 head, R0 3","18-month immunity, calves only",32,0
+"200 head, R0 3","18-month immunity, calves only",33,0
+"200 head, R0 3","18-month immunity, calves only",34,0
+"200 head, R0 3","18-month immunity, calves only",35,0
+"200 head, R0 3","18-month immunity, calves only",36,0
+"200 head, R0 3","18-month immunity, calves only",37,0
+"200 head, R0 3","18-month immunity, calves only",38,0
+"200 head, R0 3","18-month immunity, calves only",39,0
+"200 head, R0 3","18-month immunity, calves only",40,0
+"200 head, R0 3","18-month immunity, calves only",41,0
+"200 head, R0 3","18-month immunity, calves only",42,0
+"200 head, R0 3","18-month immunity, calves only",43,0
+"200 head, R0 3","18-month immunity, calves only",44,0
+"200 head, R0 3","18-month immunity, calves only",45,0
+"200 head, R0 3","18-month immunity, calves only",46,0
+"200 head, R0 3","18-month immunity, calves only",47,0
+"200 head, R0 3","18-month immunity, calves only",48,0
+"200 head, R0 3","18-month immunity, calves only",49,0
+"200 head, R0 3","18-month immunity, calves only",50,0
+"200 head, R0 3","18-month immunity, calves only",51,0
+"200 head, R0 3","18-month immunity, calves only",52,0
+"200 head, R0 3","18-month immunity, calves only",53,0
+"200 head, R0 3","18-month immunity, calves only",54,0
+"200 head, R0 3","18-month immunity, calves only",55,0
+"200 head, R0 3","18-month immunity, calves only",56,0
+"200 head, R0 3","18-month immunity, calves only",57,0
+"200 head, R0 3","18-month immunity, calves only",58,0
+"200 head, R0 3","18-month immunity, calves only",59,0
+"200 head, R0 3","18-month immunity, calves only",60,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",0,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",1,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",2,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",3,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",4,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",5,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",6,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",7,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",8,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",9,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",10,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",11,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",12,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",13,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",14,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",15,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",16,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",17,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",18,0
+"200 head, R0 3","18-month immunity, annual whole-herd booster",19,0.00333333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",20,0.00666666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",21,0.0133333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",22,0.0266666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",23,0.04
+"200 head, R0 3","18-month immunity, annual whole-herd booster",24,0.06
+"200 head, R0 3","18-month immunity, annual whole-herd booster",25,0.113333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",26,0.156666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",27,0.203333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",28,0.263333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",29,0.313333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",30,0.386666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",31,0.463333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",32,0.513333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",33,0.586666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",34,0.623333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",35,0.69
+"200 head, R0 3","18-month immunity, annual whole-herd booster",36,0.716666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",37,0.76
+"200 head, R0 3","18-month immunity, annual whole-herd booster",38,0.803333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",39,0.823333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",40,0.843333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",41,0.86
+"200 head, R0 3","18-month immunity, annual whole-herd booster",42,0.893333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",43,0.913333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",44,0.926666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",45,0.936666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",46,0.946666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",47,0.953333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",48,0.96
+"200 head, R0 3","18-month immunity, annual whole-herd booster",49,0.96
+"200 head, R0 3","18-month immunity, annual whole-herd booster",50,0.97
+"200 head, R0 3","18-month immunity, annual whole-herd booster",51,0.976666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",52,0.983333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",53,0.983333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",54,0.983333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",55,0.983333333333333
+"200 head, R0 3","18-month immunity, annual whole-herd booster",56,0.99
+"200 head, R0 3","18-month immunity, annual whole-herd booster",57,0.99
+"200 head, R0 3","18-month immunity, annual whole-herd booster",58,0.996666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",59,0.996666666666667
+"200 head, R0 3","18-month immunity, annual whole-herd booster",60,0.996666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",0,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",1,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",2,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",3,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",4,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",5,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",6,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",7,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",8,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",9,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",10,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",11,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",12,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",13,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",14,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",15,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",16,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",17,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",18,0
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",19,0.00666666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",20,0.01
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",21,0.0266666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",22,0.0266666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",23,0.0466666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",24,0.08
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",25,0.133333333333333
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",26,0.183333333333333
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",27,0.24
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",28,0.32
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",29,0.366666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",30,0.433333333333333
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",31,0.51
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",32,0.566666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",33,0.64
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",34,0.7
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",35,0.733333333333333
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",36,0.786666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",37,0.826666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",38,0.86
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",39,0.88
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",40,0.913333333333333
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",41,0.926666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",42,0.936666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",43,0.946666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",44,0.956666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",45,0.956666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",46,0.97
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",47,0.976666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",48,0.98
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",49,0.983333333333333
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",50,0.986666666666667
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",51,0.99
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",52,0.99
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",53,0.993333333333333
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",54,1
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",55,1
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",56,1
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",57,1
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",58,1
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",59,1
+"200 head, R0 3","18-month immunity, six-monthly whole-herd booster",60,1

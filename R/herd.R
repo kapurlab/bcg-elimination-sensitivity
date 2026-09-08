@@ -78,7 +78,8 @@ build_herd_model <- function(k = 10) {
 # whether free at years 20 and 50, and prevalence at years 20 and 50.
 run_herd <- function(model, R0, NA_adults, e_s = 0.58, e_i = 0.74, D = 1.5, p = 1,
                      interval = NA, h = 1, pi_src = 0, b = 0.45, cull = 0.2, sig = 0.3,
-                     mC = 0.05, m_calf = 1, reps = 200, years = 100, burnin = 20) {
+                     mC = 0.05, m_calf = 1, reps = 200, years = 100, burnin = 20,
+                     return_traj = FALSE) {
   k <- model$k; comp <- model$comp
   day <- 365
   gd <- function(pv, iv) c(b = b / day, p = pv, h = h, cull = cull / day, pi_src = pi_src,
@@ -107,6 +108,11 @@ run_herd <- function(model, R0, NA_adults, e_s = 0.58, e_i = 0.74, D = 1.5, p = 
   inf_cols <- grep("^(I|IV)_", comp, value = TRUE)
   x$inf <- rowSums(x[, inf_cols]); x$N <- rowSums(x[, comp])
   x$yr <- x$time / day
+  if (return_traj) {
+    return(x %>% mutate(prev = inf / pmax(1, N)) %>% group_by(yr) %>%
+             summarise(p_free = mean(inf == 0), prev_med = median(prev), prev_q25 = quantile(prev, 0.25),
+                       prev_q75 = quantile(prev, 0.75), prev_mean = mean(prev), .groups = "drop"))
+  }
   x %>% group_by(node) %>% summarise(
     T_free = if (any(inf == 0)) min(yr[inf == 0]) else Inf,
     free_20 = inf[which.min(abs(yr - 20))] == 0, free_50 = inf[which.min(abs(yr - 50))] == 0,
