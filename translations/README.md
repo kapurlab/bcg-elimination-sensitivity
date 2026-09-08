@@ -1,10 +1,16 @@
 # English translations of the founding BCG cattle papers
 
 Complete English translations of three papers from the Annales de
-l'Institut Pasteur, translated and formatted by Vivek Kapur (Penn State)
-from the Gallica digitisations of the Institut Pasteur copies. Original page
-numbers are marked in the text so that passages can be cited to the French
-original.
+l'Institut Pasteur, made from the Gallica digitisations of the Institut
+Pasteur copies. The translations were produced with AI language models
+(Gemini and Claude, with formatting in Claude Design) under the supervision
+of Vivek Kapur (Penn State), who reviewed them against the page images.
+Original page numbers are marked in the text so that passages can be cited
+to the French original.
+
+**Status: early release draft, under review.** Independent checking by
+other readers of French is in progress. Report errors to Vivek Kapur.
+Quote from these files with that caveat, and cite the French original.
 
 | File | Paper |
 | --- | --- |
@@ -16,6 +22,7 @@ original.
 
 The translations and their formatting are released under the Creative
 Commons Attribution 4.0 International license (CC BY 4.0),
-https://creativecommons.org/licenses/by/4.0/. Cite as: Kapur V,
-translator. [Paper], English translation, 2026. The footer on the first
-page of each file carries the same statement.
+https://creativecommons.org/licenses/by/4.0/. Cite as: Kapur V, supervising
+editor. [Paper], English translation produced with AI language models,
+early release draft, 2026. The first page of each file carries the draft
+status and the same statement.
