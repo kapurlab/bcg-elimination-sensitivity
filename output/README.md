@@ -28,6 +28,7 @@ hand. Figures are PNG at 200 dpi; tables are CSV.
 | `fig22`, `fig23` | Stochastic grid, status quo and four programmes: probability free by year 20; median years to freedom |
 | `fig24`, `fig25` | Replacement policy in the age-structured herd: probability free at year 50; prevalence at year 50 |
 | `fig26` to `fig30` | Difference tiles; feasibility frontier; archetype slices; time courses of freedom; prevalence bands under replacement policies |
+| `fig31` | Feasibility frontier on a finer grid with the survey herds overlaid, years 20 and 50 |
 
 ## Tables
 
