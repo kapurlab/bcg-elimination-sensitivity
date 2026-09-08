@@ -1,0 +1,127 @@
+"NA_adults","R0","policy","h","pi_src","programme","p","interval","p_free_20","p_free_50","prev_20","prev_50","median_T","herd_size_50"
+5,1.5,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.285,0.34,0.111123000273824,0.099839260210446,12.8657534246575,14.38
+5,1.5,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0.145,0.175,0.266597881579505,0.249342642982301,20.8794520547945,13.415
+5,1.5,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.715,0.77,0.0309654952020637,0.0218162303485212,3.16712328767123,14.665
+5,1.5,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0.505,0.575,0.100279698594351,0.0925074399436981,1.35890410958904,14.145
+5,1.5,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.05,0.06,0.250204807800555,0.250876417680928,40.1534246575342,13.695
+5,1.5,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0.015,0.416734658822076,0.437170154482912,Inf,14.045
+5,1.5,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.93,1,0.00769126308449661,0,0.00273972602739726,10.98
+5,1.5,"All replacements home-bred",1,0,"No vaccination",0,NA,0.81,0.93,0.0544559562291256,0.0175403957153957,0.00273972602739726,11.61
+5,1.5,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.485,0.525,0.0826672496220097,0.0758676752514921,5.7972602739726,12.33
+5,1.5,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0.285,0.305,0.209412184335065,0.205242119336281,7.35890410958904,12.47
+5,1.5,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.785,0.87,0.0239672448291627,0.0139468440915809,0.00273972602739726,12.865
+5,1.5,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0.685,0.705,0.0740174470502837,0.0715966154317632,0.00273972602739726,12.66
+5,1.5,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.175,0.235,0.177235747805574,0.148335810122766,15.7835616438356,12.915
+5,1.5,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0.065,0.035,0.340749311314423,0.345024841949925,33.5369863013699,12.78
+5,3,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.14,0.24,0.182691767512997,0.147516973858538,22.1945205479452,14.105
+5,3,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0.015,0.04,0.562393086818758,0.539947599849399,Inf,13.995
+5,3,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.505,0.68,0.0747178925312129,0.0417376433757902,15.6191780821918,14.31
+5,3,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0.14,0.14,0.450745102762772,0.481750491751265,Inf,14.11
+5,3,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.015,0.025,0.346619091789346,0.307401148263742,Inf,14.5
+5,3,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0.01,0.648777347091109,0.628075945742087,Inf,14.885
+5,3,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.68,0.99,0.0478008514108696,0.00114583333333333,14.5095890410959,10.905
+5,3,"All replacements home-bred",1,0,"No vaccination",0,NA,0.32,0.485,0.392522433554428,0.309113666835811,52.8109589041096,11.465
+5,3,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.31,0.48,0.142432293965363,0.0913587184152863,20.1808219178082,13.37
+5,3,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0.045,0.055,0.54527420437751,0.539972196246201,Inf,12.53
+5,3,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.56,0.86,0.0782311558129675,0.0193599400171701,15.6602739726027,12.81
+5,3,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0.22,0.25,0.474610739002999,0.401137223721374,Inf,12.72
+5,3,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.115,0.17,0.2307159933076,0.219123007381971,25.1534246575342,12.4
+5,3,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0.02,0.03,0.636859335683461,0.587244167358232,Inf,12.68
+5,5,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.13,0.195,0.256864381113239,0.234084979123393,36.5780821917808,13.555
+5,5,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0.015,0,0.720980894718113,0.756268393822459,Inf,14.295
+5,5,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.37,0.585,0.145404394841971,0.0671052318930751,22.0301369863014,14.42
+5,5,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0.03,0.02,0.723061618135219,0.721628244683094,Inf,14.595
+5,5,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.015,0.01,0.444176370342441,0.428923418191901,Inf,13.97
+5,5,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0.005,0,0.78832729542403,0.770545703008014,Inf,14.94
+5,5,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.51,0.98,0.120409382691537,0.00355306567071273,19.7287671232877,12.16
+5,5,"All replacements home-bred",1,0,"No vaccination",0,NA,0.135,0.2,0.652952948380966,0.614683246458452,Inf,10.96
+5,5,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.235,0.4,0.207189854936559,0.143427388310116,26.5506849315069,12.67
+5,5,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0.025,0.01,0.74759967259804,0.75512021296845,Inf,13.865
+5,5,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.345,0.72,0.154296165210816,0.0464641983810877,23.3452054794521,13.135
+5,5,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0.08,0.08,0.693204357282102,0.673427078323866,Inf,13.26
+5,5,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.055,0.15,0.327057843597639,0.285704986513763,45.5369863013699,11.69
+5,5,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0,0.005,0.774587716432972,0.76440046620831,Inf,12.56
+20,1.5,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.005,0.01,0.118755216738655,0.115584341192806,Inf,58
+20,1.5,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0,0,0.31667537011745,0.313151424808333,Inf,56.145
+20,1.5,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.22,0.305,0.0355946188772884,0.0287486548878315,20.8383561643836,56.89
+20,1.5,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0.025,0.03,0.192981141647464,0.182910840033821,Inf,56.825
+20,1.5,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.2542479408508,0.252965600903175,Inf,57.935
+20,1.5,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0,0.464723840762399,0.453969138674458,Inf,56.505
+20,1.5,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.635,1,0.0160825570838267,0,16.1534246575342,45.315
+20,1.5,"All replacements home-bred",1,0,"No vaccination",0,NA,0.27,0.395,0.181553057670062,0.1548632787935,Inf,42.91
+20,1.5,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.07,0.065,0.0755278963694602,0.0652476350001484,38.9616438356164,51.315
+20,1.5,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0,0,0.287864634169795,0.296210241120359,Inf,50.955
+20,1.5,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.35,0.46,0.0252262160702865,0.0200725639079129,17.5506849315069,49.415
+20,1.5,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0.075,0.055,0.203172756783039,0.18694132861419,Inf,50.465
+20,1.5,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.005,0,0.157898841480337,0.152787307868279,Inf,50.065
+20,1.5,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0,0,0.392451760682758,0.402396226516347,Inf,50.64
+20,3,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0.005,0.181676095946114,0.157425818881573,Inf,56.9
+20,3,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0,0,0.60802121674572,0.628789674314521,Inf,55.77
+20,3,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.045,0.225,0.0876541329610857,0.0411829086358929,39.2904109589041,56.925
+20,3,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0,0,0.591061056277022,0.584899802399993,Inf,56.15
+20,3,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.336960187260791,0.328801844592757,Inf,56.83
+20,3,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0,0.670195535336984,0.682255890504238,Inf,57.295
+20,3,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.13,0.97,0.0738734002458866,0.00108264771497322,27.7424657534247,43.315
+20,3,"All replacements home-bred",1,0,"No vaccination",0,NA,0,0,0.61891442011799,0.626389693473825,Inf,43.685
+20,3,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.01,0.025,0.143522007124982,0.106174390848396,Inf,49.795
+20,3,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0,0,0.620115252507497,0.627134855182097,Inf,49.84
+20,3,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.065,0.455,0.086300865039103,0.0267995345076465,33.1260273972603,50.29
+20,3,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0,0,0.603127406509039,0.607687769120133,Inf,50.2
+20,3,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.25096943692044,0.216589368364812,Inf,50.53
+20,3,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0,0,0.660556593022344,0.659941488966172,Inf,49.39
+20,5,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.28351431246065,0.254581072839317,Inf,58.39
+20,5,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0,0,0.769665120573836,0.775450696782923,Inf,57.065
+20,5,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.005,0.12,0.182957973944,0.0858010815150205,58.1123287671233,56.56
+20,5,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0,0,0.751659940588158,0.754316924807184,Inf,56.99
+20,5,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.447200919502136,0.429818881724526,Inf,57.155
+20,5,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0,0.800085605481389,0.801001858338396,Inf,56.375
+20,5,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.015,0.865,0.153887351197841,0.00677100899201636,37.5643835616438,43.91
+20,5,"All replacements home-bred",1,0,"No vaccination",0,NA,0,0,0.774538233515043,0.779437575638311,Inf,42.845
+20,5,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.005,0.005,0.226058243413722,0.173030346062512,Inf,49.49
+20,5,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0,0,0.781083962682548,0.76355724236917,Inf,49.865
+20,5,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.01,0.31,0.172662733028323,0.0511398288561735,45.3315068493151,49.475
+20,5,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0,0,0.753636784072484,0.765590774492326,Inf,51.11
+20,5,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.337667065675981,0.304867133564096,Inf,50.53
+20,5,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0,0,0.790108312125644,0.78724194300904,Inf,49.96
+100,1.5,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.118337480969954,0.107833159361902,Inf,284.255
+100,1.5,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0,0,0.332615191955841,0.334989182683434,Inf,285.905
+100,1.5,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0.005,0.0368466634376367,0.0289346213586152,Inf,287.975
+100,1.5,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0,0,0.222074250240322,0.227559895491462,Inf,287.13
+100,1.5,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.254063420089482,0.254684200585133,Inf,285.47
+100,1.5,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0,0.460821883405907,0.460322936875727,Inf,284.22
+100,1.5,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.095,0.98,0.0175719042106133,8.76445765526702e-05,29.427397260274,222.295
+100,1.5,"All replacements home-bred",1,0,"No vaccination",0,NA,0.005,0.005,0.262658253809285,0.262480385282013,Inf,217.48
+100,1.5,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.0778699811270744,0.0648091326690779,Inf,250.865
+100,1.5,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0,0,0.315824048623119,0.317582349888163,Inf,253.735
+100,1.5,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0.005,0.03,0.0299914847467432,0.0166092012733809,Inf,248.745
+100,1.5,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0,0,0.239504915706437,0.242677643232227,Inf,251.82
+100,1.5,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.162441715829712,0.150787931286931,Inf,254.115
+100,1.5,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0,0,0.402086178112786,0.407081831125028,Inf,250.66
+100,3,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.185604734468587,0.16416040428753,Inf,280.635
+100,3,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0,0,0.630391221451159,0.632359453410815,Inf,285.365
+100,3,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.0916374958143885,0.0488114643513713,Inf,285.75
+100,3,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0,0,0.604408770453399,0.594515340653596,Inf,291.34
+100,3,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.344997841548769,0.333438631478064,Inf,284.355
+100,3,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0,0.680538325429211,0.682359622074759,Inf,289.435
+100,3,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0.775,0.0796478155994578,0.00191480949971948,43.9753424657534,220.475
+100,3,"All replacements home-bred",1,0,"No vaccination",0,NA,0,0,0.635143493983193,0.634873639806695,Inf,217.06
+100,3,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.141774333406213,0.101120441320812,Inf,251.095
+100,3,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0,0,0.632899978698629,0.638962994725761,Inf,250.36
+100,3,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0.01,0.092003818055856,0.0272686937627611,Inf,254.545
+100,3,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0,0,0.616286754291591,0.615956470171423,Inf,249.945
+100,3,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.24246958686609,0.217435356004741,Inf,251.495
+100,3,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0,0,0.665567756634176,0.66356238481016,Inf,251.635
+100,5,"All purchased, source prevalence 20%",0,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.294177415379757,0.251570792805074,Inf,285.08
+100,5,"All purchased, source prevalence 20%",0,0.2,"No vaccination",0,NA,0,0,0.777570071097749,0.775079930744127,Inf,287.9
+100,5,"All purchased, source prevalence 5%",0,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.185762946832226,0.0921924609324297,Inf,286.51
+100,5,"All purchased, source prevalence 5%",0,0.05,"No vaccination",0,NA,0,0,0.760935525872851,0.76472228247778,Inf,288.235
+100,5,"All purchased, source prevalence 50%",0,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.441457883194053,0.431380018302034,Inf,284.145
+100,5,"All purchased, source prevalence 50%",0,0.5,"No vaccination",0,NA,0,0,0.801456562262525,0.800811934620835,Inf,287.025
+100,5,"All replacements home-bred",1,0,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0.305,0.157853755487127,0.0111361991694195,55.5643835616438,220.5
+100,5,"All replacements home-bred",1,0,"No vaccination",0,NA,0,0,0.779626615044078,0.780585050368584,Inf,222.185
+100,5,"Half purchased, source prevalence 20%",0.5,0.2,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.240988490026118,0.169697039628835,Inf,250.775
+100,5,"Half purchased, source prevalence 20%",0.5,0.2,"No vaccination",0,NA,0,0,0.782382792933111,0.776675953794019,Inf,252.44
+100,5,"Half purchased, source prevalence 5%",0.5,0.05,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.17887362689838,0.0612972790617026,Inf,253.995
+100,5,"Half purchased, source prevalence 5%",0.5,0.05,"No vaccination",0,NA,0,0,0.770228626156369,0.766834374949036,Inf,253.28
+100,5,"Half purchased, source prevalence 50%",0.5,0.5,"18-month immunity, calves at birth plus annual whole-herd booster",1,1,0,0,0.346747579839736,0.316676182620514,Inf,250.13
+100,5,"Half purchased, source prevalence 50%",0.5,0.5,"No vaccination",0,NA,0,0,0.794694876904414,0.787462501620865,Inf,253.045

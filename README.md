@@ -94,6 +94,7 @@ of R0 and for the whole 57-herd population.
 | `R/run_import.R` | Infected animals bought into the herd each year, under the paper's regime and under 18-month immunity with annual revaccination. | `imports.csv`, fig 20 |
 | `R/run_import_uk.R` | The same import sweep in a low-R0 setting with annual test-and-removal (R0 1.1, infected animals removed at 0.7 per year), against the Ethiopian setting, with and without vaccination. | `imports_uk.csv`, fig 21 |
 | `R/run_stochastic_grid.R` | Stochastic (SimInf) elimination on a conceptual grid of within-herd R0 (1.2 to 8) and herd size (5 to 200) under four programmes, 200 replicate herds per cell; probability of a herd with no infected animal by years 10, 20, 50 and 100, and the median time; no-vaccination reference. | `stochastic_grid*.csv`, figs 22 and 23 |
+| `R/run_herd.R` | Age-structured stochastic herd (calves, young stock, adults) with a fixed adult herd and a replacement policy: leavers replaced by home-bred young stock or by purchases from a source population of given prevalence. Adult herd size 5, 20, 100 by R0 1.5, 3, 5 by seven policies, with and without vaccination. Model in `R/herd.R`. | `herd_replacement.csv`, figs 24 and 25 |
 | `R/run_tiles.R` | Booster schedule (none, every 24 months, annual, every 6 months) against birth-dose duration (6 to 24 months), with the booster's own duration equal to, twice, or independent of the birth dose, and a fourth panel for campaign coverage. Model in `R/boost.R`. | `tiles_booster_schedule.csv`, fig 15 |
 | `R/run_memo_figure.R` | Scenario ladder: one lever changed per row from the paper's base case. | `memo_scenarios.csv`, fig 14 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
@@ -128,6 +129,8 @@ Layout:
     R/run_import.R      infected purchases
     R/run_import_uk.R   infected purchases with test-and-removal, UK-like R0
     R/run_stochastic_grid.R  stochastic elimination on a conceptual R0 by herd-size grid
+    R/herd.R            age-structured stochastic herd with replacement policy
+    R/run_herd.R        replacement policy against herd size and R0
     R/run_tiles.R       booster schedule tile figure
     R/run_memo_figure.R scenario ladder
     data/               three inputs copied from the authors' repository, plus archetypes and the cost template
@@ -391,6 +394,33 @@ carry survey values marked "to confirm", the Indian rows are placeholders.
 `data/cost_parameters_template.csv` is a generic parameter table for the
 economic layer with blank values, units and notes on what each entry
 should contain.
+
+Replacement policy in an age-structured herd (`run_herd.R`). The herd
+now has calves, young stock and adults, a fixed adult number, adults
+leaving at 0.2 per year, and each leaver replaced at once, either by a
+home-bred heifer or by a purchase from a source population of given
+prevalence (figs 24 and 25; 200 replicate herds per cell, 20-year burn-in).
+With every replacement home-bred and 18-month immunity with annual
+boosters, herds of 5 and 20 adults are free of infection at year 50 in
+86 to 100% of replicates across R0 1.5 to 5, and a 100-adult herd in 98%
+at R0 1.5, 78% at 3 and 30% at 5. Purchasing changes this more than any
+vaccine property. With half the replacements bought from a population at
+5% prevalence, the 20-adult herd falls to 31 to 46% and the 100-adult herd
+to 0 to 3%; at 20% source prevalence no herd of 20 or more adults is free,
+and vaccination holds prevalence at 6 to 17% instead of the 60 to 78% seen
+without it. The 5-adult herd is the exception, because chance fade-out and
+re-introduction alternate, so it is free at year 50 in 24 to 87% of
+replicates even when buying from infected sources. Without vaccination,
+only 5-adult herds at R0 1.5 with home-bred replacements are usually free
+(93%); every other cell is at or near its endemic level.
+
+The archetype reading is that a smallholder who breeds replacements can
+expect a vaccinated herd to clear infection within a generation of cows,
+and one who buys from the local market cannot, whatever the vaccine does.
+A commercial dairy that buys replacements needs the source to be clean or
+tested; vaccination then lowers prevalence severalfold but does not free
+the herd. These are the two levers that the economic layer should price
+against each other.
 
 ## Interpretation
 

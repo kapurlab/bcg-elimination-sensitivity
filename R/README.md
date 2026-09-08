@@ -11,6 +11,8 @@ Model files, sourced by the run scripts:
 | `revaccination.R` | Erlang-staged protection (near-fixed duration) and annual whole-herd campaign pulses; SimInf stochastic version |
 | `boost.R` | Birth dose and booster with separate durations; campaigns at any interval and coverage |
 | `onset.R` | Pre-immunity window after birth with a calf exposure multiplier |
+| `profile.R` | Time-since-dose protection profile with stages; persistent non-responders; infected purchases; test-and-removal |
+| `herd.R` | Age-structured stochastic herd (SimInf) with fixed adult number, home-bred or purchased replacements, whole-herd campaigns |
 | `root.R` | Working-directory guard, creates `output/` |
 | `setup.R` | Installs missing packages |
 
@@ -25,3 +27,8 @@ Analysis scripts, each writing to `output/figs` and `output/tables`:
 | `run_onset.R` | Speed of onset and calf exposure (figs 12 and 13) | 3 min |
 | `run_memo_figure.R` | Scenario ladder, one lever changed per row (fig 14) | 2 min |
 | `run_tiles.R` | Booster schedule by duration tiles, and campaign coverage (figs 15 and 16) | 3 min |
+| `run_profile.R` | Protection profiles with posterior credible intervals (figs 17 and 18) | 110 min at 40 draws |
+| `run_nonresponders.R` | Persistent against random non-response (figs 19a and 19b) | 2 min |
+| `run_import.R`, `run_import_uk.R` | Infected purchases, Ethiopia and UK-like (figs 20 and 21) | 2 min each |
+| `run_stochastic_grid.R` | Stochastic elimination on the R0 by herd-size grid (figs 22 and 23) | 6 min |
+| `run_herd.R` | Replacement policy in the age-structured herd (figs 24 and 25) | 10 min |
