@@ -7,8 +7,11 @@ hand. Figures are PNG at 200 dpi; tables are CSV.
 
 | File | Content |
 | --- | --- |
-| `figs/fig14_memo_scenarios.png` | Scenario ladder: years to elimination in the median herd, one lever changed per row |
-| `figs/fig16_interval_by_duration.png` | Revaccination interval against duration of immunity |
+| `figs/fig32_memo_ladder_stochastic.png` | Scenario ladder (stochastic, 100-head herd): median years to no infected animal, one lever per row |
+| `figs/fig33_interval_by_duration_stochastic.png` | Revaccination interval against duration of immunity (stochastic) |
+| `figs/fig31_frontier_with_herds.png` | Feasibility frontier with the survey herds |
+| `figs/fig34_memo_replacement.png` | Prevalence under replacement policies |
+| `figs/fig14`, `fig16` | Deterministic versions of the ladder and grid (memo appendix) |
 
 ## Other figures
 
@@ -29,6 +32,8 @@ hand. Figures are PNG at 200 dpi; tables are CSV.
 | `fig24`, `fig25` | Replacement policy in the age-structured herd: probability free at year 50; prevalence at year 50 |
 | `fig26` to `fig30` | Difference tiles; feasibility frontier; archetype slices; time courses of freedom; prevalence bands under replacement policies |
 | `fig31` | Feasibility frontier on a finer grid with the survey herds overlaid, years 20 and 50 |
+| `fig32`, `fig33` | Stochastic memo ladder and interval-by-duration grid, 100-head herd at the survey-median R0 |
+| `fig34` | Simplified replacement-policy figure for the memo |
 
 ## Tables
 

@@ -92,7 +92,7 @@ run_herd <- function(model, R0, NA_adults, e_s = 0.58, e_i = 0.74, D = 1.5, p = 
   # burn-in: no vaccination, no campaigns
   m1 <- mparse(transitions = model$transitions, compartments = comp, ldata = ld, gdata = gd(0, NA),
                u0 = u0, tspan = c(1, burnin * day))
-  x1 <- trajectory(run(m1)); x1 <- x1[x1$time == burnin * day, ]
+  x1 <- trajectory(SimInf::run(m1)); x1 <- x1[x1$time == burnin * day, ]
   u1 <- x1[, comp]
   # programme
   tspan <- seq(1, years * day, by = 30)
@@ -104,7 +104,7 @@ run_herd <- function(model, R0, NA_adults, e_s = 0.58, e_i = 0.74, D = 1.5, p = 
   }
   m2 <- mparse(transitions = model$transitions, compartments = comp, ldata = ld, gdata = gd(p, interval),
                u0 = u1, tspan = tspan, events = ev, E = model$E, N = model$N)
-  x <- trajectory(run(m2))
+  x <- trajectory(SimInf::run(m2))
   inf_cols <- grep("^(I|IV)_", comp, value = TRUE)
   x$inf <- rowSums(x[, inf_cols]); x$N <- rowSums(x[, comp])
   x$yr <- x$time / day

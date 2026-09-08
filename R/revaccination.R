@@ -138,7 +138,7 @@ stoch_revacc <- function(R0, N, e_s, e_i, D, k = 1, p = 1, interval = 1, cv = 1,
   tspan <- seq(1, 365 * years, by = 30)
   m <- mparse(transitions = tr, compartments = comp, ldata = ldata, gdata = gdata,
               u0 = u0, tspan = tspan, events = events, E = E, N = Nm)
-  x <- trajectory(run(m))
+  x <- trajectory(SimInf::run(m))
   x$inf <- x$I + x$IV
   x$rep <- x$node
   x %>% dplyr::group_by(rep) %>%

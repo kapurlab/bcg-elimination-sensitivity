@@ -1,0 +1,17 @@
+"schedule","interval","D","dlab","median_T","p50","p20"
+"No booster",NA,0.5,"6 months",Inf,0,0
+"Booster every 6 months",0.5,0.5,"6 months",30.0849315068493,0.955,0.03
+"Booster annually",1,0.5,"6 months",Inf,0.02,0
+"Booster every 24 months",2,0.5,"6 months",Inf,0,0
+"No booster",NA,1,"12 months",Inf,0,0
+"Booster every 6 months",0.5,1,"12 months",26.7972602739726,0.995,0.11
+"Booster annually",1,1,"12 months",29.7150684931507,0.945,0.07
+"Booster every 24 months",2,1,"12 months",Inf,0.1,0
+"No booster",NA,2,"24 months",Inf,0,0
+"Booster every 6 months",0.5,2,"24 months",26.7150684931507,1,0.11
+"Booster annually",1,2,"24 months",27.0438356164384,0.975,0.115
+"Booster every 24 months",2,2,"24 months",29.427397260274,0.96,0.055
+"No booster",NA,10,"10 years",27.9890410958904,0.99,0.075
+"Booster every 6 months",0.5,10,"10 years",25.1945205479452,0.995,0.12
+"Booster annually",1,10,"10 years",26.0986301369863,1,0.12
+"Booster every 24 months",2,10,"10 years",26.9616438356164,0.985,0.065

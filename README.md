@@ -97,6 +97,8 @@ of R0 and for the whole 57-herd population.
 | `R/run_herd.R` | Age-structured stochastic herd (calves, young stock, adults) with a fixed adult herd and a replacement policy: leavers replaced by home-bred young stock or by purchases from a source population of given prevalence. Adult herd size 5, 20, 100 by R0 1.5, 3, 5 by seven policies, with and without vaccination. Model in `R/herd.R`. | `herd_replacement.csv`, figs 24 and 25 |
 | `R/run_alt_views.R` | Alternative views of the stochastic results: difference tiles (programme minus status quo), feasibility frontier contours, archetype slices, time courses of freedom for six representative herds, and prevalence bands under replacement policies. | `survival_curves.csv`, `replacement_trajectories.csv`, figs 26 to 30 |
 | `R/run_frontier_fine.R` | Feasibility frontier on an 11 by 10 grid with the 57 survey herds overlaid, by years 20 and 50. | `frontier_fine.csv`, fig 31 |
+| `R/run_memo_stochastic.R` | Stochastic versions of the two memo figures for a 100-head herd at the survey-median R0: scenario ladder with status quo, and interval-by-duration grid; median years to no infected animal and share free by year 50. General runner in `R/stochastic.R`, which adds a pre-immunity window and coverage to the SimInf model. | `memo_scenarios_stochastic.csv`, `interval_duration_stochastic.csv`, figs 32 and 33 |
+| `R/run_memo_extras.R` | Simplified replacement-policy figure and the archetype table for the memo, from existing tables. | `memo_archetype_table.csv`, fig 34 |
 | `R/run_tiles.R` | Booster schedule (none, every 24 months, annual, every 6 months) against birth-dose duration (6 to 24 months), with the booster's own duration equal to, twice, or independent of the birth dose, and a fourth panel for campaign coverage. Model in `R/boost.R`. | `tiles_booster_schedule.csv`, fig 15 |
 | `R/run_memo_figure.R` | Scenario ladder: one lever changed per row from the paper's base case. | `memo_scenarios.csv`, fig 14 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
@@ -135,6 +137,9 @@ Layout:
     R/run_herd.R        replacement policy against herd size and R0
     R/run_alt_views.R   difference tiles, frontier, archetype slices, time courses, prevalence bands
     R/run_frontier_fine.R  finer frontier with the survey herds overlaid
+    R/stochastic.R      general SimInf runner: coverage, waning, campaigns, onset window
+    R/run_memo_stochastic.R  stochastic memo ladder and grid
+    R/run_memo_extras.R  memo replacement figure and archetype table
     R/run_tiles.R       booster schedule tile figure
     R/run_memo_figure.R scenario ladder
     data/               three inputs copied from the authors' repository, plus archetypes and the cost template
