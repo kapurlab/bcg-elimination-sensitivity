@@ -1,0 +1,37 @@
+"setting","regime","imports","prev_start","prev_20y","prev_100y","T_0.1pct"
+"Ethiopia: R0 2.8, no testing","No vaccination",0,0.643874643874644,0.643874643874644,0.643874643874644,Inf
+"Ethiopia: R0 2.8, no testing","No vaccination",0.25,0.643874643874644,0.648896685524348,0.648896907907451,Inf
+"Ethiopia: R0 2.8, no testing","No vaccination",0.5,0.643874643874644,0.653842803723097,0.65384318578932,Inf
+"Ethiopia: R0 2.8, no testing","No vaccination",1,0.643874643874644,0.663520368965446,0.663520936389929,Inf
+"Ethiopia: R0 2.8, no testing","No vaccination",2,0.643874643874644,0.682096496236535,0.68209713655972,Inf
+"Ethiopia: R0 2.8, no testing","No vaccination",5,0.643874643874644,0.732816862760588,0.732817196460081,Inf
+"Ethiopia: R0 2.8, no testing","Lifelong immunity, calves at birth",0,0.643874643874644,0.0432381868742825,2.10323808493184e-08,41.4196745970449
+"Ethiopia: R0 2.8, no testing","Lifelong immunity, calves at birth",0.25,0.643874643874644,0.064005894860016,0.0247920176579008,Inf
+"Ethiopia: R0 2.8, no testing","Lifelong immunity, calves at birth",0.5,0.643874643874644,0.0841567706889192,0.0485005126282847,Inf
+"Ethiopia: R0 2.8, no testing","Lifelong immunity, calves at birth",1,0.643874643874644,0.122735909179515,0.0930504575875307,Inf
+"Ethiopia: R0 2.8, no testing","Lifelong immunity, calves at birth",2,0.643874643874644,0.193775163569461,0.172713332095224,Inf
+"Ethiopia: R0 2.8, no testing","Lifelong immunity, calves at birth",5,0.643874643874644,0.369537291249709,0.360979293691089,Inf
+"Ethiopia: R0 2.8, no testing","18-month immunity, annual whole-herd revaccination",0,0.643874643874644,0.0471124425750052,1.35942763684258e-07,44.5819412713106
+"Ethiopia: R0 2.8, no testing","18-month immunity, annual whole-herd revaccination",0.25,0.643874643874644,0.0693469467518288,0.0279141504486432,Inf
+"Ethiopia: R0 2.8, no testing","18-month immunity, annual whole-herd revaccination",0.5,0.643874643874644,0.0907951853038978,0.0541778432187674,Inf
+"Ethiopia: R0 2.8, no testing","18-month immunity, annual whole-herd revaccination",1,0.643874643874644,0.1315291572525,0.10256610070408,Inf
+"Ethiopia: R0 2.8, no testing","18-month immunity, annual whole-herd revaccination",2,0.643874643874644,0.20549846360204,0.18663877714832,Inf
+"Ethiopia: R0 2.8, no testing","18-month immunity, annual whole-herd revaccination",5,0.643874643874644,0.383812918018415,0.377429846939543,Inf
+"UK-like: R0 1.1 with annual test-and-removal","No vaccination",0,0.0909090909090909,0.0909090909090909,0.0909090909090909,Inf
+"UK-like: R0 1.1 with annual test-and-removal","No vaccination",0.25,0.0909090909090909,0.110366334664649,0.111797946249707,Inf
+"UK-like: R0 1.1 with annual test-and-removal","No vaccination",0.5,0.0909090909090909,0.126141468111711,0.127532448904777,Inf
+"UK-like: R0 1.1 with annual test-and-removal","No vaccination",1,0.0909090909090909,0.1513754428878,0.152260206006692,Inf
+"UK-like: R0 1.1 with annual test-and-removal","No vaccination",2,0.0909090909090909,0.189185210377324,0.189498922483914,Inf
+"UK-like: R0 1.1 with annual test-and-removal","No vaccination",5,0.0909090909090909,0.266277416818891,0.266300154038308,Inf
+"UK-like: R0 1.1 with annual test-and-removal","Lifelong immunity, calves at birth",0,0.0909090909090909,1.66193637428787e-07,6.1688765145898e-37,9.00421443769114
+"UK-like: R0 1.1 with annual test-and-removal","Lifelong immunity, calves at birth",0.25,0.0909090909090909,0.00395858598524868,0.00394233428852305,Inf
+"UK-like: R0 1.1 with annual test-and-removal","Lifelong immunity, calves at birth",0.5,0.0909090909090909,0.00790283293662656,0.00787254996801388,Inf
+"UK-like: R0 1.1 with annual test-and-removal","Lifelong immunity, calves at birth",1,0.0909090909090909,0.0157499252680963,0.0156969144123233,Inf
+"UK-like: R0 1.1 with annual test-and-removal","Lifelong immunity, calves at birth",2,0.0909090909090909,0.031285201657883,0.0312033607867064,Inf
+"UK-like: R0 1.1 with annual test-and-removal","Lifelong immunity, calves at birth",5,0.0909090909090909,0.0767204107097687,0.0766235468238318,Inf
+"UK-like: R0 1.1 with annual test-and-removal","18-month immunity, annual whole-herd revaccination",0,0.0909090909090909,4.29092040871052e-08,1.93373961362419e-36,7.37825171786474
+"UK-like: R0 1.1 with annual test-and-removal","18-month immunity, annual whole-herd revaccination",0.25,0.0909090909090909,0.0040653918682759,0.00406535078943935,Inf
+"UK-like: R0 1.1 with annual test-and-removal","18-month immunity, annual whole-herd revaccination",0.5,0.0909090909090909,0.00811638837469599,0.00811634904338846,Inf
+"UK-like: R0 1.1 with annual test-and-removal","18-month immunity, annual whole-herd revaccination",1,0.0909090909090909,0.0161757509687407,0.0161757148995431,Inf
+"UK-like: R0 1.1 with annual test-and-removal","18-month immunity, annual whole-herd revaccination",2,0.0909090909090909,0.0321268725242738,0.0321268421460587,Inf
+"UK-like: R0 1.1 with annual test-and-removal","18-month immunity, annual whole-herd revaccination",5,0.0909090909090909,0.0786962070877162,0.0786961887283365,Inf

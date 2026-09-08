@@ -92,6 +92,7 @@ of R0 and for the whole 57-herd population.
 | `R/run_profile.R` | Protection that rises over 30 days, plateaus, and declines with time since dose, tracked by a 40-stage clock; five profile shapes against four revaccination schedules. Model in `R/profile.R`, which also takes a hazard-ratio curve from a trial (`profile_from_hazard`). | `profile_schedule.csv`, figs 17 and 18 |
 | `R/run_nonresponders.R` | Persistent non-responders (never protected by any dose) against random per-dose non-response; analytic ceiling on the tolerable persistent fraction by herd R0. | `nonresponders.csv`, figs 19a and 19b |
 | `R/run_import.R` | Infected animals bought into the herd each year, under the paper's regime and under 18-month immunity with annual revaccination. | `imports.csv`, fig 20 |
+| `R/run_import_uk.R` | The same import sweep in a low-R0 setting with annual test-and-removal (R0 1.1, infected animals removed at 0.7 per year), against the Ethiopian setting, with and without vaccination. | `imports_uk.csv`, fig 21 |
 | `R/run_tiles.R` | Booster schedule (none, every 24 months, annual, every 6 months) against birth-dose duration (6 to 24 months), with the booster's own duration equal to, twice, or independent of the birth dose, and a fourth panel for campaign coverage. Model in `R/boost.R`. | `tiles_booster_schedule.csv`, fig 15 |
 | `R/run_memo_figure.R` | Scenario ladder: one lever changed per row from the paper's base case. | `memo_scenarios.csv`, fig 14 |
 | `R/run_revaccination.R` | Duration of protection from 3 months to lifelong under three strategies: calves at birth only; calves plus an annual campaign vaccinating every unprotected uninfected animal; calves plus an annual campaign vaccinating every uninfected animal, restarting protection in those still protected. Each under gradual (exponential) and near-fixed (Erlang, k = 20) waning. Deterministic times for representative herds and the 57-herd population, time-averaged protected fraction, and a SimInf check. Model in `R/revaccination.R`. | `revacc_*.csv`, figs 9 to 11 |
@@ -124,6 +125,7 @@ Layout:
     R/run_profile.R     profile shape against schedule
     R/run_nonresponders.R  persistent against random non-response
     R/run_import.R      infected purchases
+    R/run_import_uk.R   infected purchases with test-and-removal, UK-like R0
     R/run_tiles.R       booster schedule tile figure
     R/run_memo_figure.R scenario ladder
     data/               three inputs copied from the authors' repository
@@ -297,19 +299,32 @@ as the interval: with 18-month protection and annual boosters, 90% coverage
 costs 4 years, 70% costs 24, and 50% removes elimination.
 
 Shape of protection (`run_profile.R`). Replacing all-or-nothing protection
-with a curve that rises over 30 days, holds at 58% and then declines
-changes the reading of the schedule grid. Under annual or six-monthly
-revaccination every shape gives 44 to 49 years in the median herd, because
-the interval is shorter than the plateau and the tail never matters. Under
+with a curve that rises, holds at 58% and then declines changes the reading
+of the schedule grid (figs 17 and 18). Under annual or six-monthly
+revaccination the shape barely matters for any profile whose plateau
+outlasts the interval: 42 to 46 years in the median herd. Under
 revaccination every 24 months the tail is everything: a step to 18 months
-gives 109 years, a plateau to 12 months gone by 24 gives 95, the same
-plateau with decline stretched to 36 months gives 54, and a plateau to 18
-months gone by 36 gives 47 (fig 18). What the schedule has to match is
-the protection-years per dose delivered inside the interval, which is the
-area under the trial's hazard-ratio curve, not a single duration.
-`profile_from_hazard` in `R/profile.R` converts such a curve into the
-model's input directly. The profile model applies the 30-day rise to every
-dose, so its times run a few years above the step-function figures.
+gives 97 years, a plateau to 12 months gone by 24 gives 85, the same
+plateau with decline stretched to 36 months gives 51, and a plateau to 18
+months gone by 36 gives 44. A short profile, rising over 2 months, holding
+to 9 and gone by 18, needs annual or six-monthly boosting and then costs
+about 20 years (62 to 63), and never eliminates with a 24-month interval.
+What the schedule has to match is the protection-years per dose delivered
+inside the interval, the area under the trial's hazard-ratio curve, not a
+single duration; `profile_from_hazard` in `R/profile.R` converts such a
+curve into the model's input.
+
+The credible intervals come from 40 joint posterior draws of direct and
+indirect efficacy from the DST1 fit, with the timing of each profile held
+fixed. Their lower ends sit 5 to 7 years below the medians. Their upper
+ends are "never" in every cell, because the lower tail of the efficacy
+posterior (direct 34%, indirect 46%) puts the reproduction number under
+vaccination at about 1 even with lifelong protection; the share of draws
+that never eliminate is 2 to 8% for the longer profiles under annual or
+six-monthly boosting and 12 to 20% for the short profile and the 24-month
+interval. The uncertainty in the efficacy estimates therefore matters at
+the feasibility boundary, not in the middle of the grid, and timing
+uncertainty is not represented at all until the trial supplies it.
 
 Non-responders (`run_nonresponders.R`). If a share of animals never
 responds to any dose, elimination stays possible only while the rest of the
@@ -333,6 +348,19 @@ life and starts a short chain that vaccination shortens but cannot remove.
 Time to elimination is therefore a within-herd quantity; across herds
 that trade, the outcome is the prevalence a programme can hold, and it is
 set by the sourcing of replacements.
+
+The same sweep in a UK-like herd (`run_import_uk.R`), with infected
+animals removed by annual testing at 0.7 per year and within-herd R0 of
+1.1 once that removal is counted, gives a different scale but the same
+shape (fig 21). Vaccination alone takes such a herd below 0.1% in 7 to 9
+years, against 41 to 45 in Ethiopia, because the reproduction number
+under vaccination is 0.12 and infected animals last about a year rather
+than a lifetime. Imports still set the floor: one infected purchase per
+100 head every four years holds prevalence near 0.4%, one a year near
+1.6%, and five a year near 8%, which is close to the unvaccinated level of
+9%. The floor scales with the import rate divided by the removal rate,
+so test-and-removal lowers it about fourfold relative to Ethiopia, and
+pre-movement testing, which lowers the import rate itself, does the rest.
 
 ## Interpretation
 

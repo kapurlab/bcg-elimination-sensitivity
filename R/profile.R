@@ -16,6 +16,10 @@
 #             otherwise identical to S.
 #   imports : infected animals entering the herd per year (constant N: the
 #             same number of births is withheld).
+#   v       : removal rate of infected animals by test-and-removal (per
+#             year), on top of natural turnover; removed animals are replaced
+#             by births. Within-herd R0 is defined with the removal included,
+#             so b0 = R0 (u + v).
 
 suppressPackageStartupMessages({library(deSolve)})
 
@@ -49,15 +53,16 @@ rhs_profile <- function(t, y, pr) {
   u <- pr$u; a <- pr$a; a_out <- if (pr$absorb) 0 else a   # last stage absorbing for lifelong profiles
   infP <- sweep(P, 2, 1 - pr$e_s * pr$prof_p, "*") * lam   # infections per stage
   infB <- sweep(B, 2, 1 - pr$e_s * pr$prof_b, "*") * lam
-  births <- u * N - pr$imp
+  v <- pr$v
+  births <- u * N + v * (I + IV) - pr$imp
   dS  <- (1 - pr$p) * (1 - pr$q) * births - lam * S - u * S + a_out * P[, k] + a_out * B[, k]
   dU  <- pr$q * births - lam * U - u * U
   # an animal infected in a stage with relative protection prof enters IV
   # (reduced infectiousness) with probability prof and I otherwise, so an
   # animal whose protection has fully lapsed is an ordinary infection
-  dI  <- lam * S + lam * U - u * I + pr$imp +
+  dI  <- lam * S + lam * U - (u + v) * I + pr$imp +
     rowSums(sweep(infP, 2, 1 - pr$prof_p, "*")) + rowSums(sweep(infB, 2, 1 - pr$prof_b, "*"))
-  dIV <- rowSums(sweep(infP, 2, pr$prof_p, "*")) + rowSums(sweep(infB, 2, pr$prof_b, "*")) - u * IV
+  dIV <- rowSums(sweep(infP, 2, pr$prof_p, "*")) + rowSums(sweep(infB, 2, pr$prof_b, "*")) - (u + v) * IV
   dP <- matrix(0, H, k); dB <- matrix(0, H, k)
   for (j in 1:k) {
     aj <- if (j == k) a_out else a
@@ -79,12 +84,12 @@ pulse_profile <- function(t, y, pr) {
 
 simulate_profile <- function(R0, N, e_s, e_i, prof_p, prof_b = prof_p, stage_len = 0.1,
                              interval = NA, cv = 1, p = 1, q = 0, imports = 0,
-                             absorb = FALSE, horizon = 200, dt = 0.25, u = U_MORT) {
+                             absorb = FALSE, horizon = 200, dt = 0.25, u = U_MORT, v = 0) {
   H <- length(R0); k <- length(prof_p)
   stopifnot(length(prof_b) == k)
   S0 <- N / R0; I0 <- N - S0
   y0 <- c(S0, rep(0, H), I0, rep(0, H), rep(0, 2 * H * k))
-  pr <- list(H = H, N = N, b0 = R0 * u, u = u, k = k, a = 1 / stage_len,
+  pr <- list(H = H, N = N, b0 = R0 * (u + v), u = u, v = v, k = k, a = 1 / stage_len,
              p = p, q = q, e_s = e_s, e_i = e_i, cv = cv, imp = imports,
              prof_p = prof_p, prof_b = prof_b, absorb = absorb)
   times <- seq(0, horizon, by = dt)

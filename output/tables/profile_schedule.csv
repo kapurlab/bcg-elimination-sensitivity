@@ -1,21 +1,25 @@
-"profile","area","schedule","interval","T"
-"Step: full to 18 months, then none",1.46083333333333,"No booster",NA,Inf
-"Plateau to 12 months, gone by 24",1.46083333333333,"No booster",NA,Inf
-"Plateau to 12 months, gone by 36",1.96083333333333,"No booster",NA,Inf
-"Plateau to 18 months, gone by 36",2.21083333333333,"No booster",NA,Inf
-"Plateau to 6 months, gone by 36",1.71083333333333,"No booster",NA,Inf
-"Step: full to 18 months, then none",1.46083333333333,"Booster every 6 months",0.5,46.8819490141791
-"Plateau to 12 months, gone by 24",1.46083333333333,"Booster every 6 months",0.5,46.9181540204033
-"Plateau to 12 months, gone by 36",1.96083333333333,"Booster every 6 months",0.5,46.8974943868676
-"Plateau to 18 months, gone by 36",2.21083333333333,"Booster every 6 months",0.5,46.8795915963378
-"Plateau to 6 months, gone by 36",1.71083333333333,"Booster every 6 months",0.5,47.8290126515795
-"Step: full to 18 months, then none",1.46083333333333,"Booster annually",1,44.5827476699122
-"Plateau to 12 months, gone by 24",1.46083333333333,"Booster annually",1,45.5683369209776
-"Plateau to 12 months, gone by 36",1.96083333333333,"Booster annually",1,44.4202507437226
-"Plateau to 18 months, gone by 36",2.21083333333333,"Booster annually",1,43.6201329135105
-"Plateau to 6 months, gone by 36",1.71083333333333,"Booster annually",1,49.0109201385311
-"Step: full to 18 months, then none",1.46083333333333,"Booster every 24 months",2,108.579311585614
-"Plateau to 12 months, gone by 24",1.46083333333333,"Booster every 24 months",2,94.8518437767373
-"Plateau to 12 months, gone by 36",1.96083333333333,"Booster every 24 months",2,54.4688369387682
-"Plateau to 18 months, gone by 36",2.21083333333333,"Booster every 24 months",2,46.8386858313435
-"Plateau to 6 months, gone by 36",1.71083333333333,"Booster every 24 months",2,74.3545341326813
+"profile","area","schedule","interval","T","T_med","T_lo","T_hi","share_never"
+"Step: full to 18 months, then none",1.46083333333333,"No booster",NA,Inf,Inf,Inf,Inf,1
+"Plateau to 12 months, gone by 24",1.46083333333333,"No booster",NA,Inf,Inf,Inf,Inf,1
+"Plateau to 12 months, gone by 36",1.96083333333333,"No booster",NA,Inf,Inf,Inf,Inf,1
+"Plateau to 18 months, gone by 36",2.21083333333333,"No booster",NA,Inf,Inf,Inf,Inf,1
+"Plateau to 6 months, gone by 36",1.71083333333333,"No booster",NA,Inf,Inf,Inf,Inf,1
+"Rise to 2 months, plateau to 9, gone by 18",1.04833333333333,"No booster",NA,Inf,Inf,Inf,Inf,1
+"Step: full to 18 months, then none",1.46083333333333,"Booster every 6 months",0.5,46.8819490141791,44.4243459814806,37.3641501029036,Inf,0.025
+"Plateau to 12 months, gone by 24",1.46083333333333,"Booster every 6 months",0.5,46.9181540204033,44.4578265406184,37.3815679870512,Inf,0.025
+"Plateau to 12 months, gone by 36",1.96083333333333,"Booster every 6 months",0.5,46.8974943868676,44.43877253943,37.3713268277408,Inf,0.025
+"Plateau to 18 months, gone by 36",2.21083333333333,"Booster every 6 months",0.5,46.8795915963378,44.4220238765219,37.3628541111006,Inf,0.025
+"Plateau to 6 months, gone by 36",1.71083333333333,"Booster every 6 months",0.5,47.8290126515795,45.2201184682937,37.7967103492089,Inf,0.025
+"Rise to 2 months, plateau to 9, gone by 18",1.04833333333333,"Booster every 6 months",0.5,66.7576425630537,61.7406569448681,46.9080740949348,Inf,0.05
+"Step: full to 18 months, then none",1.46083333333333,"Booster annually",1,44.5827476699122,42.4874097132961,36.3921666115089,Inf,0.025
+"Plateau to 12 months, gone by 24",1.46083333333333,"Booster annually",1,45.5683369209776,43.3294766603792,36.8358149946084,Inf,0.025
+"Plateau to 12 months, gone by 36",1.96083333333333,"Booster annually",1,44.4202507437226,42.3291245208181,36.2510315902519,Inf,0.025
+"Plateau to 18 months, gone by 36",2.21083333333333,"Booster annually",1,43.6201329135105,41.6396146606407,35.8536524749356,Inf,0.025
+"Plateau to 6 months, gone by 36",1.71083333333333,"Booster annually",1,49.0109201385311,46.2489181096491,38.4124803714039,Inf,0.025
+"Rise to 2 months, plateau to 9, gone by 18",1.04833333333333,"Booster annually",1,67.6284866523274,62.5056410273614,47.3295467798202,Inf,0.075
+"Step: full to 18 months, then none",1.46083333333333,"Booster every 24 months",2,108.579311585614,96.7911016374949,63.1381941239155,Inf,0.2
+"Plateau to 12 months, gone by 24",1.46083333333333,"Booster every 24 months",2,94.8518437767373,85.0229170636139,57.1513136009301,Inf,0.175
+"Plateau to 12 months, gone by 36",1.96083333333333,"Booster every 24 months",2,54.4688369387682,50.9767655189615,41.1441866142698,Inf,0.025
+"Plateau to 18 months, gone by 36",2.21083333333333,"Booster every 24 months",2,46.8386858313435,44.4771546941918,37.6109174447124,Inf,0.025
+"Plateau to 6 months, gone by 36",1.71083333333333,"Booster every 24 months",2,74.3545341326813,67.5877175948035,48.9789008671676,Inf,0.125
+"Rise to 2 months, plateau to 9, gone by 18",1.04833333333333,"Booster every 24 months",2,Inf,Inf,Inf,Inf,1
