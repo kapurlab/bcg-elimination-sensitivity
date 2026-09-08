@@ -21,7 +21,9 @@ For a reader who wants the model and the main result without the rest:
 2. `R/run_memo_figure.R` and `R/run_tiles.R` produce the two figures used in
    the memo (`output/figs/fig14_memo_scenarios.png` and
    `output/figs/fig16_interval_by_duration.png`) in a few minutes each.
-3. `memo.md` is the write-up those figures belong to.
+3. `translations/` holds English translations of Calmette and Guérin 1920
+   and 1924 and Guérin, Richart and Boissière 1927, the papers the
+   revaccination schedule goes back to.
 4. `sessionInfo.txt` records the R and package versions used.
 
 The authors' original model is reproduced, not modified: the transition
@@ -120,6 +122,7 @@ Layout:
     data/               three inputs copied from the authors' repository
     output/figs/        fig1 to fig15 (png)
     output/tables/      csv results
+    translations/       English translations of the 1920, 1924 and 1927 papers (CC BY 4.0)
 
 ## Results
 

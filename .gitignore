@@ -3,6 +3,7 @@ output/*.log
 .RData
 .Rproj.user
 .DS_Store
-*.pdf
 ~$*
-memo_vkedits.docx
+memo*.md
+memo*.docx
+/*.pdf

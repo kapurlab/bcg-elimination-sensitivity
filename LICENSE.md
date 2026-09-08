@@ -1,5 +1,9 @@
 # License
 
+The code, data products and figures are under CC BY-SA 4.0 as described
+below. The English translations in `translations/` are by Vivek Kapur and
+are released separately under CC BY 4.0; see `translations/README.md`.
+
 This repository is released under the Creative Commons Attribution-ShareAlike
 4.0 International license (CC BY-SA 4.0):
 https://creativecommons.org/licenses/by-sa/4.0/
