@@ -19,8 +19,10 @@ closed unless a replacement policy says otherwise.
 20 (left) and by year 50 (right), from 200 replicate herds at each of 110
 grid points (11 values of R0 from 1.2 to 8, 10 herd sizes from 5 to 200). Yellow points are the 57
 ETHICOBOTS herds at their posterior-median R0 and tested herd size. Herds
-below and left of a line are within reach of that programme. The status quo
-line marks chance fade-out in small herds; the annual whole-herd booster
+below and left of a line are within reach of that programme. By year 20
+almost every survey herd lies beyond every frontier; by year 50 the boosted
+and lifelong programmes reach all but the herds with R0 above about 6 and
+more than 50 head. The status quo line marks chance fade-out in small herds; the annual whole-herd booster
 with 18-month immunity tracks the paper's lifelong assumption; calves-only
 vaccination with 18-month immunity lies between. Script `R/run_frontier_fine.R`;
 table `frontier_fine.csv`.
