@@ -119,15 +119,11 @@ pC <- ggplot(cc, aes(y = Nf)) +
                 plot.margin = margin(4, 58, 4, 16))
 
 # ---- key, title, assembly ---------------------------------------------------
-key_row <- function(items, tiles = FALSE) {
-  g <- ggplot() + scale_x_continuous(limits = c(0, 60)) +
-    scale_y_continuous(limits = c(0.9, 1.1)) + scale_fill_identity() +
-    theme_void() + theme(legend.position = "none", plot.margin = margin(0, 16, 0, 16))
-  g
-}
-
-# Row 1: the three marker meanings
-key1 <- ggplot() +
+# One key row, for panel C's markers only. The herd-size ramp swatch is gone:
+# panels A and B are directly labelled at R0 = 2, so a colour legend repeats
+# information the reader already has. The former footer is gone too, since it
+# restated these same four marks in prose.
+key <- ggplot() +
   geom_point(aes(0.4, 1), size = 2.4, colour = INK) +
   annotate("text", x = 1.2, y = 1, hjust = 0, size = 2.9, colour = "grey25",
            label = "half the burden reduction achieved") +
@@ -138,45 +134,27 @@ key1 <- ggplot() +
   geom_point(aes(24.5, 1), size = 1.2, colour = "white") +
   annotate("text", x = 25.3, y = 1, hjust = 0, size = 2.9, colour = "grey25",
            label = "both milestones in the same year") +
-  scale_x_continuous(limits = c(0, 60)) + scale_y_continuous(limits = c(0.9, 1.1)) +
-  theme_void() + theme(legend.position = "none", plot.margin = margin(0, 16, 0, 16))
-
-# Row 2: the off-scale marker and the herd-size ramp
-key2 <- ggplot() +
-  annotate("text", x = 0.4, y = 1, hjust = 0, size = 2.6, colour = "grey40", label = "> 50 y") +
-  annotate("text", x = 3.2, y = 1, hjust = 0, size = 2.9, colour = "grey25",
+  annotate("text", x = 36.5, y = 1, hjust = 0, size = 2.6, colour = "grey40", label = "> 50 y") +
+  annotate("text", x = 39.1, y = 1, hjust = 0, size = 2.9, colour = "grey25",
            label = "not reached within 50 years") +
-  geom_tile(data = data.frame(x = 14.2 + (0:4) * 0.7, f = unname(size_pal)),
-            aes(x = x, y = 1, fill = f), width = 0.7, height = 0.06) +
-  scale_fill_identity() +
-  annotate("text", x = 18.4, y = 1, hjust = 0, size = 2.9, colour = "grey25",
-           label = "herd size 10 \u2192 200 animals") +
   scale_x_continuous(limits = c(0, 60)) + scale_y_continuous(limits = c(0.9, 1.1)) +
   theme_void() + theme(legend.position = "none", plot.margin = margin(0, 16, 0, 16))
-
-key <- plot_grid(key1, key2, ncol = 1)
 
 head_ <- ggdraw() +
   draw_label("Half the burden reduction arrives within roughly a decade in every stratum",
-             fontface = "bold", size = 13.5, x = 0.012, y = 0.72, hjust = 0) +
-  draw_label(paste("Across the twenty strata the halfway point falls between 2.5 and 11.5 years",
-                   "(panel C, shaded band = first decade). Whether herds go on to reach freedom",
-                   "of infection depends on herd size and within-herd transmission.", sep = "\n"),
-             size = 9, colour = "grey30", x = 0.012, y = 0.26, hjust = 0)
+             fontface = "bold", size = 13.5, x = 0.012, y = 0.66, hjust = 0) +
+  draw_label(paste("Across the twenty strata the halfway point falls between 2.5 and 11.5 years;",
+                   "the shaded band in C is that first decade."),
+             size = 9, colour = "grey30", x = 0.012, y = 0.22, hjust = 0)
 
-foot <- ggdraw() +
-  draw_label(paste("Panels A and B: one line per herd size, labelled at R0 = 2 where the strata",
-                   "separate. Panel C: segments run from the year half the burden reduction is",
-                   "achieved to the year half of herds are free of infection; a concentric marker",
-                   "means both fell in the same year, and a segment ending flat at 50 years did",
-                   "not reach that second milestone within the simulated horizon.", sep = "\n"),
-             size = 7.5, colour = "grey45", x = 0.012, hjust = 0)
+# named panels, not body: base R already defines body() and shadowing it here
+# silently yields a function object and an empty figure
+panels <- plot_grid(pA, pB, pC, ncol = 1, labels = c("A", "B", "C"),
+                    label_size = 14, label_x = 0.002,
+                    rel_heights = c(1, 1, 1.05), align = "v", axis = "lr")
 
-body <- plot_grid(pA, pB, pC, ncol = 1, labels = c("A", "B", "C"),
-                  label_size = 14, label_x = 0.002,
-                  rel_heights = c(1, 1, 1.05), align = "v", axis = "lr")
-fig <- plot_grid(head_, body, key, foot, ncol = 1,
-                 rel_heights = c(0.115, 1, 0.075, 0.105))
+fig <- plot_grid(head_, panels, key, ncol = 1,
+                 rel_heights = c(0.065, 1, 0.042))
 
 # Plotted data for each panel, as required alongside the figure
 write.csv(tr %>% select(R0, N, yr, remaining) %>% arrange(R0, N, yr),
