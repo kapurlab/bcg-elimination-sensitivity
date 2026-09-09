@@ -7,13 +7,17 @@
 #     with exposure m_calf times an adult's
 #   whole-herd booster campaigns every `interval` years that move S and
 #     V2..Vk to V1 (V0 calves are not re-dosed)
-# Returns the first year each replicate herd has no infected animal (Inf if never).
+# Returns the first year each replicate herd has no infected animal (Inf if
+# never). With detail = TRUE it returns a data frame that also carries the
+# mean within-herd prevalence over the first 20 and 50 years, a continuous
+# outcome that does not saturate in small herds the way "ever free" does.
 
 suppressPackageStartupMessages({library(SimInf); library(dplyr)})
 
 stoch_scenario <- function(R0, N, e_s = 0.58, e_i = 0.74, D = Inf, p = 1, k = 20,
                            interval = NA, cv = 1, tau_days = 0, m_calf = 1,
-                           reps = 200, years = 100, u = U_MORT) {
+                           reps = 200, years = 100, u = U_MORT,
+                           detail = FALSE, tstep = 30) {
   Vn <- paste0("V", 1:k); comp <- c("S", "V0", Vn, "I", "IV")
   Ntot <- paste(comp, collapse = "+")
   inf <- sprintf("b0*(I + (1-e_i)*IV)/(%s)", Ntot)
@@ -51,9 +55,20 @@ stoch_scenario <- function(R0, N, e_s = 0.58, e_i = 0.74, D = Inf, p = 1, k = 20
                          dest = 0L, n = 0L, proportion = cv, select = 1L, shift = 1L)
   }
   m <- mparse(transitions = tr, compartments = comp, ldata = ldata, gdata = gdata,
-              u0 = u0, tspan = seq(1, 365 * years, by = 30), events = events, E = E, N = Nm)
-  x <- trajectory(SimInf::run(m)); x$inf <- x$I + x$IV
-  x %>% group_by(node) %>% summarise(T = if (any(inf == 0)) min(time[inf == 0]) / 365 else Inf, .groups = "drop") %>% pull(T)
+              u0 = u0, tspan = seq(1, 365 * years, by = tstep), events = events, E = E, N = Nm)
+  x <- trajectory(SimInf::run(m))
+  x$inf <- x$I + x$IV; x$tot <- rowSums(x[, comp]); x$yr <- x$time / 365
+  # A small closed herd can die out entirely, which leaves prevalence
+  # undefined. Record that explicitly and average prevalence over the
+  # timepoints at which the herd still existed.
+  s <- x %>% group_by(node) %>%
+    summarise(T_free = if (any(inf == 0)) min(yr[inf == 0]) else Inf,
+              extinct_20 = any(tot[yr <= 20] == 0),
+              extinct_50 = any(tot[yr <= 50] == 0),
+              mean_prev_20 = mean((inf / tot)[yr <= 20 & tot > 0]),
+              mean_prev_50 = mean((inf / tot)[yr <= 50 & tot > 0]), .groups = "drop")
+  if (detail) return(as.data.frame(s))
+  s$T_free
 }
 
 # Summary used in the memo figures: median years to no infected animal

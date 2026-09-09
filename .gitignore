@@ -11,3 +11,4 @@ memo*.docx
 /*.pdf
 bundle_for_andrew.docx
 bundle_for_andrew_tables.zip
+output/raw/
