@@ -10,22 +10,26 @@
 #
 # Run from the project root: Rscript R/run_benefit_timing.R (about 5 min)
 
-suppressPackageStartupMessages({library(ggplot2); library(dplyr); library(tidyr)})
+suppressPackageStartupMessages({library(ggplot2); library(dplyr); library(tidyr); library(cowplot)})
 source("R/root.R"); source("R/model.R"); source("R/stochastic.R")
 set.seed(20260909)
 N_grid <- c(10, 20, 50, 100, 200); R0_grid <- c(1.5, 2, 3, 5)
 REPS <- 2000; YEARS <- 50; TSTEP <- 60
 
 grid <- expand.grid(N = N_grid, R0 = R0_grid)
-tr <- bind_rows(lapply(seq_len(nrow(grid)), function(i) {
-  g <- grid[i, ]
-  sq <- stoch_scenario(g$R0, g$N, p = 0, reps = REPS, years = YEARS, tstep = TSTEP, return_traj = TRUE)
-  vx <- stoch_scenario(g$R0, g$N, D = 1.5, p = 1, reps = REPS, years = YEARS, tstep = TSTEP, return_traj = TRUE)
-  data.frame(N = g$N, R0 = g$R0, yr = sq$yr,
-             prev_sq = sq$mean_prev, prev_vx = vx$mean_prev, p_free_vx = vx$p_free)
-}))
-tr <- tr %>% mutate(remaining = prev_vx / prev_sq)
-write.csv(tr, "output/tables/benefit_timing.csv", row.names = FALSE)
+CACHE <- "output/tables/benefit_timing.csv"
+if (file.exists(CACHE)) {
+  tr <- read.csv(CACHE); cat("using cached trajectories from", CACHE, "\n")
+} else {
+  tr <- bind_rows(lapply(seq_len(nrow(grid)), function(i) {
+    g <- grid[i, ]
+    sq <- stoch_scenario(g$R0, g$N, p = 0, reps = REPS, years = YEARS, tstep = TSTEP, return_traj = TRUE)
+    vx <- stoch_scenario(g$R0, g$N, D = 1.5, p = 1, reps = REPS, years = YEARS, tstep = TSTEP, return_traj = TRUE)
+    data.frame(N = g$N, R0 = g$R0, yr = sq$yr,
+               prev_sq = sq$mean_prev, prev_vx = vx$mean_prev, p_free_vx = vx$p_free)
+  })) %>% mutate(remaining = prev_vx / prev_sq)
+  write.csv(tr, CACHE, row.names = FALSE)
+}
 
 # summary: when is the burden reduction mostly achieved, and when are herds free
 sm <- tr %>% group_by(N, R0) %>%
@@ -65,4 +69,57 @@ cat("Benefit timing done\n")
 print(as.data.frame(sm))
 cat("\nmedian across strata: half the fall by year", half_med,
     "| 90% of the fall by year", median(sm$yr_90_of_fall, na.rm = TRUE),
-    "| half of herds free by year", free_med, "\n")
+    "| half of herds free by year", median(sm$yr_half_free, na.rm = TRUE),
+    "(in", sum(is.na(sm$yr_half_free)), "of 20 strata that is never reached)\n")
+
+# --- figure 38: the same strata, differentiated -------------------------------
+tr <- tr %>% mutate(Nf = factor(N, levels = N_grid))
+smf <- sm %>% mutate(Nf = factor(N, levels = N_grid))
+size_pal <- c("10" = "#BFDCF0", "20" = "#9BC8E6", "50" = "#7FB3D5", "100" = "#4E8FBF", "200" = "#1F5C8B")
+r0lab <- function(x) sprintf("within-herd R0 = %s", x)
+base_thm <- function() theme_pub(11) + theme(legend.position = "none", plot.margin = margin(4, 10, 4, 18))
+
+pA <- ggplot(tr, aes(yr, remaining, colour = Nf)) + geom_line(linewidth = 0.9) +
+  facet_wrap(~R0, nrow = 1, labeller = as_labeller(r0lab)) +
+  scale_colour_manual(values = size_pal) +
+  scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+  scale_x_continuous(breaks = c(0, 20, 40)) +
+  labs(x = NULL, y = "Infection remaining") + base_thm()
+pB <- ggplot(tr, aes(yr, p_free_vx, colour = Nf)) + geom_line(linewidth = 0.9) +
+  facet_wrap(~R0, nrow = 1, labeller = as_labeller(r0lab)) +
+  scale_colour_manual(values = size_pal) +
+  scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+  scale_x_continuous(breaks = c(0, 20, 40)) +
+  labs(x = "Years since the start of vaccination", y = "Herds free of infection") + base_thm()
+gg <- smf %>% mutate(never = is.na(yr_half_free), xend = ifelse(never, 51, yr_half_free))
+pC <- ggplot(gg, aes(y = Nf, colour = Nf)) +
+  geom_vline(xintercept = median(gg$yr_half_of_fall), linetype = 2, colour = "grey55") +
+  geom_segment(aes(x = yr_half_of_fall, xend = xend, yend = Nf), linewidth = 1.1) +
+  geom_segment(data = filter(gg, never), aes(x = 48, xend = 54, yend = Nf),
+               arrow = arrow(length = unit(0.10, "cm"), type = "closed"), linewidth = 1.1) +
+  geom_point(aes(x = yr_half_of_fall), size = 2.5) +
+  geom_point(data = filter(gg, !never), aes(x = xend), shape = 21, fill = "white", size = 2.5, stroke = 1.1) +
+  facet_wrap(~R0, ncol = 1, strip.position = "right",
+             labeller = as_labeller(function(x) sprintf("R0 = %s", x))) +
+  scale_colour_manual(values = size_pal) +
+  scale_x_continuous(limits = c(0, 56), breaks = c(0, 10, 20, 30, 40, 50)) +
+  labs(x = "Years since the start of vaccination", y = "Herd size (animals)") +
+  theme_pub(11) + theme(legend.position = "none", panel.grid.major.y = element_blank(),
+                        plot.margin = margin(4, 30, 4, 18))
+leg <- cowplot::get_plot_component(
+  ggplot(gg, aes(1, 1, colour = Nf)) + geom_point(size = 3) +
+    scale_colour_manual(values = size_pal, name = "Herd size (animals)") +
+    theme_pub(11) + theme(legend.position = "bottom") + guides(colour = guide_legend(nrow = 1)),
+  "guide-box-bottom")
+title <- ggdraw() + draw_label(
+  "Benefit is banked within a decade in every stratum; freedom depends on herd size and transmission",
+  fontface = "bold", size = 13, x = 0.012, hjust = 0, vjust = 0.5)
+cap <- ggdraw() + draw_label(paste(
+  "C: filled circle, the year half the burden reduction is achieved; open circle, the year half of herds are free;",
+  "arrow, not reached within 50 years."), size = 9.5, colour = "grey30", x = 0.012, hjust = 0, vjust = 0.5)
+body <- plot_grid(pA, pB, pC, ncol = 1, labels = c("A", "B", "C"), label_size = 14,
+                  label_x = 0.002, rel_heights = c(0.85, 0.85, 1.7), align = "v", axis = "lr")
+ggsave("output/figs/fig38_strata_detail.png",
+       plot_grid(title, body, cap, leg, ncol = 1, rel_heights = c(0.055, 1, 0.035, 0.045)),
+       width = 11, height = 11, dpi = 200, bg = "white")
+cat("fig38 written\n")
