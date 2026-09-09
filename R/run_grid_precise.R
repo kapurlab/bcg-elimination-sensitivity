@@ -116,10 +116,10 @@ d1 <- cmp %>% mutate(schedule = factor(schedule, levels = names(schedules)[-1]),
                      R0f = factor(R0), Nf = factor(N))
 g35 <- ggplot(d1, aes(R0f, Nf, fill = averted_20)) +
   geom_tile(colour = "white", linewidth = 1) +
-  geom_text(aes(label = pal_lab(averted_20), colour = averted_20 > 0.55), size = 3.4, fontface = "bold") +
-  scale_fill_gradient(low = "#FBEAEA", high = "#7B1E3A", limits = c(0, 1), labels = scales::percent,
+  geom_text(aes(label = pal_lab(averted_20)), colour = "grey15", size = 3.4, fontface = "bold") +
+  scale_fill_gradient(low = "#FDF3F4", high = "#C9788A", limits = range(d1$averted_20),
+                      labels = scales::percent,
                       name = "Share of infected animal-years averted over the first 20 years") +
-  scale_colour_manual(values = c(`FALSE` = "grey15", `TRUE` = "white"), guide = "none") +
   facet_wrap(~schedule, ncol = 2, labeller = label_wrap_gen(44)) +
   labs(x = "Within-herd R0", y = "Herd size (animals)",
        title = "What vaccination averts, measured in infected animal-years rather than eventual freedom",
@@ -136,10 +136,10 @@ d2 <- cmp %>% filter(schedule == "18-month immunity, calves only") %>%
          fill_val = ifelse(uncertain, NA, pmin(pmax(rel_to_lifelong, 0), 1)))
 g36 <- ggplot(d2, aes(R0f, Nf, fill = fill_val)) +
   geom_tile(colour = "white", linewidth = 1) +
-  geom_text(aes(label = label, colour = !is.na(fill_val) & fill_val > 0.55), size = 3.6, fontface = "bold") +
-  scale_fill_gradient(low = "#FFF9DB", high = "#B7950B", limits = c(0, 1), labels = scales::percent,
+  geom_text(aes(label = label), colour = "grey15", size = 3.6, fontface = "bold") +
+  scale_fill_gradient(low = "#FFFBEA", high = "#E0C25E",
+                      limits = range(d2$fill_val, na.rm = TRUE), labels = scales::percent,
                       na.value = "grey85", name = "Share of the lifelong vaccine's benefit retained") +
-  scale_colour_manual(values = c(`FALSE` = "grey15", `TRUE` = "white"), guide = "none") +
   labs(x = "Within-herd R0", y = "Herd size (animals)",
        title = "Where an 18-month vaccine given only to calves still does most of the job",
        subtitle = sprintf("Infection-years averted over 20 years, as a share of what lifelong immunity averts. %d replicate herds per cell.\nCells marked 'wide' have a 95%% interval broader than 20 points and are not reported as a point estimate.", REPS)) +

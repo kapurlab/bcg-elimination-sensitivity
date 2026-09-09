@@ -17,7 +17,7 @@ suppressPackageStartupMessages({library(SimInf); library(dplyr)})
 stoch_scenario <- function(R0, N, e_s = 0.58, e_i = 0.74, D = Inf, p = 1, k = 20,
                            interval = NA, cv = 1, tau_days = 0, m_calf = 1,
                            reps = 200, years = 100, u = U_MORT,
-                           detail = FALSE, tstep = 30) {
+                           detail = FALSE, tstep = 30, return_traj = FALSE) {
   Vn <- paste0("V", 1:k); comp <- c("S", "V0", Vn, "I", "IV")
   Ntot <- paste(comp, collapse = "+")
   inf <- sprintf("b0*(I + (1-e_i)*IV)/(%s)", Ntot)
@@ -58,6 +58,10 @@ stoch_scenario <- function(R0, N, e_s = 0.58, e_i = 0.74, D = Inf, p = 1, k = 20
               u0 = u0, tspan = seq(1, 365 * years, by = tstep), events = events, E = E, N = Nm)
   x <- trajectory(SimInf::run(m))
   x$inf <- x$I + x$IV; x$tot <- rowSums(x[, comp]); x$yr <- x$time / 365
+  if (return_traj) {
+    return(x %>% filter(tot > 0) %>% group_by(yr) %>%
+             summarise(mean_prev = mean(inf / tot), p_free = mean(inf == 0), .groups = "drop"))
+  }
   # A small closed herd can die out entirely, which leaves prevalence
   # undefined. Record that explicitly and average prevalence over the
   # timepoints at which the herd still existed.
