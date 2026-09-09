@@ -1,0 +1,181 @@
+"R0","N","schedule","p_free_10y","p_free_20y","p_free_50y","p_free_100y","median_T","Rv"
+1.2,5,"No vaccination (status quo)",0.77,0.92,0.995,1,3.20821917808219,1.2
+1.5,5,"No vaccination (status quo)",0.625,0.855,0.995,1,7.07123287671233,1.5
+2,5,"No vaccination (status quo)",0.44,0.74,0.95,0.995,11.9616438356164,2
+3,5,"No vaccination (status quo)",0.34,0.555,0.83,0.985,16.9753424657534,3
+5,5,"No vaccination (status quo)",0.14,0.37,0.665,0.935,32.5506849315069,5
+8,5,"No vaccination (status quo)",0.13,0.24,0.55,0.81,43.5232876712329,8
+1.2,10,"No vaccination (status quo)",0.515,0.74,0.97,1,9.20821917808219,1.2
+1.5,10,"No vaccination (status quo)",0.29,0.55,0.88,1,17.9616438356164,1.5
+2,10,"No vaccination (status quo)",0.175,0.345,0.69,0.895,29.386301369863,2
+3,10,"No vaccination (status quo)",0.04,0.14,0.3,0.615,76.4821917808219,3
+5,10,"No vaccination (status quo)",0.02,0.04,0.08,0.17,Inf,5
+8,10,"No vaccination (status quo)",0.01,0.03,0.07,0.11,Inf,8
+1.2,20,"No vaccination (status quo)",0.395,0.585,0.89,1,13.7287671232877,1.2
+1.5,20,"No vaccination (status quo)",0.055,0.23,0.6,0.855,37.9753424657534,1.5
+2,20,"No vaccination (status quo)",0.01,0.05,0.205,0.425,Inf,2
+3,20,"No vaccination (status quo)",0,0,0.01,0.02,Inf,3
+5,20,"No vaccination (status quo)",0,0,0,0,Inf,5
+8,20,"No vaccination (status quo)",0,0,0,0,Inf,8
+1.2,50,"No vaccination (status quo)",0.055,0.215,0.6,0.79,42.4958904109589,1.2
+1.5,50,"No vaccination (status quo)",0.005,0.03,0.115,0.22,Inf,1.5
+2,50,"No vaccination (status quo)",0,0,0,0,Inf,2
+3,50,"No vaccination (status quo)",0,0,0,0,Inf,3
+5,50,"No vaccination (status quo)",0,0,0,0,Inf,5
+8,50,"No vaccination (status quo)",0,0,0,0,Inf,8
+1.2,100,"No vaccination (status quo)",0,0.025,0.21,0.45,Inf,1.2
+1.5,100,"No vaccination (status quo)",0,0,0,0.005,Inf,1.5
+2,100,"No vaccination (status quo)",0,0,0,0,Inf,2
+3,100,"No vaccination (status quo)",0,0,0,0,Inf,3
+5,100,"No vaccination (status quo)",0,0,0,0,Inf,5
+8,100,"No vaccination (status quo)",0,0,0,0,Inf,8
+1.2,200,"No vaccination (status quo)",0,0,0.025,0.09,Inf,1.2
+1.5,200,"No vaccination (status quo)",0,0,0,0,Inf,1.5
+2,200,"No vaccination (status quo)",0,0,0,0,Inf,2
+3,200,"No vaccination (status quo)",0,0,0,0,Inf,3
+5,200,"No vaccination (status quo)",0,0,0,0,Inf,5
+8,200,"No vaccination (status quo)",0,0,0,0,Inf,8
+1.2,5,"Lifelong immunity, calves only (paper assumption)",0.88,0.975,1,1,3.41369863013699,0.13104
+1.5,5,"Lifelong immunity, calves only (paper assumption)",0.81,0.98,1,1,6.12602739726027,0.1638
+2,5,"Lifelong immunity, calves only (paper assumption)",0.56,0.945,1,1,8.63287671232877,0.2184
+3,5,"Lifelong immunity, calves only (paper assumption)",0.51,0.925,1,1,9.90684931506849,0.3276
+5,5,"Lifelong immunity, calves only (paper assumption)",0.4,0.795,1,1,11.2219178082192,0.546
+8,5,"Lifelong immunity, calves only (paper assumption)",0.34,0.79,0.995,1,13.1534246575342,0.8736
+1.2,10,"Lifelong immunity, calves only (paper assumption)",0.695,0.97,1,1,6.24931506849315,0.13104
+1.5,10,"Lifelong immunity, calves only (paper assumption)",0.555,0.935,1,1,9.20821917808219,0.1638
+2,10,"Lifelong immunity, calves only (paper assumption)",0.385,0.855,1,1,11.8383561643836,0.2184
+3,10,"Lifelong immunity, calves only (paper assumption)",0.255,0.795,0.99,1,12.9890410958904,0.3276
+5,10,"Lifelong immunity, calves only (paper assumption)",0.205,0.665,1,1,16.4,0.546
+8,10,"Lifelong immunity, calves only (paper assumption)",0.065,0.465,0.965,1,21.0027397260274,0.8736
+1.2,20,"Lifelong immunity, calves only (paper assumption)",0.585,0.96,1,1,8.96164383561644,0.13104
+1.5,20,"Lifelong immunity, calves only (paper assumption)",0.22,0.83,1,1,13.6054794520548,0.1638
+2,20,"Lifelong immunity, calves only (paper assumption)",0.13,0.73,0.995,1,15.7424657534247,0.2184
+3,20,"Lifelong immunity, calves only (paper assumption)",0.04,0.54,1,1,19.3178082191781,0.3276
+5,20,"Lifelong immunity, calves only (paper assumption)",0.025,0.375,0.98,1,22.9342465753425,0.546
+8,20,"Lifelong immunity, calves only (paper assumption)",0.005,0.22,0.915,1,28.2356164383562,0.8736
+1.2,50,"Lifelong immunity, calves only (paper assumption)",0.205,0.845,1,1,14.3041095890411,0.13104
+1.5,50,"Lifelong immunity, calves only (paper assumption)",0.035,0.595,1,1,18.6191780821918,0.1638
+2,50,"Lifelong immunity, calves only (paper assumption)",0.01,0.415,1,1,21.413698630137,0.2184
+3,50,"Lifelong immunity, calves only (paper assumption)",0,0.225,0.99,1,24.413698630137,0.3276
+5,50,"Lifelong immunity, calves only (paper assumption)",0,0.105,0.97,1,29.427397260274,0.546
+8,50,"Lifelong immunity, calves only (paper assumption)",0,0.015,0.69,0.98,40.0301369863014,0.8736
+1.2,100,"Lifelong immunity, calves only (paper assumption)",0.04,0.575,1,1,18.8246575342466,0.13104
+1.5,100,"Lifelong immunity, calves only (paper assumption)",0,0.395,1,1,21.6602739726027,0.1638
+2,100,"Lifelong immunity, calves only (paper assumption)",0,0.225,0.985,1,24.413698630137,0.2184
+3,100,"Lifelong immunity, calves only (paper assumption)",0,0.07,0.995,1,28.2767123287671,0.3276
+5,100,"Lifelong immunity, calves only (paper assumption)",0,0.005,0.91,1,34.4821917808219,0.546
+8,100,"Lifelong immunity, calves only (paper assumption)",0,0,0.41,0.96,52.5643835616438,0.8736
+1.2,200,"Lifelong immunity, calves only (paper assumption)",0,0.41,1,1,21.7013698630137,0.13104
+1.5,200,"Lifelong immunity, calves only (paper assumption)",0,0.14,1,1,25.1534246575342,0.1638
+2,200,"Lifelong immunity, calves only (paper assumption)",0,0.03,0.99,1,28.0712328767123,0.2184
+3,200,"Lifelong immunity, calves only (paper assumption)",0,0,0.98,1,32.4684931506849,0.3276
+5,200,"Lifelong immunity, calves only (paper assumption)",0,0,0.835,1,40.358904109589,0.546
+8,200,"Lifelong immunity, calves only (paper assumption)",0,0,0.19,0.9,65.7561643835616,0.8736
+1.2,5,"18-month immunity, calves only",0.81,0.95,0.995,1,3.4958904109589,0.889281826056505
+1.5,5,"18-month immunity, calves only",0.685,0.88,1,1,7.15342465753425,1.11160228257063
+2,5,"18-month immunity, calves only",0.54,0.83,0.99,1,9.08493150684932,1.48213637676084
+3,5,"18-month immunity, calves only",0.465,0.755,0.995,1,10.7287671232877,2.22320456514126
+5,5,"18-month immunity, calves only",0.325,0.59,0.93,1,15.8246575342466,3.7053409419021
+8,5,"18-month immunity, calves only",0.19,0.445,0.865,0.995,22.6465753424658,5.92854550704337
+1.2,10,"18-month immunity, calves only",0.63,0.865,0.995,1,7.48219178082192,0.889281826056505
+1.5,10,"18-month immunity, calves only",0.49,0.785,0.965,1,10.0712328767123,1.11160228257063
+2,10,"18-month immunity, calves only",0.22,0.585,0.935,1,17.0575342465753,1.48213637676084
+3,10,"18-month immunity, calves only",0.18,0.465,0.83,0.97,21.413698630137,2.22320456514126
+5,10,"18-month immunity, calves only",0.065,0.24,0.58,0.825,42.2082191780822,3.7053409419021
+8,10,"18-month immunity, calves only",0.055,0.165,0.46,0.69,54.5369863013699,5.92854550704337
+1.2,20,"18-month immunity, calves only",0.49,0.805,0.995,1,10.7287671232877,0.889281826056505
+1.5,20,"18-month immunity, calves only",0.19,0.595,0.935,1,18.0849315068493,1.11160228257063
+2,20,"18-month immunity, calves only",0.07,0.325,0.79,0.965,28.0301369863014,1.48213637676084
+3,20,"18-month immunity, calves only",0.03,0.11,0.435,0.69,63.2082191780822,2.22320456514126
+5,20,"18-month immunity, calves only",0.01,0.025,0.13,0.265,Inf,3.7053409419021
+8,20,"18-month immunity, calves only",0,0,0.03,0.045,Inf,5.92854550704337
+1.2,50,"18-month immunity, calves only",0.12,0.515,0.96,1,18.7424657534247,0.889281826056505
+1.5,50,"18-month immunity, calves only",0.01,0.18,0.755,0.965,33.8246575342466,1.11160228257063
+2,50,"18-month immunity, calves only",0,0.045,0.31,0.69,73.9342465753425,1.48213637676084
+3,50,"18-month immunity, calves only",0,0.005,0.025,0.06,Inf,2.22320456514126
+5,50,"18-month immunity, calves only",0,0,0,0,Inf,3.7053409419021
+8,50,"18-month immunity, calves only",0,0,0,0,Inf,5.92854550704337
+1.2,100,"18-month immunity, calves only",0.005,0.185,0.855,0.995,30.2082191780822,0.889281826056505
+1.5,100,"18-month immunity, calves only",0,0.03,0.5,0.86,49.7698630136986,1.11160228257063
+2,100,"18-month immunity, calves only",0,0,0.05,0.155,Inf,1.48213637676084
+3,100,"18-month immunity, calves only",0,0,0,0,Inf,2.22320456514126
+5,100,"18-month immunity, calves only",0,0,0,0,Inf,3.7053409419021
+8,100,"18-month immunity, calves only",0,0,0,0,Inf,5.92854550704337
+1.2,200,"18-month immunity, calves only",0,0.05,0.7,0.995,40.4,0.889281826056505
+1.5,200,"18-month immunity, calves only",0,0,0.155,0.565,90.8246575342466,1.11160228257063
+2,200,"18-month immunity, calves only",0,0,0,0.01,Inf,1.48213637676084
+3,200,"18-month immunity, calves only",0,0,0,0,Inf,2.22320456514126
+5,200,"18-month immunity, calves only",0,0,0,0,Inf,3.7053409419021
+8,200,"18-month immunity, calves only",0,0,0,0,Inf,5.92854550704337
+1.2,5,"18-month immunity, annual whole-herd booster",0.9,1,1,1,2.87945205479452,0.889281826056505
+1.5,5,"18-month immunity, annual whole-herd booster",0.785,0.98,1,1,5.75616438356164,1.11160228257063
+2,5,"18-month immunity, annual whole-herd booster",0.65,0.92,1,1,8.26301369863014,1.48213637676084
+3,5,"18-month immunity, annual whole-herd booster",0.625,0.905,1,1,8.22191780821918,2.22320456514126
+5,5,"18-month immunity, annual whole-herd booster",0.415,0.855,0.995,1,10.9342465753425,3.7053409419021
+8,5,"18-month immunity, annual whole-herd booster",0.305,0.71,0.995,1,13.8109589041096,5.92854550704337
+1.2,10,"18-month immunity, annual whole-herd booster",0.76,0.965,1,1,5.34520547945205,0.889281826056505
+1.5,10,"18-month immunity, annual whole-herd booster",0.605,0.945,1,1,8.13972602739726,1.11160228257063
+2,10,"18-month immunity, annual whole-herd booster",0.46,0.88,1,1,10.441095890411,1.48213637676084
+3,10,"18-month immunity, annual whole-herd booster",0.265,0.815,1,1,13.6876712328767,2.22320456514126
+5,10,"18-month immunity, annual whole-herd booster",0.22,0.72,1,1,15.7835616438356,3.7053409419021
+8,10,"18-month immunity, annual whole-herd booster",0.11,0.465,0.99,1,21.0027397260274,5.92854550704337
+1.2,20,"18-month immunity, annual whole-herd booster",0.675,0.935,1,1,7.35890410958904,0.889281826056505
+1.5,20,"18-month immunity, annual whole-herd booster",0.285,0.86,0.995,1,13.1123287671233,1.11160228257063
+2,20,"18-month immunity, annual whole-herd booster",0.205,0.8,1,1,14.5917808219178,1.48213637676084
+3,20,"18-month immunity, annual whole-herd booster",0.095,0.66,1,1,16.9342465753425,2.22320456514126
+5,20,"18-month immunity, annual whole-herd booster",0.01,0.365,0.985,1,22.1534246575342,3.7053409419021
+8,20,"18-month immunity, annual whole-herd booster",0.005,0.205,0.88,1,28.7287671232877,5.92854550704337
+1.2,50,"18-month immunity, annual whole-herd booster",0.33,0.895,1,1,11.9205479452055,0.889281826056505
+1.5,50,"18-month immunity, annual whole-herd booster",0.065,0.695,1,1,17.2630136986301,1.11160228257063
+2,50,"18-month immunity, annual whole-herd booster",0.01,0.49,0.99,1,20.0986301369863,1.48213637676084
+3,50,"18-month immunity, annual whole-herd booster",0.005,0.3,0.995,1,23.386301369863,2.22320456514126
+5,50,"18-month immunity, annual whole-herd booster",0,0.115,0.98,1,29.427397260274,3.7053409419021
+8,50,"18-month immunity, annual whole-herd booster",0,0.01,0.68,0.975,43.9342465753425,5.92854550704337
+1.2,100,"18-month immunity, annual whole-herd booster",0.08,0.73,1,1,16.441095890411,0.889281826056505
+1.5,100,"18-month immunity, annual whole-herd booster",0.01,0.51,1,1,19.9753424657534,1.11160228257063
+2,100,"18-month immunity, annual whole-herd booster",0,0.185,0.995,1,24.5780821917808,1.48213637676084
+3,100,"18-month immunity, annual whole-herd booster",0,0.065,0.995,1,27.9068493150685,2.22320456514126
+5,100,"18-month immunity, annual whole-herd booster",0,0.005,0.895,1,35.3452054794521,3.7053409419021
+8,100,"18-month immunity, annual whole-herd booster",0,0,0.36,0.9,57.4958904109589,5.92854550704337
+1.2,200,"18-month immunity, annual whole-herd booster",0.005,0.485,1,1,20.3041095890411,0.889281826056505
+1.5,200,"18-month immunity, annual whole-herd booster",0,0.225,1,1,24.0438356164384,1.11160228257063
+2,200,"18-month immunity, annual whole-herd booster",0,0.08,0.995,1,27.0027397260274,1.48213637676084
+3,200,"18-month immunity, annual whole-herd booster",0,0.01,0.955,1,33.0027397260274,2.22320456514126
+5,200,"18-month immunity, annual whole-herd booster",0,0,0.77,1,41.7972602739726,3.7053409419021
+8,200,"18-month immunity, annual whole-herd booster",0,0,0.17,0.845,69.2082191780822,5.92854550704337
+1.2,5,"18-month immunity, six-monthly whole-herd booster",0.895,0.985,1,1,2.59178082191781,0.889281826056505
+1.5,5,"18-month immunity, six-monthly whole-herd booster",0.79,0.945,1,1,5.42739726027397,1.11160228257063
+2,5,"18-month immunity, six-monthly whole-herd booster",0.655,0.97,1,1,7.48219178082192,1.48213637676084
+3,5,"18-month immunity, six-monthly whole-herd booster",0.555,0.915,1,1,8.92054794520548,2.22320456514126
+5,5,"18-month immunity, six-monthly whole-herd booster",0.44,0.845,1,1,10.7698630136986,3.7053409419021
+8,5,"18-month immunity, six-monthly whole-herd booster",0.385,0.8,1,1,12.3315068493151,5.92854550704337
+1.2,10,"18-month immunity, six-monthly whole-herd booster",0.77,0.98,1,1,6.08493150684932,0.889281826056505
+1.5,10,"18-month immunity, six-monthly whole-herd booster",0.625,0.95,1,1,7.93424657534247,1.11160228257063
+2,10,"18-month immunity, six-monthly whole-herd booster",0.525,0.895,1,1,9.24931506849315,1.48213637676084
+3,10,"18-month immunity, six-monthly whole-herd booster",0.295,0.82,1,1,13.7287671232877,2.22320456514126
+5,10,"18-month immunity, six-monthly whole-herd booster",0.14,0.7,0.995,1,15.7835616438356,3.7053409419021
+8,10,"18-month immunity, six-monthly whole-herd booster",0.13,0.495,0.97,1,20.2219178082192,5.92854550704337
+1.2,20,"18-month immunity, six-monthly whole-herd booster",0.635,0.94,1,1,7.89315068493151,0.889281826056505
+1.5,20,"18-month immunity, six-monthly whole-herd booster",0.275,0.89,1,1,12.6602739726027,1.11160228257063
+2,20,"18-month immunity, six-monthly whole-herd booster",0.2,0.805,0.995,1,15.0027397260274,1.48213637676084
+3,20,"18-month immunity, six-monthly whole-herd booster",0.08,0.615,1,1,17.427397260274,2.22320456514126
+5,20,"18-month immunity, six-monthly whole-herd booster",0.035,0.45,0.985,1,21.0027397260274,3.7053409419021
+8,20,"18-month immunity, six-monthly whole-herd booster",0.005,0.245,0.905,1,28.1945205479452,5.92854550704337
+1.2,50,"18-month immunity, six-monthly whole-herd booster",0.315,0.845,1,1,13.3178082191781,0.889281826056505
+1.5,50,"18-month immunity, six-monthly whole-herd booster",0.055,0.71,1,1,16.3178082191781,1.11160228257063
+2,50,"18-month immunity, six-monthly whole-herd booster",0.015,0.55,0.995,1,19.1123287671233,1.48213637676084
+3,50,"18-month immunity, six-monthly whole-herd booster",0,0.315,1,1,23.2219178082192,2.22320456514126
+5,50,"18-month immunity, six-monthly whole-herd booster",0,0.105,0.97,1,28.4821917808219,3.7053409419021
+8,50,"18-month immunity, six-monthly whole-herd booster",0,0,0.71,0.99,41.6328767123288,5.92854550704337
+1.2,100,"18-month immunity, six-monthly whole-herd booster",0.07,0.775,1,1,16.441095890411,0.889281826056505
+1.5,100,"18-month immunity, six-monthly whole-herd booster",0,0.535,1,1,19.1945205479452,1.11160228257063
+2,100,"18-month immunity, six-monthly whole-herd booster",0,0.32,1,1,22.7698630136986,1.48213637676084
+3,100,"18-month immunity, six-monthly whole-herd booster",0,0.075,0.98,1,27.1260273972603,2.22320456514126
+5,100,"18-month immunity, six-monthly whole-herd booster",0,0.015,0.88,1,35.1397260273973,3.7053409419021
+8,100,"18-month immunity, six-monthly whole-herd booster",0,0,0.505,0.94,49.7287671232877,5.92854550704337
+1.2,200,"18-month immunity, six-monthly whole-herd booster",0.005,0.535,0.995,1,19.358904109589,0.889281826056505
+1.5,200,"18-month immunity, six-monthly whole-herd booster",0,0.29,1,1,23.0164383561644,1.11160228257063
+2,200,"18-month immunity, six-monthly whole-herd booster",0,0.06,0.995,1,26.7150684931507,1.48213637676084
+3,200,"18-month immunity, six-monthly whole-herd booster",0,0.02,0.975,1,30.6191780821918,2.22320456514126
+5,200,"18-month immunity, six-monthly whole-herd booster",0,0,0.835,1,40.358904109589,3.7053409419021
+8,200,"18-month immunity, six-monthly whole-herd booster",0,0,0.175,0.845,66.2493150684931,5.92854550704337
